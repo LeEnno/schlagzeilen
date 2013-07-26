@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://LeEnno.github.io/schalgzeilen_site/dies-ist-noch-ein-test/</loc>
+        <loc>http://leenno.github.io/schlagzeilen//dies-ist-noch-ein-test/</loc>
         <lastmod>2013-07-26T22:55:33+02:00</lastmod>
     </url>
     <url>
-        <loc>http://LeEnno.github.io/schalgzeilen_site/blog/archives/</loc>
+        <loc>http://leenno.github.io/schlagzeilen//blog/archives/</loc>
         <lastmod>2013-07-26T22:55:33+02:00</lastmod>
     </url>
     <url>
-        <loc>http://LeEnno.github.io/schalgzeilen_site/</loc>
+        <loc>http://leenno.github.io/schlagzeilen//</loc>
         <lastmod>2013-07-26T22:55:33+02:00</lastmod>
     </url>
     <url>
-        <loc>http://LeEnno.github.io/schalgzeilen_site/robots.txt</loc>
+        <loc>http://leenno.github.io/schlagzeilen//robots.txt</loc>
         <lastmod>2013-07-26T22:55:33+02:00</lastmod>
     </url>
     <url>
-        <loc>http://LeEnno.github.io/schalgzeilen_site/ueber-mich/</loc>
+        <loc>http://leenno.github.io/schlagzeilen//ueber-mich/</loc>
         <lastmod>2013-07-26T22:55:33+02:00</lastmod>
     </url>
 </urlset>
