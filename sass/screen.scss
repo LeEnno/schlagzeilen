@@ -14,7 +14,7 @@ body {margin:0; padding:0; font-family:Helvetica, Arial, sans-serif; font-size:1
 a {text-decoration:none;}
 a:hover {text-decoration:underline;}
 
-.header {height:279px; width:100%; margin-bottom:40px; background:image-url('../images/bg.jpg') center center no-repeat; background-size:100%; color:white;}
+.header {height:279px; width:100%; margin-bottom:40px; background:url('../images/bg.jpg') center center no-repeat; background-size:100%; color:white;}
 .header h1 {height:200px; margin:0 0 20px; line-height:200px; font-family:"Helvetica Neue"; font-weight:100; font-size:80px; letter-spacing:1px; text-transform:uppercase; text-align:center;}
 .header h1 a:hover {text-decoration:none;}
 .header strong {font-weight:200;}
