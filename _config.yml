@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://LeEnno.github.io/schalgzeilen_site
+url: http://leenno.github.io/schlagzeilen/
 title: My Octopress Blog
 subtitle: A blogging framework for hackers.
 author: Your Name
@@ -26,7 +26,7 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /
+root: /schlagzeilen
 permalink: /:title/
 source: source
 destination: public
