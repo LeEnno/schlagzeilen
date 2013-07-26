@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://LeEnno.github.io/schalgzeilen_site/sitemap.xml 
