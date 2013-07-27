@@ -1,12 +1,8 @@
 ---
 layout: page
-title: "about"
+title: "Über mich"
 date: 2013-06-15 20:59
-comments: true
-sharing: true
-footer: true
+hide_date: true
 ---
-
-# Huhu!
 
 > Na was geht?

@@ -1,5 +1,10 @@
+#encoding: utf-8
 module Octopress
   module Date
+
+    MONTHNAMES_DE = [nil,
+          "Januar", "Februar", "März", "April", "Mai", "Juni",
+          "Juli", "August", "September", "Oktober", "November", "Dezember" ]
 
     # Returns a datetime if the input is a string
     def datetime(date)
@@ -36,6 +41,7 @@ module Octopress
       if format.nil? || format.empty? || format == "ordinal"
         date_formatted = ordinalize(date)
       else
+        format.gsub!(/%B/, MONTHNAMES_DE[date.mon])
         date_formatted = date.strftime(format)
         date_formatted.gsub!(/%o/, ordinal(date.strftime('%e').to_i))
       end
@@ -93,6 +99,13 @@ module Jekyll
       date_format = self.site.config['date_format']
       self.data['date_formatted']    = format_date(self.data['date'], date_format) if self.data.has_key?('date')
       self.data['updated_formatted'] = format_date(self.data['updated'], date_format) if self.data.has_key?('updated')
+    end
+  end
+
+  module Filters
+    include Octopress::Date
+    def date(date, format)
+      format_date(date, format)
     end
   end
 end

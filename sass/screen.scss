@@ -1,40 +1,94 @@
-@import "compass";
-// @include global-reset;
-// @include reset-html5;
+// @import "compass";
 
-// @import "custom/colors";
-// @import "custom/fonts";
-// @import "custom/layout";
-// @import "base";
-// @import "partials";
-// @import "plugins/**/*";
-// @import "custom/styles";
 
-body {margin:0; padding:0; font-family:Helvetica, Arial, sans-serif; font-size:18px; font-weight:400; line-height:30px; color:#444;}
-a {text-decoration:none;}
-a:hover {text-decoration:underline;}
+/* VARS
+ * -----------------------------------------------------------------------------
+ */
+$contentWidth: 600px;
+$textColor:    #444;
+$linkColor:    #b98084;
 
-.header {height:279px; width:100%; margin-bottom:40px; background:url('../images/bg.jpg') center center no-repeat; background-size:100%; color:white;}
-.header h1 {height:200px; margin:0 0 20px; line-height:200px; font-family:"HelveticaNeue-UltraLight", "Helvetica Neue Ultra Light", "HelveticaNeue-Light", "Helvetica Neue Light", "HelveticaNeue", "Helvetica Neue"; font-weight:normal; font-size:80px; letter-spacing:5px; text-transform:uppercase; text-align:center;}
-.header h1 a:hover {text-decoration:none;}
-.header strong {font-family:"HelveticaNeue-Light", "Helvetica Neue Light"; font-weight:normal;}
-.header a {color:white;}
 
-.main-nav {list-style:none; margin:0; padding:0; text-align:center;}
-.main-nav li {display:inline-block; text-transform:uppercase; margin-right:40px;}
-.main-nav li:last-child {margin-right:0;}
-.main-nav a {letter-spacing:3px; font-weight:100; font-size:18px;}
+/* BASE + RESET
+ * -----------------------------------------------------------------------------
+ */
+body {margin:0; padding:0; font-family:Helvetica, Arial, sans-serif; font-size:18px; font-weight:400; line-height:30px; color:$textColor;}
+a {
+  text-decoration:none;
 
-.article {margin-bottom:80px;}
-.article h1, .article p {max-width:600px; margin:0 auto;}
-.article h1 {margin-bottom:42px; padding:24px 0; border-top:1px solid #ccc; border-bottom:1px solid #ccc; line-height:42px; text-align:center; font-size:36px;}
-.article h1 a {color:#444; transition:color 0.2s;}
-.article h1 a:hover {color:#b98084; text-decoration:none;}
-.article h2 {width:600px; margin:20px auto;}
-.article p {margin-bottom:27px;}
-.article a {color:#b98084;}
+  &:hover {text-decoration:underline;}
+}
 
-.footer ul {max-width:600px; margin:40px auto 20px; padding:18px 0 0; border-top:1px solid #ccc; text-align:center;}
-.footer li {list-style:none; display:inline-block; margin:0; padding:0;}
-.footer li:first-child {margin-right:20px;}
-.footer a {color:#b98084;}
+
+/* HEADER
+ * -----------------------------------------------------------------------------
+ */
+.header {
+  height:279px; width:100%; margin-bottom:40px; background:url('../images/bg.jpg') center center no-repeat; background-size:100%; color:white;
+
+  h1 {
+    height:200px; margin:0 0 20px; line-height:200px; font-family:"HelveticaNeue-UltraLight", "Helvetica Neue Ultra Light", "HelveticaNeue-Light", "Helvetica Neue Light", "HelveticaNeue", "Helvetica Neue"; font-weight:normal; font-size:80px; letter-spacing:5px; text-transform:uppercase; text-align:center;
+
+    a:hover {text-decoration:none;}
+  }
+
+  strong {font-family:"HelveticaNeue-Light", "Helvetica Neue Light"; font-weight:normal;}
+  a {color:white;}
+}
+
+
+.main-nav {
+  list-style:none; margin:0; padding:0; text-align:center;
+
+  li {
+    display:inline-block; text-transform:uppercase; margin-right:40px;
+
+    &:last-child {margin-right:0;}
+  }
+  
+  a {letter-spacing:3px; font-weight:100; font-size:18px;}
+}
+
+
+/* BLOG CONTENT
+ * -----------------------------------------------------------------------------
+ */
+.article {
+  margin-bottom:80px;
+
+  h1, p {max-width:$contentWidth; margin:0 auto;}
+  
+  h1 {
+    margin-bottom:42px; padding:24px 0; border-top:1px solid #ccc; border-bottom:1px solid #ccc; line-height:42px; text-align:center; font-size:36px;
+
+    a {
+      color:$textColor; transition:color 0.2s;
+      
+      &:hover {color:$linkColor; text-decoration:none;}
+    }
+  }
+
+  h2 {width:$contentWidth; margin:20px auto;}
+  p {margin-bottom:27px;}
+  a {color:$linkColor;}
+}
+
+.date-published {
+  margin-top:60px; text-align:center; font-size:14px;
+
+  &:before, &:after {content:"–"; margin:0 10px;}
+}
+
+
+/* FOOTER
+ * -----------------------------------------------------------------------------
+ */
+.footer {
+  ul {max-width:$contentWidth; margin:40px auto 20px; padding:18px 0 0; border-top:1px solid #ccc; text-align:center;}
+  li {list-style:none; display:inline-block; margin:0; padding:0;}
+  li {margin-right:30px;}
+  li:last-child {margin-right:0;}
+  li:after {content:"•"; position:relative; left:18px;}
+  li:last-child:after {display:none;}
+  a {color:$linkColor;}
+}

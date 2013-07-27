@@ -13,9 +13,14 @@
     {% if excerpted == 'true' %}
       <a href="{{ root_url }}{{ post.url }}">{{ site.excerpt_link }}</a>
     {% endif %}
-  
   {% else %}
     {{ content }}
-  
   {% endif %}
+
+
+  {% unless index or page.hide_date %}
+    {% if page.date %}
+      <p class="date-published">{{ page.date | date: '%e. %B %Y' }}</p>
+    {% endif %}
+  {% endunless %}
 </div>
