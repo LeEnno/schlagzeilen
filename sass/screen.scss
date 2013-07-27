@@ -15,9 +15,9 @@ a {text-decoration:none;}
 a:hover {text-decoration:underline;}
 
 .header {height:279px; width:100%; margin-bottom:40px; background:url('../images/bg.jpg') center center no-repeat; background-size:100%; color:white;}
-.header h1 {height:200px; margin:0 0 20px; line-height:200px; font-family:"Helvetica Neue"; font-weight:100; font-size:80px; letter-spacing:1px; text-transform:uppercase; text-align:center;}
+.header h1 {height:200px; margin:0 0 20px; line-height:200px; font-family:"HelveticaNeue-UltraLight", "Helvetica Neue Ultra Light", "HelveticaNeue-Light", "Helvetica Neue Light", "HelveticaNeue", "Helvetica Neue"; font-weight:normal; font-size:80px; letter-spacing:5px; text-transform:uppercase; text-align:center;}
 .header h1 a:hover {text-decoration:none;}
-.header strong {font-weight:200;}
+.header strong {font-family:"HelveticaNeue-Light", "Helvetica Neue Light"; font-weight:normal;}
 .header a {color:white;}
 
 .main-nav {list-style:none; margin:0; padding:0; text-align:center;}
