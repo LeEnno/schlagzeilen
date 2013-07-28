@@ -8,11 +8,15 @@
   </h1>
 
   {% if index %}
-    {{ content | excerpt }}
-    {% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
-    {% if excerpted == 'true' %}
-      <a href="{{ root_url }}{{ post.url }}">{{ site.excerpt_link }}</a>
+    {% if post.excerpt %}
+      <p>
+        {{ post.excerpt }}
+        <a class="link-to-complete-post" href="{{ root_url }}{{ post.url }}">{{ site.excerpt_link }}</a>
+      </p>
+    {% else %}
+      {{ content }}
     {% endif %}
+  
   {% else %}
     {{ content }}
   {% endif %}

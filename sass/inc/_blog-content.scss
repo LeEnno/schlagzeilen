@@ -16,10 +16,12 @@
   h2 {width:$contentWidth; margin:20px auto;}
   p {margin-bottom:27px;}
   a {color:$linkColor;}
+
+  .date-published {
+    margin-top:60px; text-align:center; font-size:14px;
+
+    &:before, &:after {content:"–"; margin:0 10px;}
+  }
 }
 
-.date-published {
-  margin-top:60px; text-align:center; font-size:14px;
-
-  &:before, &:after {content:"–"; margin:0 10px;}
-}
+.link-to-complete-post {font-weight:bold;}
