@@ -1,0 +1,25 @@
+.article {
+  margin-bottom:80px;
+
+  h1, p {max-width:$contentWidth; margin:0 auto;}
+  
+  h1 {
+    margin-bottom:42px; padding:24px 0; border-top:1px solid #ccc; border-bottom:1px solid #ccc; line-height:42px; text-align:center; font-size:36px;
+
+    a {
+      color:$textColor; transition:color 0.2s;
+      
+      &:hover {color:$linkColor; text-decoration:none;}
+    }
+  }
+
+  h2 {width:$contentWidth; margin:20px auto;}
+  p {margin-bottom:27px;}
+  a {color:$linkColor;}
+}
+
+.date-published {
+  margin-top:60px; text-align:center; font-size:14px;
+
+  &:before, &:after {content:"–"; margin:0 10px;}
+}
