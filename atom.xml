@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://leenno.github.io/schlagzeilen//atom.xml" rel="self"/>
-  <link href="http://leenno.github.io/schlagzeilen//"/>
-  <updated>2013-07-27T09:07:25+02:00</updated>
-  <id>http://leenno.github.io/schlagzeilen//</id>
+  <link href="http://schlagzeilen.me//atom.xml" rel="self"/>
+  <link href="http://schlagzeilen.me//"/>
+  <updated>2013-07-28T20:41:05+02:00</updated>
+  <id>http://schlagzeilen.me//</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Dies ist ein Test]]></title>
-    <link href="http://leenno.github.io/schlagzeilen//dies-ist-noch-ein-test/"/>
+    <link href="http://schlagzeilen.me//dies-ist-noch-ein-test/"/>
     <updated>2013-06-15T20:53:00+02:00</updated>
-    <id>http://leenno.github.io/schlagzeilen//dies-ist-noch-ein-test</id>
+    <id>http://schlagzeilen.me//dies-ist-noch-ein-test</id>
     <content type="html"><![CDATA[<h2>Fuck yeah!</h2>
 
 <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>

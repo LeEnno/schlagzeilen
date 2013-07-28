@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://leenno.github.io/schlagzeilen//sitemap.xml 
+Sitemap: http://schlagzeilen.me//sitemap.xml 
