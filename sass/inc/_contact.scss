@@ -60,7 +60,7 @@ $sprites: sprite-map("contact-sprite/*.png");
 }
 
 
-.contact-list {width:$contactListWidth; margin:-20px 0 0; padding:0 $contactListPadding; list-style:none;}
+.article .contact-list {width:$contactListWidth; margin:-20px 0 0; padding:0 $contactListPadding; list-style:none;}
 .contact-list-item {
   position:relative; float:left; width:$listItemWidth; height:$listItemHeight; margin:0 $listItemMargin;
 
@@ -76,7 +76,7 @@ $sprites: sprite-map("contact-sprite/*.png");
   &:hover {
     &:before {opacity:1; @include sprite-background('colored-circle');}
 
-    a {padding-top:$listItemHeight - 35px; text-decoration:none; color:$linkColor; font-weight:400;}
+    a {padding-top:$listItemHeight - 30px; text-decoration:none; color:$linkColor; font-weight:400;}
     .contact-twitter:before {@include sprite-background('white-twitter');}
     .contact-adn:before {@include sprite-background('white-adn');}
     .contact-gplus:before {@include sprite-background('white-gplus');}

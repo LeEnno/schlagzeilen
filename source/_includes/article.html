@@ -7,10 +7,14 @@
     {% endif %}
   </h1>
 
+  {% unless index %}{% if page.tldr %}
+    <p class="tldr"><strong>tl;dr:</strong> {{page.tldr}}</p>
+  {% endif %}{% endunless %}
+
   {% if index %}
     {% if post.excerpt %}
+        {{ post.excerpt | markdownify }}
       <p>
-        {{ post.excerpt }}
         <a class="link-to-complete-post" href="{{ root_url }}{{ post.url }}">{{ site.excerpt_link }}</a>
       </p>
     {% else %}

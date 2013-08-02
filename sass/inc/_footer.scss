@@ -1,5 +1,5 @@
 .footer {
-  ul {max-width:$contentWidth; margin:40px auto 20px; padding:18px 0 0; border-top:1px solid #ccc; text-align:center;}
+  ul {max-width:$contentWidth; margin:40px auto 20px; padding:18px 0 0; border-top:1px solid $borderColor; text-align:center;}
   li {list-style:none; display:inline-block; margin:0; padding:0;}
   li {margin-right:30px;}
   li:last-child {margin-right:0;}
