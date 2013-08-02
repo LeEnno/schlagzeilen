@@ -2,3 +2,11 @@ $contentWidth: 600px;
 $textColor:    #444;
 $linkColor:    #b98084;
 $borderColor:  #ccc;
+
+@mixin responsive($maxWidth: $contentWidth) {
+  @media only screen and (max-width: $maxWidth) { @content; }
+}
+
+@mixin responsive-retina($maxWidth: $contentWidth) {
+  @media only screen and (max-width: $maxWidth) and (-webkit-min-device-pixel-ratio: 2) { @content; }
+}

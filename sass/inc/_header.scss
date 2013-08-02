@@ -1,8 +1,23 @@
+$bgImage:           "bg.jpg";
+$bgImageWidth:      image-width($bgImage);
+$bgImageHeight:     image-height($bgImage);
+$mainNavBreakpoint: 500px;
+
 .header {
-  height:279px; width:100%; margin-bottom:40px; background:url('../images/bg.jpg') center center no-repeat; background-size:100%; color:white;
+  height:$bgImageHeight; width:100%; margin-bottom:40px; background:image-url($bgImage) center center no-repeat; background-size:100% 100%; color:white;
+
+  @include responsive($bgImageWidth) {background-size:$bgImageWidth 100%;}
 
   h1 {
     height:200px; margin:0 0 20px; line-height:200px; font-family:"HelveticaNeue-UltraLight", "Helvetica Neue Ultra Light", "HelveticaNeue-Light", "Helvetica Neue Light", "HelveticaNeue", "Helvetica Neue"; font-weight:normal; font-size:80px; letter-spacing:5px; text-transform:uppercase; text-align:center;
+
+    @include responsive($contentWidth + 40px) {
+      background:image-url("schlagzeilen.png") center center no-repeat; background-size:90%;
+
+      a {display:block; height:140px; font-size:0; line-height:0; color:transparent;}
+
+    }
+    @include responsive-retina($contentWidth + 40px) {background-image:image-url("schlagzeilen2x.png");}
 
     a:hover {text-decoration:none;}
   }
@@ -15,11 +30,15 @@
 .main-nav {
   list-style:none; margin:0; padding:0; text-align:center;
 
+  @include responsive($mainNavBreakpoint) {margin-top:-45px;}
+
   li {
     display:inline-block; text-transform:uppercase; margin-right:40px;
+
+    @include responsive($mainNavBreakpoint) {display:block; width:100%; text-align:center;}
 
     &:last-child {margin-right:0;}
   }
   
-  a {letter-spacing:3px; font-weight:100; font-size:18px;}
+  a {letter-spacing:3px; font-weight:100; font-size:1.1em;}
 }
