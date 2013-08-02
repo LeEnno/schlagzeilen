@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://schlagzeilen.me/atom.xml" rel="self"/>
   <link href="http://schlagzeilen.me/"/>
-  <updated>2013-08-02T12:00:50+02:00</updated>
+  <updated>2013-08-02T18:27:24+02:00</updated>
   <id>http://schlagzeilen.me/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -55,10 +55,10 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[NPP: Nearly No Push]]></title>
-    <link href="http://schlagzeilen.me/npp/"/>
+    <title type="html"><![CDATA[NNP: Nearly No Push]]></title>
+    <link href="http://schlagzeilen.me/nnp/"/>
     <updated>2013-08-02T09:13:00+02:00</updated>
-    <id>http://schlagzeilen.me/npp</id>
+    <id>http://schlagzeilen.me/nnp</id>
     <content type="html"><![CDATA[<p>Das war noch was. Ich kann mich recht gut daran erinnern, wie ich mich back in the days (<em>lies</em>: 2009) an Push-Benachrichtigungen aufs Handy erfreuen konnte. Zum Lesen von Mails musste ich nicht mehr an den Rechner zu Haus, sondern habe sofort nach Eintreffen eine Benachrichtigung auf das Smartphone bekommen. Und konnte sofort antworten. Sobald ich einen Like oder eine Nachricht bei Facebook bekam, wurde ich darüber benachrichtigt. Und konnte sofort antworten. Auch neue Mentions, Follower und Favs wurden auf meine Handy gepusht. Und ich konnte sofort antworten.</p>
 
 <p>Schöne, neue Nie-mehr-irgendwas-verpassen-Welt. Mit einem beachtlichen Haken: nicht jede Mail, jede Nachricht, jede Mention ist so wichtig, dass sie <em>sofort</em> beantwortet werden muss. Absolut nicht.</p>
@@ -96,9 +96,9 @@
 
 <p>Ok, das ist beim Pullen nicht ausgeschlossen. Jedoch wird nicht von extern bestimmt, dass du die App startest. Du selbst entscheidest dich dafür. Du wirst nicht aus deinem jetzigen Tun rausgerissen, sondern hast gerade Raum und Zeit dafür in der Timeline zu versumpfen.</p>
 
-<h2>NPP jetzt SOFORT kostenlos testen</h2>
+<h2>NNP jetzt SOFORT kostenlos testen</h2>
 
-<p>NPP ist vermutlich nichts für jeden. Bei manch einem wird der Drang nach manueller Aktualisierung eine größere Ablenkung verursachen, als es Push-Benachrichtigungen je tun könnten.</p>
+<p>NNP ist vermutlich nichts für jeden. Bei manch einem wird der Drang nach manueller Aktualisierung eine größere Ablenkung verursachen, als es Push-Benachrichtigungen je tun könnten.</p>
 
 <p>Ich kann für meinen Teil jedoch behaupten, dass das Verzichten auf einen Großteil der Push-Benachrichtigungen eine der besseren Entscheidungen in meinem Leben war. Probiert es aus. Einen Tag, eine Woche, einen Monat. Findet heraus, ob es euch etwas gibt oder nicht.</p>
 
