@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://schlagzeilen.me//atom.xml" rel="self"/>
-  <link href="http://schlagzeilen.me//"/>
-  <updated>2013-07-28T22:04:47+02:00</updated>
-  <id>http://schlagzeilen.me//</id>
+  <link href="http://schlagzeilen.me/atom.xml" rel="self"/>
+  <link href="http://schlagzeilen.me/"/>
+  <updated>2013-08-02T11:55:00+02:00</updated>
+  <id>http://schlagzeilen.me/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -14,49 +14,149 @@
 
   
   <entry>
-    <title type="html"><![CDATA[In einem Land vor unserer Zeit – Pitri, Litle Foot, Zera und all die andern Dinosaurier, die ich zur Simulierung eines langen Titels brauche]]></title>
-    <link href="http://schlagzeilen.me//in-einem-land-vor-unserer-zeit-pitri/"/>
-    <updated>2013-07-28T20:56:00+02:00</updated>
-    <id>http://schlagzeilen.me//in-einem-land-vor-unserer-zeit-pitri</id>
-    <content type="html"><![CDATA[<p>Nunja, Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. <!--more-->At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+    <title type="html"><![CDATA[Guten Tag, kennen Sie schon meine Krankheit?]]></title>
+    <link href="http://schlagzeilen.me/krankheit/"/>
+    <updated>2013-08-02T11:21:00+02:00</updated>
+    <id>http://schlagzeilen.me/krankheit</id>
+    <content type="html"><![CDATA[<p>Ich staunte nicht schlecht, als bei uns auf Arbeit ein ca. 40 bis 50-jähriger Herr durch die Tür kam. Ich dachte es sei der Hausmeister, oder ein Pizza-Lieferant. Tatsächlich war es ein Endkunde, der bei uns im Büro vorbeikam, um 1. etwas statt am Telefon direkt vor Ort zu besprechen und 2. mal zu schauen, wie wir arbeiten und wer wir eigentlich sind. Mein Chef fragte, wie es ihm denn ginge. Vermutlich wollte er nur höflich sein und wissen, wie das Geschäft läuft. Darüber hatten sie ja eigentlich auch gesprochen.</p>
 
-<h2>blablabla, nananananana</h2>
+<p>Er nahm die Frage allerdings zum Anlass, vor versammelter Mannschaft im Büro seine Krankengeschichte los zu werden. Gegenüber mehr oder weniger fremden Menschen. Rücken, Beine, Leberwerte. Alles sei im Arsch. Und das war bei weitem nicht das erste Mal, das ich so etwas beobachte.</p>
+
+<p>Ihr kennt das sicher auch. Mit zunehmendem Alter steigt die Wahrscheinlichkeit, dass Freunde, Bekannte und Verwandte über ihre körperlichen Leiden klagen. Auf der einen Seite nachvollziehbar, da höheres Alter = längere Betriebsdauer = mehr Verschleiß. Auf der anderen Seite ist es doch verwunderlich, dass Leute Wert darauf legen in der wenigen Zeit, die Ihnen für ein Gespräch bleibt, unbedingt zum Ausdruck bringen zu wollen, wie schlecht es ihnen geht.</p>
+
+<h2>Konzentration auf das Wesentliche ≠ Konzentration auf das Negative</h2>
+
+<p>Doch warum das eigentlich? Warum entscheiden wir uns – und ich nehme mich da nicht aus – bei der Antwort auf neutrale Fragen, auf die wir sowohl positiv als auch negativ antworten könnten, für das Negative? Warum tendieren wir dazu, unseren Fokus erst auf das Schlechte und <em>dann</em> auf das Gute zu legen?</p>
+
+<p>Auch wenn mir die musikalische Entwicklung missfällt, finde ich an dieser Stelle eine Referenz auf Linkin Park und ihren Song <em>What I&rsquo;ve Done</em> angebracht. <a href="http://www.youtube.com/watch?v=nPlBBLc6vno" title="Linkin Park - What I've Done - YouTube">Im Video dazu</a> sieht man neben der typischen Band-Performance jede Menge kurze Sequenzen verschiedener Bilder. Den Menschen blieb dieses Video fast durchgehend als eines in Erinnerung, das aufzeigt, was alles falsch ist in dieser Welt. Abholzung von Wäldern, Ausstoß von Abgasen, Kriegsmaschinerie, Umweltverschmutzung, Terrorismus. Tatsächlich sieht man auch viele Sequenzen, die genau das visualisieren. Allerdings nicht ausschließlich. Ebenso geht um es um die Erschaffung von neuem Leben, um die vom Menschen geschaffene Kultur, um die Vielfalt in der Tierwelt, um von Feuerwehrmännern gerettete Kinder. Doch das sieht niemand, oder es bleibt zumindest keinem Zuschauer so in Erinnerung.</p>
+
+<p>Der Grund dafür ist der Fokus auf das Negative, der sich durch alle Lebensbereiche zieht. Erinnerungen, Nachrichten, momentaner Gemütszustand. Bei allem fällt es uns scheinbar leichter die schlechten Seiten zu sehen, als die Guten.</p>
+
+<h2>Schlechte Laune als zu heilende Krankheit</h2>
+
+<p>Ein ehemaliger Mitstudent von mir kommt aus Ecuador. In einem Gespräch hat er mal einen Satz rausgelassen, den ich einfach nicht vergessen kann, weil er so bezeichnend ist. Natürlich wollten wir wissen, was nach seinem Eindruck die größten Macken von uns Deutschen sind. Ihm fiel gar nicht so viel ein (positiv!) außer:</p>
+
+<blockquote><p>Wenn es einem Deutschen schlecht geht, sieht oder merkt man es ihm an. Das kenne ich so nicht. In Ecuador ist schlechte Laune für uns wie eine Krankheit, gegen die man kämpfen, die man heilen muss. Die Menschen lachen, auch wenn es ihnen schlecht geht, damit sie andere nicht mit ihrer schlechten Laune anstecken.</p></blockquote>
+
+<p>Das trifft es sowas von punktgenau. Wenn ich durch die Straßen laufe, könnte ich vermutlich mit 75%iger Trefferquote beurteilen, wie gut oder schlecht es jemandem geht, einfach durch die Art wie er oder sie sich gibt.</p>
+
+<p>Ganz schlimm finde ich diesen Zustand im Servicebereich, vor allem an Kassen. Wie oft man angepflaumt wird, weil man es wagt jetzt auch noch etwas zu kaufen, wo doch der Tag der Person an der Kasse so schon so scheiße war. <em>Mach deinen Job, verdammt nochmal!</em> Der besteht darin, dass du Bestellungen entgegen nimmst und mir die gekauften Artikel im Austausch von Geld überreichst. Dabei gehört es dazu, dass du mich, den Kunden, freundlich behandelst. Ich erwarte ja nicht, dass mir bei jedem Bezahlvorgang die Wartezeit des EC-Karten-Lesegeräts mit einem Glas Champagner versüßt wird. Aber ein freundliches Gesicht, eine offene Art und ein positives Miteinander gehört für mich einfach zu den Fähigkeit einer <em>Service</em>kraft dazu.</p>
+
+<p>Ich habe schon mehrfach gehört, dass dies ein typisches Leipziger Problem sei. Das bedeutet aber nicht, dass ich diese Erfahrung nicht auch schon außerhalb gemacht hätte.</p>
+
+<h2>Die Moral von der Geschicht: erzähl von deinen Leiden nicht.</h2>
+
+<p>Wie so oft habe ich mir vorgenommen: so willst du nie werden. Dabei meine ich jetzt weniger die Leipziger Servicekräfte, sondern eher den eingangs erwähnten Herren. Wenn du irgendwann in die Situation kommst, ein kurzes Gespräch mit einem alten Bekannten führen zu dürfen, dann konzentriere dich auf das Positive. Erzähl von deinem Partner und deinen Kindern. Und was du am letzten Samstag für gutes Essen hattest. Scheiß auf dein kaputtes Knie und auch mit dem Gesundheitszustand deiner Mum musst du deinen Gegenüber nicht belasten.</p>
+
+<p>Ich sage nicht, dass wir alles Negative, das uns im Leben widerfährt, schlucken sollen. Ganz bestimmt nicht. Es gibt eine geeignete Kombination von anwesenden Menschen, Ort und Zeit, bei der das sogar gewollt ist. Allerdings müssen wir auch nicht bei jeder Gelegenheit unserem Gesprächspartner unsere aktuell 3 größten Probleme die Kehle herunter rammen.</p>
+
+<p>Für mehr Lächeln in dieser Welt. Danke.</p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Als ich mal alleine war...]]></title>
-    <link href="http://schlagzeilen.me//als-ich-mal-alleine-war-dot-dot-dot/"/>
-    <updated>2013-07-28T20:55:00+02:00</updated>
-    <id>http://schlagzeilen.me//als-ich-mal-alleine-war-dot-dot-dot</id>
-    <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+    <title type="html"><![CDATA[NPP: Nearly No Push]]></title>
+    <link href="http://schlagzeilen.me/npp/"/>
+    <updated>2013-08-02T09:13:00+02:00</updated>
+    <id>http://schlagzeilen.me/npp</id>
+    <content type="html"><![CDATA[<p>Das war noch was. Ich kann mich recht gut daran erinnern, wie ich mich back in the days (<em>lies</em>: 2009) an Push-Benachrichtigungen aufs Handy erfreuen konnte. Zum Lesen von Mails musste ich nicht mehr an den Rechner zu Haus, sondern habe sofort nach Eintreffen eine Benachrichtigung auf das Smartphone bekommen. Und konnte sofort antworten. Sobald ich einen Like oder eine Nachricht bei Facebook bekam, wurde ich darüber benachrichtigt. Und konnte sofort antworten. Auch neue Mentions, Follower und Favs wurden auf meine Handy gepusht. Und ich konnte sofort antworten.</p>
 
-<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+<p>Schöne, neue Nie-mehr-irgendwas-verpassen-Welt. Mit einem beachtlichen Haken: nicht jede Mail, jede Nachricht, jede Mention ist so wichtig, dass sie <em>sofort</em> beantwortet werden muss. Absolut nicht.</p>
 
-<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+<p>Dazu ist das ständige Vibrieren und Aufleuchten des Displays ja ganz fein, solang man nichts zu tun. Wenn man jedoch versucht sich zu konzentrieren, sind Push-Benachrichtigungen unglaublich gut darin trainiert die Zielperson von der Arbeit abzulenken.</p>
 
-<h2>Huhu, blabla und alle so yeah außer Enno, der saß drunter, und sonst so?</h2>
+<p>In der Konsequenz verwandeln sich Push-Benachrichtigungen vom ehemals geliebten Anzeichen sozialer Interaktion in nervtötende Konzentrationskiller. Wie die Mücke im Schlafzimmer sein Opfer durch aufdringliches Vor-dem-Ohr-rumsummen vom Schlafen abhält, so hält die Push-Benachrichtigung seinen Empfänger von dem ab, was auch immer er gerade versucht zu tun.</p>
 
-<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+<h2>Kein Push ist auch keine Lösung</h2>
+
+<p>Deswegen habe ich mich dazu entschieden, die Apps, die mir Push-Benachrichtigungen senden dürfen, stark einzuschränken. Facebook? Näh. Google+? Näh. Selbst E-Mails bleiben außen vor. Auch wenn es sich anfangs anders anfühlt: es gibt sehr, sehr, sehr, sehr wenige Mails, die ein sofortiges Reagieren erfordern. Selbst für mich als Webentwickler wo vergleichsweise viel Kundenkommunikation über E-Mail geschieht.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
+
+<p>Gepusht wird nur noch, was tatsächlich an mich gerichtet ist und SMS-igen Charakter hat. Also:</p>
+
+<ul>
+<li>Twitter und App.net (Mentions und DMs)</li>
+<li>iMessage</li>
+<li>WhatsApp</li>
+</ul>
+
+
+<p>Wer etwas hat, auf das er eine dringende Antwort benötigt, soll diesen Weg der <strong>Kurz</strong>mitteilung gehen. Alles andere rufe ich erst dann ab, wenn ich Zeit dafür habe und es als notwendig erachte.</p>
+
+<h2>Konsequenzen: mehr Produktivität, weniger Ablenkung</h2>
+
+<p>In erster Linie erreicht man vor allem eins: <strong>konzentrierteres Arbeiten</strong>.  Und das fühlt sich gut an. Wer regelmäßig erlebt, dass er sich in ein und denselben Denkprozess drei mal einarbeiten muss, weil er vorher immer wieder durch Push-Benachrichtigungen rausgerissen wird, wird das gut nachvollziehen können.</p>
+
+<p>Auch unabhängig von der Arbeit ist es schön, wenn man einen chilligen Nachmittag mit Freunden verbringen kann, ohne ständig zu checken, was da jetzt gerade für die Vibration in der linken Hosentasche gesorgt hat. <em>Quality time with your loved ones</em> nennt man das heutzutage.</p>
+
+<p>Für die wenigen Fälle, in denen trotz der Einschränkung immer noch zu viel <em>bssssst</em> und <em>plonggggg</em> durchkommt, gibt es den temporären Ausweg des Do-Not-Disturb-Modes. Einen Schalter, den man umlegt, damit Benachrichtigungen zwar auf dem Startbildschirm angezeigt werden, aber keine Geräusche oder Vibrationen mehr verursachen. Ist bei mir während der Arbeitszeit quasi immer aktiv. Wirkt besonders effektiv, wenn auf Twitter ein Chat zwischen 2 Leuten entsteht, bei dem unnötigerweise die ganze Zeit der eigene Name mit ge-Mention-ed wird.</p>
+
+<h2>Mehr Pull statt Push</h2>
+
+<p>Der große Vorteil am Pullen, also am manuellen Aktualisieren: es ist selbstbestimmt. Eine Push-Benachrichtigung kann schnell dazu führen, dass man Facebook wegen einer Nachricht öffnet, dann sieht, wie sich die Timeline aktualisiert, und erstmal in selbiger versumpft. Plötzlich sind 15 Minuten<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> um, obwohl man nur auf eine Nachricht antworten wollte.</p>
+
+<p>Ok, das ist beim Pullen nicht ausgeschlossen. Jedoch wird nicht von extern bestimmt, dass du die App startest. Du selbst entscheidest dich dafür. Du wirst nicht aus deinem jetzigen Tun rausgerissen, sondern hast gerade Raum und Zeit dafür in der Timeline zu versumpfen.</p>
+
+<h2>NPP jetzt SOFORT kostenlos testen</h2>
+
+<p>NPP ist vermutlich nichts für jeden. Bei manch einem wird der Drang nach manueller Aktualisierung eine größere Ablenkung verursachen, als es Push-Benachrichtigungen je tun könnten.</p>
+
+<p>Ich kann für meinen Teil jedoch behaupten, dass das Verzichten auf einen Großteil der Push-Benachrichtigungen eine der besseren Entscheidungen in meinem Leben war. Probiert es aus. Einen Tag, eine Woche, einen Monat. Findet heraus, ob es euch etwas gibt oder nicht.</p>
+
+<p>Aber hört auf, eure Handys zu checken, wenn ihr euch gerade mit jemandem unterhaltet. Mama hat fertig.</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Das soll allerdings nicht heißen, dass es in allen Berufsfeldern so funktionieren würde. Ein Projektmanager könnte in Schwierigkeiten geraten, wenn er seine Mails nur 2x pro Tag abholt.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<li id="fn:2">
+<p>Ich verschweige an dieser Stelle mal, dass es bei mir in der Regel wesentlich mehr als besagte 15 Minuten sind.<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Dies ist ein Test]]></title>
-    <link href="http://schlagzeilen.me//dies-ist-noch-ein-test/"/>
-    <updated>2013-06-15T20:53:00+02:00</updated>
-    <id>http://schlagzeilen.me//dies-ist-noch-ein-test</id>
-    <content type="html"><![CDATA[<h2>Fuck yeah!</h2>
+    <title type="html"><![CDATA[Kreiert.]]></title>
+    <link href="http://schlagzeilen.me/kreiert/"/>
+    <updated>2013-08-01T16:40:00+02:00</updated>
+    <id>http://schlagzeilen.me/kreiert</id>
+    <content type="html"><![CDATA[<p>Endlich. Neuer Blog, erster Beitrag. Die Idee dazu ist ungefähr anderthalb Monat alt. Nicht die Idee zum Blog, die schwirrt schon seit mindestens einem Jahr in mir. Nein, ich meine die Idee für diesen Artikel. Und dass es tatsächliche diese 1,5 Monate gedauert hat, ehe ich diese Zeilen schlussendlich niederschreibe, ist ein wenig beschämend. Beschämend aufgrund der Aussage, die ich hier eigentlich vermitteln wollte.</p>
 
-<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+<p>Es sollte darum gehen, dass sich jeder Einzelne von uns in einer Welt von Informations- und Unterhaltungsüberangebot entscheiden muss. Der Tag hat 24 Stunden. Die Möglichkeiten, mit der man diese Zeit verbringen kann, sind grenzenlos. Dieser Fakt bringt jemanden wie mich, dessen Interessengebiete nicht besonders zahlreich, aber vergleichsweise zeitintensiv sind, regelmäßig zur Verzweiflung. Früher oder später geht es aber nicht anders, man muss priorisieren. Alle Man-könnte-ja-mals und Das-müsste-ich-eigentlich-auch-mal-wieders eliminieren und sich auf die wenigen, für sich selbst wichtigen Dinge konzentrieren. Lieber eine Sache richtig machen, als 10 nur halbärschig.</p>
 
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-</pre></td><td class='code'><pre><code class='javascript'><span class='line'><span class="nx">$</span><span class="p">(</span><span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
-</span><span class='line'>  <span class="c1">// Handler for .ready() called.</span>
-</span><span class='line'><span class="p">});</span>
-</span></code></pre></td></tr></table></div></figure>
+<h2>Vermeidet den Schrapel&hellip;</h2>
+
+<p>Versteht mich nicht falsch, jeder soll so machen, wie er mag. Allerdings habe ich für mich festgestellt, dass ich meine wertvolle Zeit oft mit zu viel <em>Schrapel</em> verbringe. Schrapel bedeutet in diesem Fall alles, was ein arg mieses Verhältnis von &ldquo;das lohnt sich&rdquo; zu &ldquo;da hätte ich meine Zeit auch sinnvoller verbringen können&rdquo; vorweist.</p>
+
+<p>Darum gucke ich lieber Filme als Fernsehen. Darum höre ich lieber Podcasts als Radio. Darum lese ich lieber private Blogs als große Online-Magazine.</p>
+
+<h2>&hellip; und seid kreativ</h2>
+
+<p>Es erscheint ein bisschen seltsam, dass jemand in seinem Preimierenblogpost für seinen vierten (!) Blog dazu rät, gefälligst zu priorisieren und alles Halbärschige aus dem eigenen Leben zu verbannen. Wofür ich mich aber entschieden habe ist: weniger konsumieren, mehr kreieren.</p>
+
+<p>Dabei meine ich nicht Kreativität im Sinne von Baskenmütze und Tuschkasten. Auch nicht die Kreativität, die einen MacGyver dazu befähigt aus Büroklammern und Teppichfasern eine Kalaschnikow zu bauen.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> Ich meine schlicht und ergreifend kreieren. Machen. Abliefern.</p>
+
+<p>Egal was. Einen Blog aufmachen, einen Song schreiben, im Garten ein Kartoffelfeld anlegen, ein Video drehen, Diskussionsrunden organisieren, Fotos machen, Fensterdeko basteln. Es geht darum etwas zu erschaffen. Sich nicht nur in die Couch pfletzen und chillen. Zumindest noch nicht. Vorher noch 60 Minuten einem privaten Projekt widmen.</p>
+
+<p>Getreu diesem Motto hier also nun ein weiterer Blog meinerseits. Für all das, was ich schreiben möchte, was aber nicht <a href="http://www.senaeh.de/" title="senäh | 17senäh und so…">Webentwicklung</a> oder <a href="http://www.ienno.de/" title="iEnno | Ein Macianer auf seinem Spielplatz">Apple</a> ist. Zumindest nicht primär.</p>
+
+<h2><em>Und was war jetzt beschämend?</em></h2>
+
+<p>Da war ja was. Der Beitrag hier hat ein Erstellungsdatum, das auf den 16. Juni fällt. Eine Zeit, die bei mir vergleichsweise stressig war, da Endspurt im aktuellen Semester. <em>Vorprüfungszeit</em> nennen wir modernen Studenten von heute diese Phase, die gefüllt ist mit drohenden Deadlines, vollkommen vergessenen Todos und Dingen, die mehr Zeit benötigen, als ursprünglich eingeplant. Hätte ich es in dieser Zeit geschafft, das Ding hier online zu bringen, hätte ich der Aufforderung gefälligst zu kreieren noch wesentlich mehr Nachdruck verleihen können.</p>
+
+<p>Hab ich aber nicht geschafft. Hähä. Das bedeutet, dass ich jetzt nicht mehr mit ganz so gutem Beispiel voran gehen kann. Es bedeutet aber auch, dass ich euch auffordern kann es besser zu machen.</p>
+
+<p>Also. <strong>Geht los, vermeidet Schrapel, werdet kreativ.</strong></p>
+
+<p>Und für die Momente, in denen es doch einfach das Beste ist, nur mit dem Tablet auf der Couch die Feeds zu checken: <a href="http://www.schlagzeilen.me/atom.xml">hier ist meiner</a>.</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Das lustige daran ist, dass ich mich nicht erinnern kann jemals auch nur eine einzige Folge MacGyver gesehen zu haben. Ist nur dieser Running Gag, den man irgendwann mal irgendwo aufschnappt.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
 
 ]]></content>
   </entry>

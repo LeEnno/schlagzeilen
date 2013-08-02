@@ -1,43 +1,43 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://schlagzeilen.me//dies-ist-noch-ein-test/</loc>
-        <lastmod>2013-07-27T00:23:07+02:00</lastmod>
+        <loc>http://schlagzeilen.me/kreiert/</loc>
+        <lastmod>2013-08-02T11:52:54+02:00</lastmod>
     </url>
     <url>
-        <loc>http://schlagzeilen.me//als-ich-mal-alleine-war-dot-dot-dot/</loc>
-        <lastmod>2013-07-28T21:55:28+02:00</lastmod>
+        <loc>http://schlagzeilen.me/npp/</loc>
+        <lastmod>2013-08-02T11:11:29+02:00</lastmod>
     </url>
     <url>
-        <loc>http://schlagzeilen.me//in-einem-land-vor-unserer-zeit-pitri/</loc>
-        <lastmod>2013-07-28T21:41:22+02:00</lastmod>
+        <loc>http://schlagzeilen.me/krankheit/</loc>
+        <lastmod>2013-08-02T11:43:02+02:00</lastmod>
     </url>
     <url>
-        <loc>http://schlagzeilen.me//archiv/</loc>
-        <lastmod>2013-07-28T21:55:28+02:00</lastmod>
+        <loc>http://schlagzeilen.me/archiv/</loc>
+        <lastmod>2013-08-02T11:52:54+02:00</lastmod>
     </url>
     <url>
-        <loc>http://schlagzeilen.me//changelog/</loc>
-        <lastmod>2013-07-27T23:47:07+02:00</lastmod>
+        <loc>http://schlagzeilen.me/changelog/</loc>
+        <lastmod>2013-08-02T11:52:54+02:00</lastmod>
     </url>
     <url>
-        <loc>http://schlagzeilen.me//impressum/</loc>
-        <lastmod>2013-07-27T23:47:07+02:00</lastmod>
+        <loc>http://schlagzeilen.me/impressum/</loc>
+        <lastmod>2013-07-31T17:21:44+02:00</lastmod>
     </url>
     <url>
-        <loc>http://schlagzeilen.me//</loc>
-        <lastmod>2013-07-28T21:55:28+02:00</lastmod>
+        <loc>http://schlagzeilen.me/</loc>
+        <lastmod>2013-08-02T11:52:54+02:00</lastmod>
     </url>
     <url>
-        <loc>http://schlagzeilen.me//kontakt/</loc>
-        <lastmod>2013-07-28T21:55:28+02:00</lastmod>
+        <loc>http://schlagzeilen.me/kontakt/</loc>
+        <lastmod>2013-08-02T11:52:54+02:00</lastmod>
     </url>
     <url>
-        <loc>http://schlagzeilen.me//robots.txt</loc>
+        <loc>http://schlagzeilen.me/robots.txt</loc>
         <lastmod>2013-07-26T22:55:33+02:00</lastmod>
     </url>
     <url>
-        <loc>http://schlagzeilen.me//ueber-mich/</loc>
-        <lastmod>2013-07-28T21:12:07+02:00</lastmod>
+        <loc>http://schlagzeilen.me/ueber-mich/</loc>
+        <lastmod>2013-07-31T16:06:13+02:00</lastmod>
     </url>
 </urlset>
