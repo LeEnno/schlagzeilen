@@ -4,7 +4,7 @@
   <title><![CDATA[Schlagzeilen]]></title>
   <link href="http://schlagzeilen.me/atom.xml" rel="self"/>
   <link href="http://schlagzeilen.me/"/>
-  <updated>2013-08-24T13:21:49+02:00</updated>
+  <updated>2013-08-24T13:37:26+02:00</updated>
   <id>http://schlagzeilen.me/</id>
   <author>
     <name><![CDATA[Enrico Schlag]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Mehr Geld ≠ mehr Motivation]]></title>
+    <link href="http://schlagzeilen.me/mehr-geld-ungleich-mehr-motivation/"/>
+    <updated>2013-08-24T13:23:00+02:00</updated>
+    <id>http://schlagzeilen.me/mehr-geld-ungleich-mehr-motivation</id>
+    <content type="html"><![CDATA[<p>Es braucht nicht viel mehr, als dieses Video. Danke, David.</p>
+
+<iframe width="1120" height="630" src="http://schlagzeilen.me//www.youtube.com/embed/rrkrvAUbU9Y" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Wenn Worte meine Sprachen wären. Oh wait...]]></title>
