@@ -63,3 +63,5 @@ $paragraphMargin: 27px;
     @include responsive() {padding-left:60px;}
   }
 }
+
+iframe {display:block; margin:0 auto;}
