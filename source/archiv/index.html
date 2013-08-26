@@ -8,12 +8,16 @@ hide_date: true
 
 <ul class="archives">
   {% for post in site.posts reverse %}
-    {% capture this_month %}{{ post.date | date: "%m" }}{% endcapture %}
+    {% if post.published == false %}
 
-    <li{% unless month == this_month %}{% assign month = this_month %} class="archives-new-month"{% endunless %}>
-      {{ post.date | date: "%d. %B"}}:
-      <a href="{{ root_url }}{{ post.url }}">{{post.title}}</a>
-    </li>
+    {% else %}
+      {% capture this_month %}{{ post.date | date: "%m" }}{% endcapture %}
+
+      <li{% unless month == this_month %}{% assign month = this_month %} class="archives-new-month"{% endunless %}>
+        {{ post.date | date: "%d. %B"}}:
+        <a href="{{ root_url }}{{ post.url }}">{{post.title}}</a>
+      </li>
+    {% endif %}
 
   {% endfor %}
 </ul>
