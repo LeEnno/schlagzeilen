@@ -4,7 +4,7 @@
   <title><![CDATA[Schlagzeilen]]></title>
   <link href="http://schlagzeilen.me/atom.xml" rel="self"/>
   <link href="http://schlagzeilen.me/"/>
-  <updated>2013-08-26T17:00:21+02:00</updated>
+  <updated>2013-08-27T14:55:09+02:00</updated>
   <id>http://schlagzeilen.me/</id>
   <author>
     <name><![CDATA[Enrico Schlag]]></name>
@@ -159,6 +159,10 @@
         Guddy
     </p>
     <p>
+        <img src="http://schlagzeilen.me/images/content/meike.jpg" alt="Meike" />
+        Meike
+    </p>
+    <p>
         <img src="http://schlagzeilen.me/images/content/catherina.jpg" alt="Catherina" />
         Catherina
     </p>
@@ -169,7 +173,7 @@
 
 <blockquote><p>Erst kommt die 3-Sekunden-Regel, dann die 5-Sekunden-Regel und dann die Dreck-reinigt-den-Magen-Regel.</p></blockquote>
 
-<p>Dass ich mit <a href="http://chaosmacherin.de/" title="Chaosmacherin: Wo das Chaos herrscht">Sumi</a> nicht zum Reden gekommen bin, bereue ich ich ein bisschen. Dafür konnte ich ein wenig mit <a href="http://fraumimimi.wordpress.com/" title="Frau Mimimi | Nicht schön, aber selten.">Darya</a> rumulken. Und mit <a href="http://zeitzeugin.net/" title="Zeitzeugin | Fantasy, Nerdstuff, Science Fiction, Reviews, Gaming |">Guddy</a>. Jeder kennt Guddy. Und <a href="http://psychocrayon.de/" title="psychocrayon.de">Meike</a> ist eine coole Socke, auch wenn ihr hier kein Bild von ihr seht. Und die MacBook-Meckerei<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup> von <a href="http://lashout.de/" title="L A S H O U T . D E">Catharina</a> war auch recht unterhaltsam.</p>
+<p>Dass ich mit <a href="http://chaosmacherin.de/" title="Chaosmacherin: Wo das Chaos herrscht">Sumi</a> nicht zum Reden gekommen bin, bereue ich ich ein bisschen. Dafür konnte ich ein wenig mit <a href="http://fraumimimi.wordpress.com/" title="Frau Mimimi | Nicht schön, aber selten.">Darya</a> rumulken. Und mit <a href="http://zeitzeugin.net/" title="Zeitzeugin | Fantasy, Nerdstuff, Science Fiction, Reviews, Gaming |">Guddy</a>. Jeder kennt Guddy. Und <a href="http://psychocrayon.de/" title="psychocrayon.de">Meike</a> ist eine coole Socke, <del>auch wenn ihr hier kein Bild von ihr seht</del>. Und die MacBook-Meckerei<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup> von <a href="http://lashout.de/" title="L A S H O U T . D E">Catharina</a> war auch recht unterhaltsam.</p>
 
 <div class="multiple-thumbs">
     <p>
