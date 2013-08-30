@@ -4,7 +4,7 @@
   <title><![CDATA[Schlagzeilen]]></title>
   <link href="http://schlagzeilen.me/atom.xml" rel="self"/>
   <link href="http://schlagzeilen.me/"/>
-  <updated>2013-08-27T19:25:39+02:00</updated>
+  <updated>2013-08-30T21:55:35+02:00</updated>
   <id>http://schlagzeilen.me/</id>
   <author>
     <name><![CDATA[Enrico Schlag]]></name>
@@ -163,8 +163,8 @@
         Meike
     </p>
     <p>
-        <img src="http://schlagzeilen.me/images/content/catherina.jpg" alt="Catherina" />
-        Catherina
+        <img src="http://schlagzeilen.me/images/content/catharina.jpg" alt="Catharina" />
+        Catharina
     </p>
 </div>
 
@@ -191,11 +191,11 @@
 </div>
 
 
-<p>Apropos Mac: <a href="http://morileti.de/" title="Morileti">Johannes</a> ist euer Mann. Und <a href="http://www.1337core.de/" title="1337core @ Hack The Planet. (o_o)/">Alex</a> ist im Reallife <a href="http://www.1337core.de/bloggertreffen-2013-mein-rss-reader-in-reallife/" title="Bloggertreffen 2013: Mein RSS-Reader in Reallife! @ 1337core">gar nicht soooo scheiße</a>. Und <a href="https://twitter.com/vengaru" title="Ritter vom Ni (vengaru) on Twitter">Christian</a> kann mit Promille im Blut nachts um halb 2 nen Handstand Like A Boss hinlegen. Und alle anderen waren auch dufte, verdammt. Irgendwen vergess ich sowieso.</p>
+<p>Apropos Mac: <a href="http://morileti.de/" title="Morileti">Johannes</a> ist euer Mann. Und <a href="http://www.1337core.de/" title="1337core @ Hack The Planet. (o_o)/">Alex</a> ist im Reallife <a href="http://www.1337core.de/bloggertreffen-2013-mein-rss-reader-in-reallife/" title="Bloggertreffen 2013: Mein RSS-Reader in Reallife! @ 1337core">gar nicht soooo scheiße</a>. Und <a href="https://twitter.com/vengaru" title="Ritter vom Ni (vengaru) on Twitter">Christian</a> kann mit Promille im Blut nachts um halb 2 nen <del>Hand</del>Kopfstand Like A Boss hinlegen. Und alle anderen waren auch dufte, verdammt. Irgendwen vergess ich sowieso.</p>
 
 <h2>Fazit</h2>
 
-<p>Das ganze <a href="http://bloggertreffen.de/live/" title="Bloggertreffen #BTK13 - Social Media Wall">#BTK13</a> war fett. Das anfängliche Nichtfinden, dann die Bahnbesetzung durch gut 20 Blogger, das Kickern (endlich zahlt sich das Praktikum aus), das Billarden (don&rsquo;t mess with Coca!), bei dem mir übrigens ein epischer Trickshot gelungen ist. Gäbe es überall Google Glass, hätten wir jetzt sicher ein Video davon.</p>
+<p>Das ganze <a href="http://bloggertreffen.de/live/" title="Bloggertreffen #BTK13 - Social Media Wall">#BTK13</a> war fett. Das anfängliche Nichtfinden, dann die Straßenbahnbesetzung durch gut 20 Blogger, das Kickern (endlich zahlt sich das Praktikum aus), das Billarden (don&rsquo;t mess with Coca!), bei dem mir übrigens ein epischer Trickshot gelungen ist. Gäbe es überall Google Glass, hätten wir jetzt sicher ein Video davon.</p>
 
 <p>Ich mochte die vielseitige Schaar an Leuten, die Gespräche, die ab und zu sogar funktionierende Twitterwall, die Beschallung über Jeder-ist-mal-DJ-dank-Spotify (inklusive System Of A Down, Avenged Sevenfold und Slipknot), den Nacho-Salat (!) und Getränke für umme. Ich wurde 4 mal auf die Wange geküsst, 50% davon sogar von Mädchen<sup id="fnref:4"><a href="#fn:4" rel="footnote">4</a></sup>. Und ich hab ein lila Shirt vom Bloggertreffen, muahahaha! Apropos Shirts: bestellt euch das Bisasam-Shirt von Qwertee, wenn ihr es irgendwo her bekommt, Jungs.</p>
 
@@ -229,9 +229,9 @@
         <link href="http://schlagzeilen.me/mehr-geld-ungleich-mehr-motivation/"/>
         <updated>2013-08-24T13:23:00+02:00</updated>
         <id>http://schlagzeilen.me/mehr-geld-ungleich-mehr-motivation</id>
-        <content type="html"><![CDATA[<p>Es braucht nicht viel mehr, als dieses Video. Danke, David.</p>
+        <content type="html"><![CDATA[<p>Es braucht nicht viel mehr als dieses Video. Danke, David.</p>
 
-<iframe width="1120" height="630" src="http://schlagzeilen.me//www.youtube.com/embed/rrkrvAUbU9Y" frameborder="0" allowfullscreen></iframe>
+<iframe width="1120" height="630" src="http://www.youtube.com/embed/rrkrvAUbU9Y" frameborder="0" allowfullscreen></iframe>
 
 ]]></content>
       </entry>
@@ -239,7 +239,7 @@
   
     
       <entry>
-        <title type="html"><![CDATA[Wenn Worte meine Sprachen wären. Oh wait...]]></title>
+        <title type="html"><![CDATA[Wenn Worte meine Sprache wären. Oh wait...]]></title>
         <link href="http://schlagzeilen.me/worte/"/>
         <updated>2013-08-24T12:59:00+02:00</updated>
         <id>http://schlagzeilen.me/worte</id>
