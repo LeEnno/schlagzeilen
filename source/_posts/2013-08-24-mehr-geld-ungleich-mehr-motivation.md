@@ -6,6 +6,6 @@ excerpt: Wenn du willst, dass jemand seine Arbeit besser macht, dann gib ihm meh
 tldr: Es ist seit Jahrzehnten wissenschaftlich erwiesen, dass Arbeitgeber die falschen Anreize schaffen.
 ---
 
-Es braucht nicht viel mehr, als dieses Video. Danke, David.
+Es braucht nicht viel mehr als dieses Video. Danke, David.
 
-<iframe width="1120" height="630" src="//www.youtube.com/embed/rrkrvAUbU9Y" frameborder="0" allowfullscreen></iframe>
+<iframe width="1120" height="630" src="http://www.youtube.com/embed/rrkrvAUbU9Y" frameborder="0" allowfullscreen></iframe>
