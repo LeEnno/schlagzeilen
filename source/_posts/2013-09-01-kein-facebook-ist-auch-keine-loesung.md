@@ -46,7 +46,7 @@ Ohne Facebook fällt das offensichtlich flach. Und das stinkt. So gern ich auch 
 
 Facebook ist lahm, Facebook ist – zumindest solang das von Google+ kopierte Design bei mir noch nicht angekommen ist – hässlich und vor allem nutzt Facebook seine Nutzer gnadenlos aus. Doch sie waren die ersten, die ersten wirklich großen. Und das ist ein Erfolg, der einzige Erfolg, von dem sie heute noch leben.
 
-Ich wünschte es wäre nicht so, doch so lang ich die Leute dort nicht dazu bewegen kann das Netzwerk zu wechseln, werde auch ich bei Facebook wieder regelmäßig vorbeischauen. In einem dedizierten Browser. Und nur dort. Facebook soll nach Möglichkeit bis auf das, was ich dort poste, nicht mehr allzu viel von mir mitbekommen. Und auch auf meinem Smartphone hat Facebook auch nichts mehr verloren.[^app]
+Ich wünschte es wäre nicht so, doch so lang ich die Leute dort nicht dazu bewegen kann das Netzwerk zu wechseln, werde auch ich bei Facebook wieder regelmäßig vorbeischauen. In einem dedizierten Browser. Und nur dort. Facebook soll nach Möglichkeit bis auf das, was ich dort poste, nicht mehr allzu viel von mir mitbekommen. Und auch auf meinem Smartphone hat Facebook nichts mehr verloren.[^app]
 
 Schöne, neue ich-hasse-den-Service-aber-nutze-ihn-trotzdem-Welt. Eigentlich hat man ja die Wahl. Uneigentlich aber nicht.
 
