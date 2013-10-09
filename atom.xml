@@ -4,7 +4,7 @@
   <title><![CDATA[Schlagzeilen]]></title>
   <link href="http://schlagzeilen.me/atom.xml" rel="self"/>
   <link href="http://schlagzeilen.me/"/>
-  <updated>2013-10-08T21:09:29+02:00</updated>
+  <updated>2013-10-09T07:32:30+02:00</updated>
   <id>http://schlagzeilen.me/</id>
   <author>
     <name><![CDATA[Enrico Schlag]]></name>
@@ -19,7 +19,7 @@
         <link href="http://schlagzeilen.me/mallorca/"/>
         <updated>2013-10-08T17:55:00+02:00</updated>
         <id>http://schlagzeilen.me/mallorca</id>
-        <content type="html"><![CDATA[<p><img src="file://localhost/Users/Enno/Sites/github/schlagzeilen/source/images/content/mallorca_gebirge.jpg" alt="Aussicht am Strand von Can Picafort" /></p>
+        <content type="html"><![CDATA[<p class='image-block'><img src='http://schlagzeilen.me/images/content/mallorca_gebirge.jpg' alt='Aussicht am Strand von Can Picafort' /></p>
 
 <p>Es war ruhig um mein Online-Ich. Praktisch kein Twitter, keine Blog-Beiträge, kaum Mails. Grund: wohlverdienter Urlaub.</p>
 
@@ -33,7 +33,7 @@
 
 <p>Auf dem Weg zum Strand hat uns irgendwas hinter einer Mauer angejault. Als wir kurz in die Büsche geschaut haben, hat etwas zurück geschaut: ein kleines süßes, rot-weißes Katzenbaby.</p>
 
-<p><img src="file://localhost/Users/Enno/Sites/github/schlagzeilen/source/images/content/mallorca_cat.jpg" alt="Katze auf Mallorca" /></p>
+<p class='image-block'><img src='http://schlagzeilen.me/images/content/mallorca_cat.jpg' alt='Katze auf Mallorca' /></p>
 
 <p>Gott, war das Viech niedlich. Und beim Weggehen realisierte ich einmal mehr, dass ich durch meine warum auch immer entstandene Katzenallergie wohl nie solch einen kleinen Frechdachs mein Eigen nennen kann. Das ist ok, aber in solchen Momenten doch recht traurig.</p>
 
@@ -49,11 +49,11 @@
 
 <p>Die Häuser und Villen im mediterranen Stil, die man in unserem Aufenthaltsort Can Picafort entlang einer Palmenallee begutachten konnte, waren unglaublich schön anzusehen. Wirklich.</p>
 
-<p><img src="file://localhost/Users/Enno/Sites/github/schlagzeilen/source/images/content/mallorca_palmen.jpg" alt="Mediterranes Feeling" /></p>
+<p class='image-block'><img src='http://schlagzeilen.me/images/content/mallorca_palmen.jpg' alt='Mediterranes Feeling' /></p>
 
 <p>Auch die Strände sorgen für die geballte Packung <em>Hach</em>.</p>
 
-<p><img src="file://localhost/Users/Enno/Sites/github/schlagzeilen/source/images/content/mallorca_strand.jpg" alt="Strand in Alcudia" /></p>
+<p class='image-block'><img src='http://schlagzeilen.me/images/content/mallorca_strand.jpg' alt='Strand in Alcudia' /></p>
 
 <p>Wirklich langweilig sind allerdings die Geschäfte entlang der Strandpromenade. Das hatte ich so nicht erwartet.</p>
 
@@ -63,11 +63,11 @@
 
 <p>Wir waren ziemlich enttäuscht, haben uns daraufhin ein wenig abseits vom Markt diese typischen engen Gassen angesehen.</p>
 
-<p><img src="file://localhost/Users/Enno/Sites/github/schlagzeilen/source/images/content/mallorca_gasse.jpg" alt="Enge Gasse in Alcudia" /></p>
+<p class='image-block'><img src='http://schlagzeilen.me/images/content/mallorca_gasse.jpg' alt='Enge Gasse in Alcudia' /></p>
 
 <p>Überreste einer Stadtmauer gaben auch einen sehr schönen Ausblick mit Mix aus Palmen, Meer, flachen Dächern und Gebirgen. Könnte ich fotografieren, würde die Stimmung auf den Bildern auch rüberkommen.</p>
 
-<p><img src="file://localhost/Users/Enno/Sites/github/schlagzeilen/source/images/content/mallorca_alcudia_dach.jpg" alt="Blick von der Stadtmauer in Alcudia" /></p>
+<p class='image-block'><img src='http://schlagzeilen.me/images/content/mallorca_alcudia_dach.jpg' alt='Blick von der Stadtmauer in Alcudia' /></p>
 
 <p>Aber allgemein fuhren wir an dem Tag eher enttäuscht zurück ins Hotel. Apropos zurückfahren&hellip;</p>
 
@@ -91,7 +91,7 @@
 
 <p>Ebenso wie Chef 2. Er erzählte von einer ausgedehnten Radtour und sagte es wäre genau die Art von Erholung, die er braucht. Völlig anderer Input, keine Arbeit, keine bekannten Gesichter. Ich konnte mich bisher für die Idee einer ausufernden Radtour absolut nicht begeistern. Als wir aber am letzten Urlaubstag beschlossen haben vom Hafen in Alcudia die 12 Kilometer zurück zum Hotel nach Can Picafort an der Küste entlang zu laufen statt mit dem Bus zu fahren, konnte ich auch in diesem Fall nachvollziehen, was er meinte.</p>
 
-<p><img src="file://localhost/Users/Enno/Sites/github/schlagzeilen/source/images/content/mallorca_maps.png" alt="Distanz zwischen Alcudia und Can Picaort" /></p>
+<p class='image-block'><img src='http://schlagzeilen.me/images/content/mallorca_maps.png' alt='Distanz zwischen Alcudia und Can Picaort' /></p>
 
 <p>Ironischerweise haben wir uns relativ am Anfang des Urlaubs für einem Tag Fahrräder ausgeliehen um ins Nachbarstädchen zu fahren. Auf dem Weg dorthin sind wir ungeplant abgebogen und auf einem von der Regierung gepflegten Radweg entlang eines Naturschutzgebietes gefahren. Nach knapp 48 Stunden auf Mallorca stellte sich dort zum ersten Mal richtiges Urlaubsfeeling ein.</p>
 
@@ -214,7 +214,7 @@
 
 <h2>Die traurige Wahrheit: es führt kein <em>schmerzfreier</em> Weg an Facebook vorbei</h2>
 
-<p><img src="file://localhost/Users/Enno/Sites/github/schlagzeilen/source/images/content/quit_facebook.jpg" alt="One does not simply quit Facebook" /></p>
+<p class='image-block'><img src='http://schlagzeilen.me/images/content/quit_facebook.jpg' alt='One does not simply quit Facebook' /></p>
 
 <p>Facebook ist lahm, Facebook ist – zumindest solang das von Google+ kopierte Design bei mir noch nicht angekommen ist – hässlich und vor allem nutzt Facebook seine Nutzer gnadenlos aus. Doch sie waren die ersten, die ersten wirklich großen. Und das ist ein Erfolg, der einzige Erfolg, von dem sie heute noch leben.</p>
 
