@@ -9,7 +9,7 @@ $mainNavBreakpoint: 500px;
   @include responsive($bgImageWidth) {background-size:$bgImageWidth 100%;}
 
   h1 {
-    height:200px; margin:0 0 20px; line-height:200px; font-family:"HelveticaNeue-UltraLight", "Helvetica Neue Ultra Light", "HelveticaNeue-Light", "Helvetica Neue Light", "HelveticaNeue", "Helvetica Neue"; font-weight:normal; font-size:80px; letter-spacing:5px; text-transform:uppercase; text-align:center;
+    height:200px; margin:0 0 20px; line-height:200px; font-family:"HelveticaNeue-UltraLight", "Helvetica Neue Ultra Light", "HelveticaNeue-Light", "Helvetica Neue Light", "HelveticaNeue", "Helvetica Neue"; font-weight:100; font-size:80px; letter-spacing:5px; text-transform:uppercase; text-align:center;
 
     @include responsive($contentWidth + 40px) {
       background:image-url("schlagzeilen.png") center center no-repeat; background-size:90%;
@@ -22,7 +22,7 @@ $mainNavBreakpoint: 500px;
     a:hover {text-decoration:none;}
   }
 
-  strong {font-family:"HelveticaNeue-Light", "Helvetica Neue Light"; font-weight:normal;}
+  strong {font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "HelveticaNeue", "Helvetica Neue"; font-weight:normal;}
   a {color:white;}
 }
 
