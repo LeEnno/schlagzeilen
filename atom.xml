@@ -4,7 +4,7 @@
   <title><![CDATA[Schlagzeilen]]></title>
   <link href="http://schlagzeilen.me/atom.xml" rel="self"/>
   <link href="http://schlagzeilen.me/"/>
-  <updated>2013-11-27T07:58:30+01:00</updated>
+  <updated>2013-12-17T09:17:26+01:00</updated>
   <id>http://schlagzeilen.me/</id>
   <author>
     <name><![CDATA[Enrico Schlag]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+    
+      <entry>
+        <title type="html"><![CDATA[Freuden der Anerkennung]]></title>
+        <link href="http://schlagzeilen.me/anerkennung/"/>
+        <updated>2013-12-17T09:07:38+01:00</updated>
+        <id>http://schlagzeilen.me/anerkennung</id>
+        <content type="html"><![CDATA[<p>Stellt euch vor ihr kocht. Ihr kocht gern und ihr mögt es eure Rezepte zu teilen. Ihr findet hier und da Inspiration für neue Rezepte. Manchmal werdet ihr von Leuten wie mir, die absolut keinen blassen Dunst vom Kochen haben, gefragt, ob man in Gericht X nicht Zutat Y integrieren könnte. Ihr findet die Idee klasse, probiert es aus, es schmeckt. Ihr wollt das Rezept mit anderen teilen. Und tut dies. Auf eurem Blog, Portalen wie Chefkoch.de oder sonst wo.</p>
+
+<p>Nach und nach stoßen andere Leute auf euer Rezept. Hungrige, kochfreudige Menschen, die euch eigentlich nicht kennen. Sie kochen das Rezept nach und schreiben euch anschließend, was für eine gute Idee ihr da hattet.</p>
+
+<p>Monate später wird euch in einem Gespräch mit einem Gourmet-Kollegen der Artikel eine Kochmagazins<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> empfohlen. Ein Artikel mit einer Empfehlung der 15 besten Y-Rezepte<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> für einen gemütlichen Abend. Ihr nehmt euch vor den Artikel bei Gelegenheit zu lesen.</p>
+
+<h2>E-Mails, die Freude bereiten</h2>
+
+<p>Plötzlich kommt eine E-Mail rein, eine Benachrichtigung von Chefkoch.de, dass euer Name in einem namhaften Online-Magazin erscheint. Ihr geht dieser Mail nach und findet heraus, dass die Rezeptliste, die ihr eben noch von eurem Gourmet-Kollegen erhalten habt, nachträglich um euer Rezept ergänzt wurde. Um euer eigenes, kleines Popelrezept. Verlinkt in einem Portal, das eines der größten in der Kochszene ist.</p>
+
+<p>Ok, realistisch betrachtet handelt es sich hierbei um 15 Sekunden Ruhm. Ruhm in der Form von &ldquo;ahja, interessant, schaue ich mir später vielleicht mal an, wenn ich nichts besseres zu tun habe&rdquo;. Aber die Bedeutung dahinter ist groß. Jemand hat sich aktiv mit etwas auseinandergesetzt, das ihr geschaffen habt, und sogar für gut befunden. So gut, dass es in eine engere Auswahl der Sachen kommt, die es aus Sicht des Verfassers wert sind verbreitet zu werden.</p>
+
+<h2>Was GitHub mit Chefkoch zu tun hat</h2>
+
+<p>Mir ist das passiert. Natürlich nicht beim Kochen, nein. Den Tag werden wir alle nicht mehr erleben. Ich habe diese Analogie nur verwendet, um auch den nicht ganz so Technikaffinen unter euch näher zu bringen, was es bedeutet. Was es bedeutet, wenn ein <a href="https://github.com/LeEnno/alfred-terminalfinder" title="LeEnno/alfred-terminalfinder">bei Github geparkter Alfred Workflow</a> von mir auf <a href="https://github.com/zenorocha/alfred-workflows#terminal--finder-v16--download" title="zenorocha/alfred-workflows">einer Liste von Webentwickler-Workflows</a> erscheint, die in <a href="http://lifehacker.com/this-massive-list-of-alfred-workflows-automates-all-kin-1411849146" title="This Massive List of Alfred Workflows Automates All Kinds of Tasks">einem Lifehacker-Artikel</a> verlinkt sind.</p>
+
+<p>Soviel Spaß es auch macht eigenes Wissen und eigene Erfahrungen zu teilen oder etwas hilfreiches für andere kostenlos zur Verfügung zu stellen: es ist immer schön dafür Anerkennung zu erhalten.</p>
+
+<p>Was ihr daraus mitnehmen sollt ist nicht etwa mir den Hintern zu knutschen, weil ich ein so dufter Typ bin.<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup> Ich will euch vermitteln, wie wichtig es ist Danke zu sagen und zu zeigen, dass ihr etwas zu schätzen wisst. Im täglichen Miteinander sowieso, aber auch in der digitalen Welt. Dankt eurem Gegenüber für die Link-Empfehlung, wenn euch gefallen hat, was ihr gesehen habt. Bewertet gute Apps in den passenden App-Stores, schreibt Rezensionen, empfehlt Gutes weiter. In der Regel ist es für euch ein sehr kleiner, fast unbedeutender Schritt. Doch den Empfanger macht es glücklich. Es ist das, was in den entschiedenen Situationen motiviert, sollten einmal Zweifel aufkommen, wozu man das alles macht.</p>
+
+<p>Tut denen gutes, die euch gutes tun. Es ist so, so einfach und bringt uns alle weiter.</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Würde ich eine Kochzeitschrift kennen, hätte ich hier ein Beispiel eingefügt.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<li id="fn:2">
+<p><em>Y</em> &ndash; ihr erinnert euch &ndash; steht für die Zutat aus Gericht X ;)<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
+<li id="fn:3">
+<p>Ich hätte jetzt aber auch nichts dagegen.<a href="#fnref:3" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+      </entry>
+    
   
     
       <entry>
