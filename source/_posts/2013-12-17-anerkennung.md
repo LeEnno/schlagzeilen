@@ -10,7 +10,7 @@ Stellt euch vor ihr kocht. Ihr kocht gern und ihr mögt es eure Rezepte zu teile
 
 Nach und nach stoßen andere Leute auf euer Rezept. Hungrige, kochfreudige Menschen, die euch eigentlich nicht kennen. Sie kochen das Rezept nach und schreiben euch anschließend, was für eine gute Idee ihr da hattet.
 
-Monate später wird euch in einem Gespräch mit einem Gourmet-Kollegen der Artikel eine Kochmagazins[^kochbuch] empfohlen. Ein Artikel mit einer Empfehlung der 15 besten Y-Rezepte[^yrezepte] für einen gemütlichen Abend. Ihr nehmt euch vor den Artikel bei Gelegenheit zu lesen.
+Monate später wird euch in einem Gespräch mit einem Gourmet-Kollegen der Artikel eines Kochmagazins[^kochbuch] empfohlen. Ein Artikel mit einer Empfehlung der 15 besten Y-Rezepte[^yrezepte] für einen gemütlichen Abend. Ihr nehmt euch vor den Artikel bei Gelegenheit zu lesen.
 
 [^yrezepte]: *Y* - ihr erinnert euch - steht für die Zutat aus Gericht X ;)
 
