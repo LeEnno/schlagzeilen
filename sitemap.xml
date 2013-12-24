@@ -41,12 +41,16 @@
         <lastmod>2013-12-18T12:24:35+01:00</lastmod>
     </url>
     <url>
+        <loc>http://schlagzeilen.me/glueck/</loc>
+        <lastmod>2013-12-24T15:55:09+01:00</lastmod>
+    </url>
+    <url>
         <loc>http://schlagzeilen.me/archiv/</loc>
-        <lastmod>2013-12-18T12:24:35+01:00</lastmod>
+        <lastmod>2013-12-24T15:55:09+01:00</lastmod>
     </url>
     <url>
         <loc>http://schlagzeilen.me/changelog/</loc>
-        <lastmod>2013-12-18T12:24:35+01:00</lastmod>
+        <lastmod>2013-12-24T15:55:09+01:00</lastmod>
     </url>
     <url>
         <loc>http://schlagzeilen.me/impressum/</loc>
@@ -54,11 +58,11 @@
     </url>
     <url>
         <loc>http://schlagzeilen.me/</loc>
-        <lastmod>2013-12-18T12:24:35+01:00</lastmod>
+        <lastmod>2013-12-24T15:55:09+01:00</lastmod>
     </url>
     <url>
         <loc>http://schlagzeilen.me/kontakt/</loc>
-        <lastmod>2013-12-18T12:24:35+01:00</lastmod>
+        <lastmod>2013-12-24T15:55:09+01:00</lastmod>
     </url>
     <url>
         <loc>http://schlagzeilen.me/robots.txt</loc>
