@@ -1,24 +1,16 @@
 $paragraphMargin: 27px;
 
-.article {
-  margin-bottom:80px;
+.article {margin-bottom:80px;
 
   h1, p {max-width:$contentWidth; margin:0 auto;}
-  
-  h1 {
-    margin-bottom:42px; padding:24px 0; border-top:1px solid $borderColor; border-bottom:1px solid $borderColor; line-height:42px; text-align:center; font-size:36px;
-
-    a {
-      color:$textColor; transition:color 0.2s;
-      
+  h1 {margin-bottom:42px; padding:24px 0; border-top:1px solid $borderColor; border-bottom:1px solid $borderColor; line-height:42px; text-align:center; font-size:36px;
+    a {color:$textColor; transition:color 0.2s;
       &:hover {color:$linkColor; text-decoration:none;}
     }
   }
 
   h2 {max-width:$contentWidth; margin:42px auto 27px;}
-  .changelog-title {
-    margin-top:0; margin-bottom:18px;
-
+  .changelog-title {margin-top:0; margin-bottom:18px;
     @include responsive() {padding:0;}
   }
 
@@ -28,16 +20,14 @@ $paragraphMargin: 27px;
   .tldr {max-width:$contentWidth - 80px; margin-bottom:$paragraphMargin + 6px; padding:20px; background:rgba($linkColor, 0.15); font-size:0.9em;}
   .changelog-date {margin-bottom:2px; font-size:0.7em;}
   .changelog-content {margin-bottom:64px;}
-  .date-published {
-    margin-top:80px; text-align:center; font-size:0.8em;
-
+  .date-published {margin-top:80px; text-align:center; font-size:0.8em;
     &:before, &:after {content:"–"; margin:0 10px;}
   }
 
-  blockquote {
-    padding:10px 0; margin:0;
-
-    p {font-style:italic; max-width:$contentWidth - 60px; padding-left:16px; border-left:2px solid $borderColor; color:lighten($textColor, 25%);}
+  blockquote {padding:10px 0 $paragraphMargin; margin:0;
+    p {font-style:italic; max-width:$contentWidth - 60px; margin-bottom:0; padding-left:16px; padding-bottom:$paragraphMargin; border-left:2px solid $borderColor; color:lighten($textColor, 25%);
+      &:last-child {padding-bottom:0;}
+    }
   }
 
   a {color:$linkColor;}
@@ -46,9 +36,7 @@ $paragraphMargin: 27px;
   img {max-width:100%;}
   .image-block {max-width:none; margin-left:0; margin-right:0; text-align:center;}
 
-  .multiple-thumbs {
-    margin:50px 20px 30px; text-align:center;
-
+  .multiple-thumbs {margin:50px 20px 30px; text-align:center;
     p {display:inline-block; margin:0 10px 12px; font-size:0.9em; color:#999;}
     img {display:block; margin-bottom:6px;}
   }
@@ -62,15 +50,10 @@ $paragraphMargin: 27px;
 
 .link-to-complete-post {font-weight:bold;}
 
-.footnotes {
-  max-width:$contentWidth; margin:42px auto 0; line-height:1.5;
-
+.footnotes {max-width:$contentWidth; margin:42px auto 0; line-height:1.5;
   hr {height:0; margin:0; border:none; border-top:1px dashed $borderColor;}
-  ol {
-    padding:0 30px;
-    
+  ol {padding:0 30px;
     li {font-size:0.8em;}
-
     @include responsive() {padding-left:60px;}
   }
 }
