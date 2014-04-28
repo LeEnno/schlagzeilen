@@ -4,7 +4,7 @@
   <title><![CDATA[Schlagzeilen]]></title>
   <link href="http://schlagzeilen.me/atom.xml" rel="self"/>
   <link href="http://schlagzeilen.me/"/>
-  <updated>2014-04-27T18:56:19+02:00</updated>
+  <updated>2014-04-28T12:08:24+02:00</updated>
   <id>http://schlagzeilen.me/</id>
   <author>
     <name><![CDATA[Enrico Schlag]]></name>
@@ -21,7 +21,7 @@
         <id>http://schlagzeilen.me/nerds</id>
         <content type="html"><![CDATA[<p>Vergangenes Wochenende durfte ich der Einweihungsfeier von Freunden beiwohnen, die unter das Motto <em>Nerds und Streber</em> gestellt wurde, d.h. alle sahen ungefähr so aus:</p>
 
-<p class='image-block'><img src='http://schlagzeilen.me/images/content/nerds_babynerd.jpg' alt='Das Klischee vom Nerd' /></p>
+<p class='image-block'><a href='http://schlagzeilen.me/images/content/nerds_babynerd.jpg' title='Das Klischee vom Nerd'><img src='http://schlagzeilen.me/images/content/nerds_babynerd.jpg' alt='Das Klischee vom Nerd' /></a></p>
 
 <p>Wer an dieser Stelle hofft ein paar ulkige Fotos von mir in meinem Outfit zu sehen, der wird leider enttäuscht. Nicht alles muss in das Licht der Öffentlichkeit gestellt werden. Es soll vielmehr um eine interessante Beobachtung gehen, die mich dazu brachte die folgenden Zeilen zu schreiben.</p>
 
@@ -49,7 +49,7 @@
 
 <p>Ich z.B. hab u.a. eine Leidenschaft für gut gemachte Software. Das ist der Grund warum ich mich beim durchstöbern der iTunes Library in Ekstase freuen kann, dass die Farbgebung jeder Album-Tracklist zum Cover passt.<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup></p>
 
-<p class='image-block'><img src='http://schlagzeilen.me/images/content/nerds_itunes.png' alt='iTunes-Screenshots' /></p>
+<p class='image-block'><a href='http://schlagzeilen.me/images/content/nerds_itunes.png' title='iTunes-Screenshots'><img src='http://schlagzeilen.me/images/content/nerds_itunes.png' alt='iTunes-Screenshots' /></a></p>
 
 <p>Was folgt? Ungläubige Blicke und &ldquo;<em>Enno, du bist so ein Nerd!</em>&rdquo;</p>
 
@@ -395,7 +395,7 @@ It&rsquo;s all in your head.</p></blockquote>
         <link href="http://schlagzeilen.me/mallorca/"/>
         <updated>2013-10-08T17:55:00+02:00</updated>
         <id>http://schlagzeilen.me/mallorca</id>
-        <content type="html"><![CDATA[<p class='image-block'><img src='http://schlagzeilen.me/images/content/mallorca_gebirge.jpg' alt='Aussicht am Strand von Can Picafort' /></p>
+        <content type="html"><![CDATA[<p class='image-block'><a href='http://schlagzeilen.me/images/content/mallorca_gebirge.jpg' title='Aussicht am Strand von Can Picafort'><img src='http://schlagzeilen.me/images/content/mallorca_gebirge.jpg' alt='Aussicht am Strand von Can Picafort' /></a></p>
 
 <p>Es war ruhig um mein Online-Ich. Praktisch kein Twitter, keine Blog-Beiträge, kaum Mails. Grund: wohlverdienter Urlaub.</p>
 
@@ -409,7 +409,7 @@ It&rsquo;s all in your head.</p></blockquote>
 
 <p>Auf dem Weg zum Strand hat uns irgendwas hinter einer Mauer angejault. Als wir kurz in die Büsche geschaut haben, hat etwas zurück geschaut: ein kleines süßes, rot-weißes Katzenbaby.</p>
 
-<p class='image-block'><img src='http://schlagzeilen.me/images/content/mallorca_cat.jpg' alt='Katze auf Mallorca' /></p>
+<p class='image-block'><a href='http://schlagzeilen.me/images/content/mallorca_cat.jpg' title='Katze auf Mallorca'><img src='http://schlagzeilen.me/images/content/mallorca_cat.jpg' alt='Katze auf Mallorca' /></a></p>
 
 <p>Gott, war das Viech niedlich. Und beim Weggehen realisierte ich einmal mehr, dass ich durch meine warum auch immer entstandene Katzenallergie wohl nie solch einen kleinen Frechdachs mein Eigen nennen kann. Das ist ok, aber in solchen Momenten doch recht traurig.</p>
 
@@ -425,11 +425,11 @@ It&rsquo;s all in your head.</p></blockquote>
 
 <p>Die Häuser und Villen im mediterranen Stil, die man in unserem Aufenthaltsort Can Picafort entlang einer Palmenallee begutachten konnte, waren unglaublich schön anzusehen. Wirklich.</p>
 
-<p class='image-block'><img src='http://schlagzeilen.me/images/content/mallorca_palmen.jpg' alt='Mediterranes Feeling' /></p>
+<p class='image-block'><a href='http://schlagzeilen.me/images/content/mallorca_palmen.jpg' title='Mediterranes Feeling'><img src='http://schlagzeilen.me/images/content/mallorca_palmen.jpg' alt='Mediterranes Feeling' /></a></p>
 
 <p>Auch die Strände sorgen für die geballte Packung <em>Hach</em>.</p>
 
-<p class='image-block'><img src='http://schlagzeilen.me/images/content/mallorca_strand.jpg' alt='Strand in Alcudia' /></p>
+<p class='image-block'><a href='http://schlagzeilen.me/images/content/mallorca_strand.jpg' title='Strand in Alcudia'><img src='http://schlagzeilen.me/images/content/mallorca_strand.jpg' alt='Strand in Alcudia' /></a></p>
 
 <p>Wirklich langweilig sind allerdings die Geschäfte entlang der Strandpromenade. Das hatte ich so nicht erwartet.</p>
 
@@ -439,11 +439,11 @@ It&rsquo;s all in your head.</p></blockquote>
 
 <p>Wir waren ziemlich enttäuscht, haben uns daraufhin ein wenig abseits vom Markt diese typischen engen Gassen angesehen.</p>
 
-<p class='image-block'><img src='http://schlagzeilen.me/images/content/mallorca_gasse.jpg' alt='Enge Gasse in Alcudia' /></p>
+<p class='image-block'><a href='http://schlagzeilen.me/images/content/mallorca_gasse.jpg' title='Enge Gasse in Alcudia'><img src='http://schlagzeilen.me/images/content/mallorca_gasse.jpg' alt='Enge Gasse in Alcudia' /></a></p>
 
 <p>Überreste einer Stadtmauer gaben auch einen sehr schönen Ausblick mit Mix aus Palmen, Meer, flachen Dächern und Gebirgen. Könnte ich fotografieren, würde die Stimmung auf den Bildern auch rüberkommen.</p>
 
-<p class='image-block'><img src='http://schlagzeilen.me/images/content/mallorca_alcudia_dach.jpg' alt='Blick von der Stadtmauer in Alcudia' /></p>
+<p class='image-block'><a href='http://schlagzeilen.me/images/content/mallorca_alcudia_dach.jpg' title='Blick von der Stadtmauer in Alcudia'><img src='http://schlagzeilen.me/images/content/mallorca_alcudia_dach.jpg' alt='Blick von der Stadtmauer in Alcudia' /></a></p>
 
 <p>Aber allgemein fuhren wir an dem Tag eher enttäuscht zurück ins Hotel. Apropos zurückfahren&hellip;</p>
 
@@ -467,7 +467,7 @@ It&rsquo;s all in your head.</p></blockquote>
 
 <p>Ebenso wie Chef 2. Er erzählte von einer ausgedehnten Radtour und sagte es wäre genau die Art von Erholung, die er braucht. Völlig anderer Input, keine Arbeit, keine bekannten Gesichter. Ich konnte mich bisher für die Idee einer ausufernden Radtour absolut nicht begeistern. Als wir aber am letzten Urlaubstag beschlossen haben vom Hafen in Alcudia die 12 Kilometer zurück zum Hotel nach Can Picafort an der Küste entlang zu laufen statt mit dem Bus zu fahren, konnte ich auch in diesem Fall nachvollziehen, was er meinte.</p>
 
-<p class='image-block'><img src='http://schlagzeilen.me/images/content/mallorca_maps.png' alt='Distanz zwischen Alcudia und Can Picaort' /></p>
+<p class='image-block'><a href='http://schlagzeilen.me/images/content/mallorca_maps.png' title='Distanz zwischen Alcudia und Can Picaort'><img src='http://schlagzeilen.me/images/content/mallorca_maps.png' alt='Distanz zwischen Alcudia und Can Picaort' /></a></p>
 
 <p>Ironischerweise haben wir uns relativ am Anfang des Urlaubs für einem Tag Fahrräder ausgeliehen um ins Nachbarstädchen zu fahren. Auf dem Weg dorthin sind wir ungeplant abgebogen und auf einem von der Regierung gepflegten Radweg entlang eines Naturschutzgebietes gefahren. Nach knapp 48 Stunden auf Mallorca stellte sich dort zum ersten Mal richtiges Urlaubsfeeling ein.</p>
 
@@ -590,7 +590,7 @@ It&rsquo;s all in your head.</p></blockquote>
 
 <h2>Die traurige Wahrheit: es führt kein <em>schmerzfreier</em> Weg an Facebook vorbei</h2>
 
-<p class='image-block'><img src='http://schlagzeilen.me/images/content/quit_facebook.jpg' alt='One does not simply quit Facebook' /></p>
+<p class='image-block'><a href='http://schlagzeilen.me/images/content/quit_facebook.jpg' title='One does not simply quit Facebook'><img src='http://schlagzeilen.me/images/content/quit_facebook.jpg' alt='One does not simply quit Facebook' /></a></p>
 
 <p>Facebook ist lahm, Facebook ist – zumindest solang das von Google+ kopierte Design bei mir noch nicht angekommen ist – hässlich und vor allem nutzt Facebook seine Nutzer gnadenlos aus. Doch sie waren die ersten, die ersten wirklich großen. Und das ist ein Erfolg, der einzige Erfolg, von dem sie heute noch leben.</p>
 
