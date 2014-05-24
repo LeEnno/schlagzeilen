@@ -5,6 +5,14 @@
   <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
   <meta name="author" content="{{ site.author }}">
 
+  {% if page.title %}
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:site_name" content="Schlagzeilen">
+    {% if page.excerpt %}<meta property="og:description" content="{{ page.excerpt }}">{% endif %}
+  {% endif %}
+
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <link href="{{ root_url }}/favicon.png" rel="icon">
