@@ -2,7 +2,7 @@
 layout: post
 title: "Der Sanft & Sorgfältig Fanboy"
 date: 2014-05-24 17:11:34 +0200
-tldr: "Unter all den Podcasts die ich höre, gibt es keinen, bei dem ich mich derart auf frischen Content freue, wie bei Sanft & Sorgfältig. Olli Schulz und Jan Böhmermann treffen jede Woche auf's Neue genau meinen Humor."
+tldr: "Unter all den Podcasts, die ich höre, gibt es keinen, bei dem ich mich derart auf frischen Content freue, wie bei Sanft & Sorgfältig. Olli Schulz und Jan Böhmermann treffen jede Woche auf's Neue genau meinen Humor."
 excerpt: "Manchmal stolpert man über Dinge, bei denen man nicht versteht, warum sie vergleichsweise unbekannt sind. So geschehen bei mir mit *Sanft & Sorgfältig*, einer Radioshow mit Olli Schulz und Jan Böhmermann. Ein bisschen Weltgeschehen, ein bisschen Meinung, vor allem aber zwei erwachsene Kinder, deren primäres Ziel Unterhaltung um jeden Preis ist. Und bevor das Format richtig durch die Decke geht, wollte ich doch schnell noch mal drüber schreiben. Before it was cool und so."
 ---
 
