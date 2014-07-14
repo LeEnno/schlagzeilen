@@ -4,7 +4,7 @@
   <title><![CDATA[Schlagzeilen]]></title>
   <link href="http://schlagzeilen.me/atom.xml" rel="self"/>
   <link href="http://schlagzeilen.me/"/>
-  <updated>2014-06-07T16:41:14+02:00</updated>
+  <updated>2014-07-14T20:12:50+02:00</updated>
   <id>http://schlagzeilen.me/</id>
   <author>
     <name><![CDATA[Enrico Schlag]]></name>
@@ -12,6 +12,90 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+    
+      <entry>
+        <title type="html"><![CDATA[Summercamp Alfeld 2014]]></title>
+        <link href="http://schlagzeilen.me/sca14/"/>
+        <updated>2014-07-14T19:39:21+02:00</updated>
+        <id>http://schlagzeilen.me/sca14</id>
+        <content type="html"><![CDATA[<p>Das erste Juliwochenende habe ich in Alfeld verbracht, einem kleineren Örtchen in Niedersachsen. Dort fand mein bisher erstes Barcamp statt. Es hört auf den Namen Summercamp Alfeld und fand in dieser Ausführung nach 2010 und 2012 bereits das dritte Mal statt.</p>
+
+<p>Falls der Begriff bei euch einen ähnlich fragenden Gesichtsausdruck hinterlässt, wie bei mir vor gar nicht allzu langer Zeit, ist <a href="http://de.wikipedia.org/wiki/Barcamp" title="Barcamp – Wikipedia">Wikipedia</a> euer Freund:</p>
+
+<blockquote><p>Ein Barcamp (häufig auch BarCamp, Unkonferenz, Ad-hoc-Nicht-Konferenz) ist eine offene Tagung mit offenen Workshops, deren Inhalte und Ablauf von den Teilnehmern zu Beginn der Tagung selbst entwickelt und im weiteren Verlauf gestaltet werden. Barcamps dienen dem inhaltlichen Austausch und der Diskussion, können teilweise aber auch bereits am Ende der Veranstaltung konkrete Ergebnisse vorweisen (z. B. bei gemeinsamen Programmierworkshops).</p></blockquote>
+
+<p>Leider wurde ich erst kurz <em>nach</em> der 2012er Edition des Summercamps auf selbiges aufmerksam und wäre auf Basis der Bilder und Artikel der Recaps – wie wir coolen Kids einen Rückblick wie diesen hier nennen – zu gern dabei gewesen. Entsprechend habe ich mir damals versprochen, beim nächsten Mal vor Ort zu sein, was es also am vergangenen Wochenende einzulösen galt.</p>
+
+<h2>Ankommerei am Freitag</h2>
+
+<p>Der Austragungsort war die Villa Ruhe, die sich selbst als Jugendgästehaus betitelt. Ein sehr hübscher Bau, wie man sieht.</p>
+
+<p class='image-block'><a href='http://schlagzeilen.me/images/content/sca14_villa_ruhe.jpg' title='Villa Ruhe'><img src='http://schlagzeilen.me/images/content/sca14_villa_ruhe.jpg' alt='Villa Ruhe' /></a></p>
+
+<p>Dorthin gelang ich einerseits mit unseren Freunden von der Deutschen Bahn und mit dem Shuttle-Service des SCAs. Chef-Organisator <a href="https://twitter.com/KaiThrun" title="Kai Thrun on Twitter">Kai</a> selbst wartete zusammen mit <a href="https://twitter.com/agentur" title="Torsten Materna on Twitter">Torsten</a> im vom <a href="http://www.wiegand-automobile.de/" title="Wiegand Automobile: Startseite">Wiegand Automobile</a> gesponserten Sharan auf mich. Fuck Yeah, Heckkamera und all der andere Schnickschnack!</p>
+
+<p>Da ich erst um kurz nach 8 am Alfelder Bahnhof ankam und somit auch das Deutschlandspiel gegen Frankreich lediglich anhand der Lautsprecherdurchsagen des Zugbegleiters verfolgte, war der Großteil der Teilnehmerschaft bereits vor Ort. Ich habe meine Sachen im Zimmer verstaut, das Bett bezogen und mich nach draußen gesetzt um meine Mit-Barcamper ein wenig näher kennenzulernen. Sehr verrückte Mischung, größtenteils älter als ich, entsprechend fast ausnahmslos &ldquo;schon&rdquo; berufstätig, auffallend oft in der Social-Media-Branche.</p>
+
+<p>Da ich aber am nächsten Tag halbwegs fit sein wollte zwecks eigenem Vortrag, verabschiedete ich mich so gegen Mitternacht vergleichsweise früh Richtung Schlafgemach.</p>
+
+<h2>Der Samstag startet mit der eigenen Session</h2>
+
+<p>Am Samstag stand nach dem Frühstück eine kleine Vorstellungsrunde auf dem Plan mit anschließendem Gestalten des Sessionplans – also <em>Session</em> wie <em>Vortrag</em>, <em>Präsentation</em> und so. Mein erklärtes Ziel war auch selbst etwas beizusteuern, weswegen mir im Vorfeld und auch vor Ort ein wenig die Muffe ging. Klar, im Thema selbst – Produktivität am Mac – steck ich dank <a href="http://www.ienno.de/" title="iEnno | Ein Macianer auf seinem Spielplatz">Bloggerei</a> tief genug drin um ein bisschen was erzählen zu können. Dennoch waren da viele unbekannte Variablen. Wird überhaupt jemand kommen um sich den Schmarn anzuhören? Wenn ja, kommen dann auch nicht <em>zu</em> viele? Wissen die das alles schon? Oder sind meine Tipps viel zu nerdig für den Otto-Normal-Barcamper? Und was ist wenn die Zeit nicht reicht?</p>
+
+<p class='image-block'><a href='http://schlagzeilen.me/images/content/sca14_enno_session.jpg' title='Enno am sessionen'><img src='http://schlagzeilen.me/images/content/sca14_enno_session.jpg' alt='Enno am sessionen' /></a></p>
+
+<p>Am Ende waren wie so oft alle Sorgen für die Katz. Meine Session hat mir selbst Spaß gemacht, wurde dem Anschein nach gut aufgenommen und die Publikumsgröße war angenehm. Zeitlich war auch alles im Rahmen und Nachfragen deuteten daraufhin, dass zumindest ein Teil der Zuhörer nicht die ganze Zeit auf Twitter unterwegs war.</p>
+
+<h2>Viele interessante Leute, Themenfelder und Perspektiven</h2>
+
+<p>Ansonsten waren wie bereits erwähnt Social-Media- und Kommunikationsmenschen recht gut auf dem Summercamp vertreten. Entsprechend dominierte dieses Thema auch die Sessions, was für mich ein interessanter Einblick in eine doch recht unbekannte Welt war. Christina sprach darüber, wie Social Media beim Bundesamt für Migration und Flüchtlinge abläuft, unter welchen Regeln was gepostet werden kann und wie man auch dort mit Krisensituationen a.k.a. Shitstorms umgeht.</p>
+
+<p>Außerdem freute ich mich Vlad wiederzusehen, der diesmal etwas über seine Erfahrungen mit dem Self-Publishing erzählt hat, also dem verlagsfreien Vertreiben seiner eigenen Bücher. Neben seiner Session blieb außerdem auch Zeit für das ein oder andere Gespräch. Immer gut. Und im August gibt&rsquo;s beim nächsten Bloggertreffen in Köln (remember <a href="http://schlagzeilen.me/btk-2013/" title="Enno auf Reisen zum Bloggertreffen 2013 in Kölle - Schlagzeilen">2013</a>?) hoffentlich mehr davon.</p>
+
+<p class='image-block'><a href='http://schlagzeilen.me/images/content/sca_beamer.jpg' title='Trust Me, I am an Engineer'><img src='http://schlagzeilen.me/images/content/sca_beamer.jpg' alt='Trust Me, I am an Engineer' /></a></p>
+
+<p>Ebenfalls unglaublich informativ und vor allem mit viel Input der Anwesenden verbunden war die Session des selbstbetitelten Moppelkinds Tobias zum Thema Abnehmen und Ernährung. Der interessante Ansatz war dabei, nicht den einen ultimativen Weg vorzugeben, sondern eher gängige Auffassungen auseinanderzunehmen und realistisch zu betrachten was geht und was Bullshit ist. Die Antwort liegt immer in der Mitte, auch hier.</p>
+
+<p>Ab halb 7 wurde der Grill angeschmissen. Essen, quatschen, lachen. Was ich gelernt habe: Maaagdeburg hat seine ganz eigene Bedeutung in Barcamp-Kreisen.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> Und Fußball wurde natürlich auch geguckt. Mit ca. 20 Sekunden verzögertem Ton. Kann ich nur empfehlen, bringt eine ganz neue Unterhaltungskomponente ins Spiel.</p>
+
+<h2>Sonntag: Interessant trotz Tendenz zur Kater-Stimmung</h2>
+
+<p>Im Gegensatz zu so manch anderen bin ich am Samstag auch tatsächlich ins Bett gegangen, sodass ich wenigstens etwas Schlaf bekam. War übrigens eine Spitzenidee Sonntag früh aufzustehen und als erster duschen zu gehen. Der warme Teil des Wassers brauchte ein wenig, ehe er sich seinen Weg durch die Alfelder Rohre bahnen konnte. Die Zeit, die ich unter der Dusche stand, hat dafür leider nicht ausgereicht. Kalt duschen nach 3h Schlaf, yeeeeeeeah. Naja, zumindest war ich danach munter.</p>
+
+<p>Trotzdem war am Sonntag alles etwas träger, gefühlt zumindest. Die Sessions waren aber entgegen meinen Erwartungen sogar interessanter als den Tag zuvor. Zum einen die Disruption-Session von <a href="http://kaithrun.de/events/barcamps-events/summercamp-alfeld-2014-sca14-recap/" title="Summercamp Alfeld 2014 #sca14- Recap - Kai Thrun">Ingo</a>, in der es starke Diskussionen gab. Thematisch drehte sich alles um das Umkrempeln ganzer Marktsegmente durch innovative Startups und Entwicklungen. Ich habe relativ lange über das dort Besprochene nachgedacht und bringe das Thema mittlerweile auch mit zunehmender Freude im Bekanntenkreis mit ein.</p>
+
+<p class='image-block'><a href='http://schlagzeilen.me/images/content/sca_disruption.jpg' title='Ingo vor einer seiner 3 &quot;Slides&quot;'><img src='http://schlagzeilen.me/images/content/sca_disruption.jpg' alt='Ingo vor einer seiner 3 &quot;Slides&quot;' /></a></p>
+
+<p>In die gleiche Kerbe schlug auch die Session von Jens zum Thema Ideenfindung von Startups. Dabei handelte es sich um die Fortsetzung einer Session des ersten Tages, bei der wir unter anderem über einen Online-Beerdigungs-Konfigurator gesprochen haben. So makaber das im ersten Moment klingen mag, ich habe bisher niemanden gefunden, der die Idee nicht gut fand.</p>
+
+<p>Anschließend gaben einige der zahlreich vertretenen Selbstständigen einen Einblick in ihre Art und Weise zu kalkulieren und teilten andere wertvolle Erfahrungen, die sie im Umgang mit Kunden machen mussten.</p>
+
+<p>Übrigens: das Summercamp Alfeld ist vermutlich direkt nach der WWDC und Hamburg der Ort mit der höchsten iPhone-Dichte. Beim abschließenden Grillen kam in mir der Drang auf, das für die Nachwelt dokumentieren zu wollen. Ich fing also an iPhoninnen und iPhoner beim iPhonen zu fotografieren. Mit meinem iPhone natürlich.</p>
+
+<p class='image-block'><a href='http://schlagzeilen.me/images/content/sca_iphones.jpg' title='iPhones Everywhere'><img src='http://schlagzeilen.me/images/content/sca_iphones.jpg' alt='iPhones Everywhere' /></a></p>
+
+<p>Es stellte sich allerdings heraus, das sich niemand gern beim Tippen am Smartphone beobachten lässt. Darum ließ ich nach kurzer Zeit davon ab. Anfänglich erschien mir ein Taktikwechsel clever und ich schwenkte auf Fotografieren aus der Ferne um. Sniper-Modus. Allerdings sind die Tele-Fähigkeiten der iPhone Kamera recht begrenzt. Was haben eigentlich alle an diesem iPhone?</p>
+
+<h2>Fazit</h2>
+
+<p>Im Vorfeld und auch direkt zu Beginn der Veranstaltung wurde viel Wert darauf gelegt, zum Ausdruck zu bringen wie <em>anders</em> dieses Barcamp doch sei. Ob dem so ist kann ich mangels Erfahrung wohl kaum beurteilen, allerdings ist davon auszugehen. Überschaubare Teilnehmeranzahl, Sessions, die kurzerhand ins Freie verlegt werden, lecker Grillerei und das Gefühl von sehr viel mehr &ldquo;<em>Lasst uns zusammen ein gemütliches Wochenende verbringen</em>&rdquo; statt einem einfachen &ldquo;<em>Hier ist das Tagesprogramm, bitte seid pünktlich</em>&rdquo;. Eine sehr angenehme Konstellation, bei deren Neuauflage im nächsten oder übernächsten Jahr ich nur allzu gern wieder von der Partie sein werde.</p>
+
+<p>Danke Kai, danke Isa, danke an all die anderen Teilnehmer, Gesprächspartner und Erfahrungsteiler. Danke, dass wir neben all der nerdigen, filterbubbligen Fachsimpelei auch Zeit gefunden haben, einfach nur Dünnes zu labern. Ich war lang nicht mehr so entspannt wie am Sonntag Abend nach dem Summercamp.</p>
+
+<p class="emphasize">Andere Sichten auf das Camp gibt&#8217;s bei <a href="http://kaithrun.de/events/barcamps-events/summercamp-alfeld-2014-sca14-recap/" title="Summercamp Alfeld 2014 #sca14- Recap - Kai Thrun">Kai</a>, <a href="http://www.victorpontes.de/sca14-mein-erstes-barcamp-war-der-hit/" title="#sca14 - Mein erstes Barcamp war der HIT! - VictorPontes.de">Victor</a>, <a href="http://hubert-mayer.de/das-summercamp-alfeld-2014-es-menschelt-positiv-sca14/" title="Das Summercamp Alfeld 2014 – es menschelt positiv #sca14">Hubert</a>, <a href="http://www.jensneuhaus.de/blog/mein-summercamp-2014/" title="Mein Summercamp 2014">Jens</a> und <a href="http://www.socialmedia-talk.com/neulich-in-alfeld-rueckblick-summercamp-2014/" title="SummerCamp 2014 in Alfeld - ein Rückblick › Social Media Talk">Torsten</a>.</p>
+
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Tja, Insider. Sorry.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+      </entry>
+    
   
     
       <entry>
