@@ -4,10 +4,25 @@ layout: default
 
 {% assign index = true %}
 
-{% for post in paginator.posts %}
+{% for post in paginator.posts limit:10 %}
   {% if post.published == false %}
   {% else %}
     {% assign content = post.content %}
     {% include article.html %}
   {% endif %}
 {% endfor %}
+
+<div class="article">
+  <div class="emphasize archive-teaser">
+    <p>Im <a href="{{ root_url }}/archiv/">Archiv</a> findest du <strong>{{ paginator.total_posts | minus:10 }}</strong> weitere Artikel, darunter auch</p>
+    <ul>
+      {% for post in paginator.posts limit:3 offset:10 %}
+        <li>
+          <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>{% if forloop.index == 3 %}.{% endif %}
+          {% if forloop.index == 1 %}oder{% endif %}
+          {% if forloop.index == 2 %}aber auch{% endif %}
+        </li>
+      {% endfor %}      
+    </ul>
+  </div>
+</div>

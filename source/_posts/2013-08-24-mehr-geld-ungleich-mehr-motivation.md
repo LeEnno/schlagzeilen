@@ -8,4 +8,4 @@ tldr: Es ist seit Jahrzehnten wissenschaftlich erwiesen, dass Arbeitgeber die fa
 
 Es braucht nicht viel mehr als dieses Video. Danke, David.
 
-<iframe width="1120" height="630" src="http://www.youtube.com/embed/rrkrvAUbU9Y" frameborder="0" allowfullscreen></iframe>
+{% youtube rrkrvAUbU9Y 1120 630 %}

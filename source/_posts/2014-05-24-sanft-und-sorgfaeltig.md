@@ -14,7 +14,7 @@ Umso überraschender war es die überschwänglich positive Überschrift eines Bl
 
 [^lies]: lies: ich war zu faul mit mehr als 2 verschiedenen Suchbegriffen danach zu googlen.
 
-<iframe width="853" height="480" src="http://www.youtube.com/embed/YD-egoi5bAY?rel=0" frameborder="0" allowfullscreen></iframe>
+{% youtube YD-egoi5bAY 853 480 %}
 
 Diese 2 Minuten haben mein zwar nicht sonderlich ausgeprägtes, aber doch negativ behaftetes Bild von Olli Schulz grundlegend verändert. Seine Musik ertönt zwar immer noch nicht über meine Kopfhörer, aber als Gast in Talkshows und Interviews ist er eigentlich immer eine Unterhaltungsgarantie.
 
@@ -45,6 +45,6 @@ Voll Meta, aber ziemlich lustig.
 Damit ihr euch halbwegs vorstellen könnt, wovor ihr euch bewahrt, wenn ihr euch diese Show nicht anhört, hier mal einer meiner Lieblingsstellen der letzten Episoden, vermutlich, weil ich mich und zum Teil auch meine Umgebung – zumindest aber die entsprechenden Vorurteile – darin wiederfinde.  
 <small>(Falls der Deeplink nicht hinhaut: ziemlich genau nach 1 Stunde geht der Spaß los.)</small>
 
-<iframe width="853" height="480" src="http://www.youtube.com/embed/iVhM0Vfzz30?start=3600&rel=0" frameborder="0" allowfullscreen></iframe>
+{% youtube iVhM0Vfzz30 853 480 start=3600 %}
 
 Mehr davon gibt's [hier](http://www.radioeins.de/archiv/podcast/zwei_alte_hasen.htm/ "Sanft & Sorgfältig | radioeins"). Und für die, die wissen, was es bedeutet, ist hier [der Direktlink zum Podcast-Feed](http://www.radioeins.de/archiv/podcast/zwei_alte_hasen.feed.podcast.xml).

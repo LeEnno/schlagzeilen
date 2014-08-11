@@ -42,7 +42,10 @@ $paragraphMargin: 27px;
     img {display:block; margin-bottom:6px;}
   }
 
-  .emphasize {@extend .tldr; background:#eee;}
+  .emphasize {@extend .tldr; margin:0 auto; background:#eee;
+    ul {margin:10px 0;}
+    &.archive-teaser p {margin-bottom:0;}
+  }
 
   @include responsive() {
     h2, h3, > p, blockquote, .changelog {padding-left:20px; padding-right:20px;}
