@@ -1,7 +1,7 @@
 module Jekyll
   module ImageBlockFilter
     def image_blockify(input)
-      input.gsub(/^<p><img src="([^"]+\/)?([^"]+)" alt="([^"]+)" \/><\/p>$/) do
+      input.gsub(/^<p><img src="([^"]+\/)?content\/([^"]+)" alt="([^"]+)" \/><\/p>$/) do
         src   = "/images/content/#{$2}"
         title = $3
         
