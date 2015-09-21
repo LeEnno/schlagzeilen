@@ -3,7 +3,7 @@ $paragraphMargin: 27px;
 .article {margin-bottom:80px;
 
   h1, p {max-width:$contentWidth; margin:0 auto;}
-  h1 {margin:69px auto 42px; padding:24px 0; border-top:1px solid $borderColor; border-bottom:1px solid $borderColor; line-height:42px; text-align:center; font-size:36px;
+  h1 {margin:69px auto 42px; padding:24px 0; border-top:1px solid $borderColor; border-bottom:1px solid $borderColor; line-height:42px; text-align:center; font-size:36px; word-wrap:break-word;
     &:first-of-type {margin-top:0;}
     a {color:$textColor; transition:color 0.2s;
       &:hover {color:$linkColor; text-decoration:none;}
