@@ -6,12 +6,23 @@ date: 2013-06-15 20:53
 hide_date: true
 ---
 
-<ul class="archives">
+
+  {% assign year = '0' %}
   {% for post in site.posts reverse %}
     {% if post.published == false %}
 
     {% else %}
+      {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
       {% capture this_month %}{{ post.date | date: "%m" }}{% endcapture %}
+      
+      {% unless year == this_year %}
+        {% unless year == '0' %}
+          </ul>
+        {% endunless %}
+        <h2>{{ this_year }}</h2>
+        {% assign year = this_year% %}
+        <ul class="archives">
+      {% endunless %}
 
       <li{% unless month == this_month %}{% assign month = this_month %} class="archives-new-month"{% endunless %}>
         {{ post.date | date: "%d. %B"}}:
