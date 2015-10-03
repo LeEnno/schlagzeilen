@@ -29,6 +29,8 @@ $paragraphMargin: 27px;
     p {font-style:italic; max-width:$contentWidth - 60px; margin-bottom:0; padding-left:16px; padding-bottom:$paragraphMargin; border-left:2px solid $borderColor; color:lighten($textColor, 25%);
       &:last-child {padding-bottom:0;}
     }
+    // center whole blockquote because not all content will be rendered inside p-tags
+    &.twitter-tweet {max-width:$contentWidth; margin-left:auto; margin-right:auto;}
   }
 
   a {color:$linkColor;}
@@ -63,4 +65,6 @@ $paragraphMargin: 27px;
   }
 }
 
-iframe {display:block; max-width:100%; margin:0 auto $paragraphMargin;}
+iframe {display:block; max-width:100%; margin:0 auto $paragraphMargin;
+  &.twitter-tweet {margin-bottom:$paragraphMargin !important;} // overwrite generated inline styles
+}
