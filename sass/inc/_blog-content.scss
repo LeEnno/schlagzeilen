@@ -50,6 +50,8 @@ $paragraphMargin: 27px;
     &.archive-teaser p {margin-bottom:0;}
   }
 
+  .small-block {color:#aaa; line-height:1.33;}
+
   @include responsive() {
     h2, h3, > p, blockquote, .changelog {padding-left:20px; padding-right:20px;}
   }
@@ -68,3 +70,5 @@ $paragraphMargin: 27px;
 iframe {display:block; max-width:100%; margin:0 auto $paragraphMargin;
   &.twitter-tweet {margin-bottom:$paragraphMargin !important;} // overwrite generated inline styles
 }
+
+video {max-width:100%; max-height:500px;}
