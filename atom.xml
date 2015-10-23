@@ -4,7 +4,7 @@
   <title><![CDATA[Schlagzeilen]]></title>
   <link href="http://schlagzeilen.me/atom.xml" rel="self"/>
   <link href="http://schlagzeilen.me/"/>
-  <updated>2015-10-10T12:31:57+02:00</updated>
+  <updated>2015-10-23T21:46:42+02:00</updated>
   <id>http://schlagzeilen.me/</id>
   <author>
     <name><![CDATA[Enrico Schlag]]></name>
@@ -12,6 +12,116 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+    
+      <entry>
+        <title type="html"><![CDATA[Adblocker. Adblocker-Sperren. Adblocker-Sperren umgehen. Merkste selbst, ne?]]></title>
+        <link href="http://schlagzeilen.me/adblocker/"/>
+        <updated>2015-10-23T21:40:50+02:00</updated>
+        <id>http://schlagzeilen.me/adblocker</id>
+        <content type="html"><![CDATA[<p>Werbung ist schon recht lang Teil des Netzes und der Finanzierung der Angebote, die wir im Netz vorfinden. Vor allem bei Blogs, Nachrichtenseiten und allem, was regelmäßigen schriftlichen Output liefert, finden sich Banner im Header und Kacheln in der Sidebar, die mit <em>Anzeige</em> untertitelt sind. Seit jeher – auch außerhalb des Internets – hat Werbung allerdings auch ein schlechtes Images. Warum? Weil einiges davon Dummfang, aufdringlich oder einfach schlecht ist.</p>
+
+<p>Ich für meinen Teil bin niemand, der Werbung absolut verteufelt. Als Knirps hab ich sogar die Werbepausen im TV genutzt, um die beworbenen Marken so früh wie möglich zu erraten. Auch bin ich kein Anhänger der &ldquo;ich gucke keine privaten Sender wegen der Werbung&rdquo;-Fraktion.</p>
+
+<p>Ehrlicherweise muss ich zugeben, dass Apple Keynotes, von denen ich eigentlich jede live mitverfolge, reine Werbeveranstaltungen sind. Und auch gegen die Werbeformen im Netz hatte ich eine lange Zeit nichts. Allerdings arten Werbebanner und die zugehörigen Tracker aus, und das seit Jahren.</p>
+
+<h1>Die Ambivalenz der Adblocker</h1>
+
+<p>Immer wieder keimt eine größtenteils auf Kreise technisch versierter Nutzer beschränkte Debatte auf, ob Adblocker, also kleine Programme, mit denen Werbung auf Webseiten automatisch ausgeblendet wird, jetzt cool sind oder nicht. Dabei sind sich eigentlich alle einig, dass der derzeitige Stand der Werbung im Netz kaum tragbar ist, sich ohne die gängigen Werbenetzwerke wie Googles Adsense aber oft nur schwer auskommen lässt.</p>
+
+<p>Während die Publisher (Blogger, Nachrichtenportale und andere Schreiberlinge) auf Werbung als Finanzierungsquelle pochen, sind die Nutzer von Selbiger genervt und blocken sie einfach konsequent weg.</p>
+
+<p>Als Blogger habe ich selbst natürlich Empathie mit all den anderen da draußen, die ihre Texte kostenfrei und für jedermann zugänglich ins Netz stellen und bei dem Versuch sich zu refinanzieren einen kompromisslosen Mittelfinger vom Nutzer in Form eines Adblockers gezeigt bekommen. Darum verzichtete ich lange Zeit auf Blocker jeglicher Art.</p>
+
+<h1>Aufmerksamkeit um jeden Preis und die bloggersche Mitverantwortung</h1>
+
+<p>Bis zu jenem geschichtsträchtigen Tag, als ich am iPhone einen gern gelesenen Blog besuchte und als Werbemaßnahme direkt in den Appstore weitergeleitet wurde – ohne Umwege über Los und ohne 4.000 Mark einzuziehen. Während ich eigentlich einen gut geschrieben Blog-Artikel lesen wollte, öffnete sich die Detailseite eines &ldquo;Age Of Empire&rdquo;-Klons vor mir, natürlich in der Hoffnung gekauft zu werden.</p>
+
+<p>An dem Punkt schmiss ich meine Empathie mit Anlauf volle Möhre gegen die Wand, wo sie in 17.000 obstfliegengroße Einzelteile zerbrach.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> Auf deutsch: ich hab mir einen Adblocker installiert.<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></p>
+
+<p>Und eins, liebe Bloggenden, müsst ihr euch bewusst machen: wenn sowas auf <em>eurer</em> Seite passiert, dann seid natürlich auch <em>ihr</em> dafür verantwortlich. Als Betreiber kann niemand sagen „ich vermiete zwar diese Werbefläche für Geld, aber was damit gemacht wird, da kann ich nichts für.“ Wenn ein Werbetreibender eure Seite als Plattform nutzt um schäbige Scheiße zu machen, tragt ihr eine Mitverantwortung. Nicht allein, nein, aber komplett von euch weisen, wie es mir gegenüber das ein ums andere Mal getan wurde, könnt ihr das auch nicht.</p>
+
+<h1>iOS 9 Content Blocker</h1>
+
+<p>Am Ende führen derartige Spannungen – und das hat die Geschichte gezeigt – zu einem perversen Kräfteringen zwischen &ldquo;wie kriege ich mehr Aufmerksamkeit&rdquo; auf der einen und &ldquo;wie kriege ich diesen nervigen Scheiß abgestellt&rdquo; auf der anderen Seite. Während Werbetreibende das Öffnen neuer Browser-Fenster für eine prima Idee hielten, implementierten Browser im Kampf um die Gunst der Nutzer Popup-Blocker, die heute fester Bestandteil moderner Browser sind.</p>
+
+<p>Während man als Nutzer am Desktop also Mittel und Wege fand, diesen Krieg für sich zu entscheiden, ist die Situation auf Mobilgeräten etwas schwieriger. Zumindest für iOS gibt es allerdings seit Version 9 mit den sogenannten Content Blockern einen offiziell unterstützten Weg um bestimmte Inhalte zu blocken.</p>
+
+<p>Warum macht Apple sowas? Ziel Nummer 1: Konkurrent Google, die gutes Geld mit Werbung verdienen, attackieren. Ziel Nummer 2: Nutzererfahrung verbessern. Denn es stellt sich heraus, dass Webseiten wesentlich fixer sind, wenn all das Javascript für Werbung und sonstige Tracker nicht geladen und ausgeführt werden muss. Deshalb lassen sich Content Blocker mit Ziel Nummer 2 sehr gut rechtfertigen, um Ziel Nummer 1 zu erreichen.</p>
+
+<p>Dadurch wurde die Debatte um Adblocker erneut und in einem von mir bisher nicht erlebten Ausmaß entfacht. Zum einen weil einige Webseitenbetreiber schweißgebadet auf ihre Zugriffsstatistiken starren und fürchten, dass jeglicher Traffic, der von Apple-Geräten ausgeht, keine Werbeeinnahmen mehr bringt. Zum anderen, weil Marco Arment, ein populärer App-Entwickler, seinen Adblocker keine 2 Tage nach Erscheinen <a href="http://www.marco.org/2015/09/18/just-doesnt-feel-good" title="Just doesn’t feel good – Marco.org">aus dem Appstore zurückzog</a>, dadurch – einmal mehr – stark polarisierte und somit noch eine ganze Hand voll Leute mehr auf den &ldquo;und hier ist meine Meinung zu Adblockern&rdquo;-Zug aufsprangen. So wie ich jetzt.</p>
+
+<h1>Taten statt Diskussion</h1>
+
+<p>Wäre es nicht schön, wenn wir diesmal – statt uns weiter dem Wettrüsten zwischen Werbenden und Blockenden hinzugeben – tatsächlich eine sinnvolle, wie auch immer geartete Kompromisslösung finden? Solang wir darüber reden, bleibt das Thema zwar präsent und es wird über Alternativen diskutiert, aber eben auch nur das: diskutiert.</p>
+
+<p>Deswegen finde ich es tatsächlich gut, dass BILD.de <a href="http://stadt-bremerhaven.de/bild-sperrt-adblocker-aus-was-sagst-du-zu-diesem-vorgehen/" title="BILD sperrt Adblocker aus, was sagst du zu diesem Vorgehen?">nicht länger mit aktiviertem Adblocker</a> besucht werden kann.<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup> Dabei handelt es sich zwar um einen massiven &ldquo;Du bist zwar unser Leser, aber Fick dich trotzdem&rdquo;-Move, aber welche Publikation wenn nicht die BILD kann sich so etwas erlauben? Durch die nun einmal leider vorhandene Popularität wird das Thema jedenfalls einer viel breiteren Masse zugänglich, was wiederum zu mehr Diskussionen führt und die Chancen, dass am Ende etwas Zielführendes bei rum kommt, zumindest nicht verringert.</p>
+
+<p>Interessant Dynamik dabei: manche Leute erfahren durch derartige eigentlich <em>gegen</em> Adblocker gerichtete Aktionen erst von der Existenz selbiger. So kam es auch diesmal, dass sich die Macher von Adblock Plus an einem Aufkommen von <a href="https://twitter.com/AdblockPlus/status/653936848142757889" title="Adblock Plus auf Twitter: &quot;Danke @BILD #BILDnotwelcome #TeamAdblock #Adblocker http://t.co/mvKffvx1IJ&quot;">Spenden</a> und <a href="https://twitter.com/AdblockPlus/status/654268874284761088" title="Adblock Plus auf Twitter: &quot;Zahl des Tages: Deutsche Visits auf http://t.co/Qp1kkmaXhl gestern: +285% Danke, liebe @BILD !&quot;">Besuchern</a> erfreuen konnten, das weit über dem Normalwert liegt.<sup id="fnref:4"><a href="#fn:4" rel="footnote">4</a></sup> Das nennt man dann <a href="https://de.wikipedia.org/wiki/Streisand-Effekt" title="Streisand-Effekt – Wikipedia">Streisand-Effekt</a>.</p>
+
+<p>Statt die werbeblockende Masse von der eigenen Plattform auszuschließen, fahren die Mädels und Jungs des Technikblogs <a href="http://www.mobilegeeks.de/" title="Mobilegeeks.de | Mobile News, Smartphones, Tablets, Ultrabooks, Apps">Mobile Geeks</a> einen anderen Weg. Im ersten Schritt verzichteten sie komplett auf Bannerwerbung, wodurch das Portal unabhängig von ggf. vorhandenen Adblockern Schotter scheffeln konnte.<sup id="fnref:5"><a href="#fn:5" rel="footnote">5</a></sup> Seit dem 14.10. versuchen sie sich komplett von Werbung zu lösen und bauen auf ein <a href="http://www.mobilegeeks.de/artikel/leserhilfe/" title="Mobile Geeks Leserhilfe - Sponsert uns!">nutzergestütztes Finanzierungsmodell</a>.</p>
+
+<h1>Neben Links und Rechts existiert noch jede Menge Mitte</h1>
+
+<p>Nun sind das 2 Extreme, die durchaus etwas Spielraum für Zwischen- und/oder Hybridlösungen lassen. Was ich gern sehen würde ist ein Kompromiss, der beiden Seiten gerecht wird. Die Leser sollen beim lesen nicht genervt werden, die Schreiberlinge sollen ihre wohlverdiente Taler erhalten.</p>
+
+<p>Macstories, ein Blog, der sich der Berichterstattung rund um Apple-Geräte verschrieben<sup id="fnref:6"><a href="#fn:6" rel="footnote">6</a></sup> hat, bietet eine Mitgliedschaft an, deren Vorteil der Zugang zu Exklusiv-Content ist. Einen(!) Werbebanner und Sponsored Posts findet man trotzdem.</p>
+
+<p>Sponsored Posts? Das ist Werbung in Textform. In einem Beitrag wird ein Produkt, eine Dienstleistung oder was auch immer die zahlende Firma beworben haben möchte vorgestellt. Der Inhalte ist manchmal mit dem Geldgeber abgestimmt, manchmal aber auch nicht. In jedem Fall ist ein solcher Beitrag als Werbung markiert (sollte er zumindest).</p>
+
+<p>Warum diese Werbeform in Deutschland so verpönt ist, weiß ich nicht. Ich finde sie fair, unaufdringlich und die Worte des Blogautors sind mir lieber als jede blinkende Pixelfläche. Natürlich wird in einem solchen Beitrag nicht jeder negative Aspekt des beworbenen Produkts aufgezeigt, aber das weiß ich als Leser ganz gut einzuordnen, wenn &ldquo;Sponsored Post&rdquo; im Titel steht.</p>
+
+<p>In den amerikanischen Blogs, die ich lese, sind Sponsored Posts gängig. Dort findet sich auch viel exklusives Sponsoring, d.h. ein z.B. wöchentlich buchbares Paket aus Bannerplatzierung und Sponsored Post, um somit über eine gewisse Zeit der einzige Werbende auf einer Plattform zu sein.</p>
+
+<p>Und wo wir gerade in den Staaten sind: in den US-Podcasts, die ich höre, ist Werbung ein integraler Bestandteil, was mich aber selten stört. Wenn mir gerade nicht danach ist, kann ich wunderbar vorspulen. In den meisten Fällen höre ich mir die Spots aber tatsächlich an, weil die Hosts das Produkt selbst bewerben und es allein dadurch wesentlich angenehmer ist, als die Fläche für klassische Audiowerbung zur Verfügung zu stellen.</p>
+
+<p>Was ich damit sagen will: es gibt sie, die Alternativen, die nicht versuchen den Nutzer mit Werbung zu belästigen.</p>
+
+<h1>Und was ist mit dem kleinen Mann?</h1>
+
+<p>Für einen kleinen Blogger, der seine Karriere gerade beginnt und lediglich eine Möglichkeit sucht, seine Serverkosten zu decken, sind Adsense &amp; Co fast die einzige Maßnahme. Kein Werbender bezahlt für geringe Reichweite und kein Nutzer supportet jemanden, den er erst noch schätzen lernen muss. Dazu kommt, dass ein Werbenetzwerk wie Adsense angenehm wartungsfrei ist, was bedeutet, dass der jeweilige Autor sich um die Texte kümmern kann, statt sich mit der Verwaltung der Werbeplätze rumschlagen zu müssen.</p>
+
+<p>Jeder sollte sich dennoch bewusst sein, dass das setzen von Bannern dieser Art gleichbedeutend ist mit einem &ldquo;damit ich ein bisschen Geld kriege, musst du ertragen, dass ich dein Nutzerlebnis verschlechtere, indem ich</p>
+
+<ol>
+<li>zusätzliche Ressourcen laden und ausführen lasse,</li>
+<li>dich mit von mir nicht beeinflussbaren Bannern von meinen eigentlichen Inhalten ablenke und</li>
+<li>deine Privatsphäre porösiere, indem ich Spähprogramme auf dich loslasse, die dein Surfverhalten analysieren um es gewinnbringend einzusetzen.&#8221;</li>
+</ol>
+
+
+<p>Solltest du – der kleine Blogger, der den kleinen Euro nebenbei verdienen möchte – das unterschreiben können: go for it.</p>
+
+<h1>Sowas wie ein Fazit</h1>
+
+<p>Alle anderen, nicht ganz so kleinen sollten sich meiner Meinung nach Gedanken dazu machen, wie sie einen Kompromiss aus Finanzierung und Nutzererlebnis schaffen können. Andernfalls geht das ewige Katz-und-Maus-Spiel zwischen grenzenlos aufmerksamkeitsgeilen Werbenden und den Nutzern, die Werbung zunehmend verachten und einfach wegblocken, weiter. Und alle Beteiligten verlieren.</p>
+
+<p>Leser von <a href="http://stadt-bremerhaven.de/" title="Caschys Blog Web, Software, Hardware, Mobile Computing &amp; Co">Caschys Blog</a> z.B. sind zu <a href="https://twitter.com/caschy/status/657577505654730752" title="Carsten Knobloch auf Twitter: &quot;55 Prozent unserer Leser sind mit aktivem Adblocker bei uns.&quot;">55%</a> mit Adblockern unterwegs. Über die Hälfte der Nutzer will Tech-News konsumieren, scheißt aber drauf, dass die Autoren damit Geld verdienen wollen. Das kann doch kein Zustand sein, mit dem wir uns abfinden.</p>
+
+<p>Neben der Beseitigung nerviger Werbung sehe ich hier außerdem auch Potential darin, den Nutzern des Internets beizubringen, dass auch kostenlos zur Verfügung gestellte Inhalte einen Wert haben, dass dahinter auch Arbeit steckt, die es wert ist entlohnt zu werden.</p>
+
+<p>Also: nutzen wir doch das neu entfachte Feuer dieser Debatte und versuchen wir etwas produktives daraus zu machen.</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Obstfliegen? Ja. Obstfliegen waren gerade die kleinstmöglichen, aber trotzdem noch sichtbaren Objekte, die mir eingefallen sind. Außerdem hasse ich Obstfliegen.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<li id="fn:2">
+<p>Um das klarzustellen: natürlich hab ich mir den Adblocker damals™ auf dem Desktop-Rechner installiert, was die Werbung aus der Hölle folgerichtig auf dem Smartphone nicht verhindert. Dennoch war diese Erfahrung der ausschlaggebende Punkt für meinen Wechsel auf die adblockende Seite des Internets.<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
+<li id="fn:3">
+<p>Ok, das ist nicht ganz wahr. Aber for the sake of Debatte und weil noch nicht ganz raus ist, <a href="http://stadt-bremerhaven.de/adblocker-bild-erwirkt-einstweilige-verfuegung-gegen-eyeo/" title="Adblocker: BILD erwirkt einstweilige Verfügung gegen Eyeo">ob es legal ist</a>, lassen wir die Mechanismen des Umgehens dieser Schranke mal außen vor.<a href="#fnref:3" rev="footnote">&#8617;</a></p></li>
+<li id="fn:4">
+<p>Gut möglich, dass die Zahlen gefaket sind. Aber hey, wer wirft sich freiwillig zwischen die Fronten, wenn sich Abschaum gegenseitig verprügelt?<a href="#fnref:4" rev="footnote">&#8617;</a></p></li>
+<li id="fn:5">
+<p>Die eigenen Recherchen zu den <a href="http://www.mobilegeeks.de/adblock-plus-undercover-einblicke-in-ein-mafioeses-werbenetzwerk/" title="Adblock Plus Undercover – Einblicke in ein mafioeses Werbenetzwerk | Mobilegeeks.de">Machenschaften von Adblock Plus</a> sind sicher nicht ganz unschuldig an dieser Entscheidung.<a href="#fnref:5" rev="footnote">&#8617;</a></p></li>
+<li id="fn:6">
+<p>no pun intended<a href="#fnref:6" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+      </entry>
+    
   
     
       <entry>
@@ -1364,167 +1474,6 @@ It&rsquo;s all in your head.</p></blockquote>
 <p>Nur um das klarzustellen: ich bin keiner dieser &ldquo;Hilfe, rettet mich vorm Shopping mit Frauen&rdquo;-Typen. Aber Samstag Vormittag in der Leipziger Innenstadt ist Krieg. Ohne Scherz. Da tun sich menschliche Abgründe auf, nee nee. In solchen Situationen merk ich, dass ich sehr wohl auch <a href="http://themetapicture.com/how-to-interact-with-the-introverted/" title="How to interact with the introverted... - The Meta Picture">eine introvertierte Seite</a> habe.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
 <li id="fn:2">
 <p>Kommt aus dem von meiner Seite uneingeschränkt zu empfehlenden Film <em>Fack Ju Göhte</em>, ist eine abgewandelte Form von <em>ASAP</em>, was so viel bedeutet wie <em>as soon as possible</em> und die Standardantwort jedes Projektmanagers auf die Frage <em>Bis wann muss das spätestens fertig sein?</em> ist.<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
-</ol>
-</div>
-
-]]></content>
-      </entry>
-    
-  
-    
-      <entry>
-        <title type="html"><![CDATA[Welchen Unterschied 7 Tage Mallorca machen können]]></title>
-        <link href="http://schlagzeilen.me/mallorca/"/>
-        <updated>2013-10-08T17:55:00+02:00</updated>
-        <id>http://schlagzeilen.me/mallorca</id>
-        <content type="html"><![CDATA[<p class='image-block'><a href='http://schlagzeilen.me/images/content/mallorca_gebirge.jpg' title='Aussicht am Strand von Can Picafort'><img src='http://schlagzeilen.me/images/content/mallorca_gebirge.jpg' alt='Aussicht am Strand von Can Picafort' /></a></p>
-
-<p>Es war ruhig um mein Online-Ich. Praktisch kein Twitter, keine Blog-Beiträge, kaum Mails. Grund: wohlverdienter Urlaub.</p>
-
-<p>Meine Freundin hat seit Ende Juli für ihr Staatsexamen gebüffelt. So richtig. Morgens viel zu früh aufstehen, den ganzen Tag durchpowern, bis abends. Doch es hat sich gelohnt.</p>
-
-<p>Ich für meinen Teil habe viel gearbeitet. Und wenn ich gerade nicht gearbeitet habe, ist mir etwas anderes eingefallen. Eine umfangreiche Online-Bewerbung, einen Blog (den hier) aus dem Boden stemmen, ein Studienprojekt und ein kleineres Update <a href="http://www.htwk-stundenplan.de/de/" title="HTWK2iCal">des Stundenplan-Tools</a> für meine Hochschule.</p>
-
-<p>Zusammenfassung: viel Fleiß in unserem Hause. Darum haben wir uns ziemlich gefreut, als wir nach all dem Stress vergleichsweise kurzfristig ein paar Tage Erholung in wärmeren Gefilden buchen konnten. Was ich davon mit euch teilen möchte sind ein paar lustige, überraschende aber auch ernste Erkenntnisse. Plötzlich war da Zeit. Ungewohnt viel Zeit. Zeit um u.a. das eigene Tun zu reflektieren.</p>
-
-<h2>Erkenntnis: Katzenallergie ist auch auf Mallorca scheiße.</h2>
-
-<p>Auf dem Weg zum Strand hat uns irgendwas hinter einer Mauer angejault. Als wir kurz in die Büsche geschaut haben, hat etwas zurück geschaut: ein kleines süßes, rot-weißes Katzenbaby.</p>
-
-<p class='image-block'><a href='http://schlagzeilen.me/images/content/mallorca_cat.jpg' title='Katze auf Mallorca'><img src='http://schlagzeilen.me/images/content/mallorca_cat.jpg' alt='Katze auf Mallorca' /></a></p>
-
-<p>Gott, war das Viech niedlich. Und beim Weggehen realisierte ich einmal mehr, dass ich durch meine warum auch immer entstandene Katzenallergie wohl nie solch einen kleinen Frechdachs mein Eigen nennen kann. Das ist ok, aber in solchen Momenten doch recht traurig.</p>
-
-<p>Ich bin mit Katzen groß geworden. Meine Freundin ist ebenfalls vernarrt in die kleinen Biester. Wie kann man auch nicht? Ich meine&hellip; <strong>KATZEN</strong>! Einer der Hauptgründe des Internets. Aber wie dem auch sei, man kann nicht alles haben.</p>
-
-<h2>Erkenntnis: Bordsteinkanten auf Mallorca sind hoch gebaut, um lange und intensiv benutzt zu werden.</h2>
-
-<p>Glücklicherweise hatten wir einen Balkon auf unserem Zimmer, von dem aus wir mit Blick auf irgendetwas Amtiges zahlreichen Autos beim Parken zusahen. Anfangs wunderten wir uns noch, warum so auffällig viele französische Autos auf den Straßen unterwegs waren. Jetzt wissen wir: weil die Einstellung zu Stoßstangen ähnlich ist. Wenn&rsquo;s beim Einparken eng ist, wird der Vordermann halt kurzerhand gerammt um sicherzustellen, dass wirklich kein Platz verschenkt wird.</p>
-
-<p>Ebenso verhält es sich mit den recht hohen Bordsteinkanten. Bei dem Einschlagverhalten würde hierzulande niemand einen Führerschein bekommen. Doch das bei uns eher versehentlich auftretende Kontaktieren der Bordsteinkante beim Rückwärtseinparken ist vor Ort so selbstverständlich gewesen, wie das Einlegen des Rückwärtsgangs. Gehört halt dazu, macht man so. Auch wenn die Radkappen da sicherlich anderer Meinung sind.</p>
-
-<h2>Erkenntnis: Touries kaputtieren nahezu jede Form von Flair.</h2>
-
-<p>Die Häuser und Villen im mediterranen Stil, die man in unserem Aufenthaltsort Can Picafort entlang einer Palmenallee begutachten konnte, waren unglaublich schön anzusehen. Wirklich.</p>
-
-<p class='image-block'><a href='http://schlagzeilen.me/images/content/mallorca_palmen.jpg' title='Mediterranes Feeling'><img src='http://schlagzeilen.me/images/content/mallorca_palmen.jpg' alt='Mediterranes Feeling' /></a></p>
-
-<p>Auch die Strände sorgen für die geballte Packung <em>Hach</em>.</p>
-
-<p class='image-block'><a href='http://schlagzeilen.me/images/content/mallorca_strand.jpg' title='Strand in Alcudia'><img src='http://schlagzeilen.me/images/content/mallorca_strand.jpg' alt='Strand in Alcudia' /></a></p>
-
-<p>Wirklich langweilig sind allerdings die Geschäfte entlang der Strandpromenade. Das hatte ich so nicht erwartet.</p>
-
-<p>Da ich in der glücklichen Lage bin Verwandschaft in Rostock zu haben, bin ich recht oft dort oben. Die Warnemünder Strandpromenade ist einer der Hauptgründe, weswegen es uns auch bei ekligstem Herbstwetter noch an die Ostsee treibt. Das Flair dort ist unvergleichlich. Ich hatte mir ähnliches von Mallorca erhofft, wurde aber was das angeht enttäuscht.</p>
-
-<p>Nur Schrapel, jede Menge Humbug. Prollshirts, Touriabzockartikel, kein Charakter. Alles für die Touris. Noch schlimmer war das beim Wochenmarkt in Alcudia, einer Stadt 12km entfernt von unserem Aufenthaltsort. Auf den Ausflug dorthin hatten wir uns ziemlich gefreut, da meine Freundin vor mittlerweile 8 Jahren schon mal dort war und endlos geschwärmt hat. Seitdem hat sich aber einiges verändert, nicht zum Positiven. Jeder dritte Stand hat günstige, immergleiche Ledertaschen und Portemonnaies, dann viele, viele Mützen, Handtücher und seltsame Kleider. Vermutlich verkauft sich der Ramsch bei den Touris besser, was natürlich gut für&rsquo;s Geschäft ist, aber sehr, sehr schade für das Erlebnis an sich.</p>
-
-<p>Wir waren ziemlich enttäuscht, haben uns daraufhin ein wenig abseits vom Markt diese typischen engen Gassen angesehen.</p>
-
-<p class='image-block'><a href='http://schlagzeilen.me/images/content/mallorca_gasse.jpg' title='Enge Gasse in Alcudia'><img src='http://schlagzeilen.me/images/content/mallorca_gasse.jpg' alt='Enge Gasse in Alcudia' /></a></p>
-
-<p>Überreste einer Stadtmauer gaben auch einen sehr schönen Ausblick mit Mix aus Palmen, Meer, flachen Dächern und Gebirgen. Könnte ich fotografieren, würde die Stimmung auf den Bildern auch rüberkommen.</p>
-
-<p class='image-block'><a href='http://schlagzeilen.me/images/content/mallorca_alcudia_dach.jpg' title='Blick von der Stadtmauer in Alcudia'><img src='http://schlagzeilen.me/images/content/mallorca_alcudia_dach.jpg' alt='Blick von der Stadtmauer in Alcudia' /></a></p>
-
-<p>Aber allgemein fuhren wir an dem Tag eher enttäuscht zurück ins Hotel. Apropos zurückfahren&hellip;</p>
-
-<h2>Erkenntnis: die Busfahrer sind noch bekloppter, aber wesentlich geskillter.</h2>
-
-<p>Ich habe seit jeher ein gespaltenes Verhältnis zu Busfahrern. Auf dem Weg zur Schule gab es so einige seltsame Gestalten, die einen sicher befördern sollten, das auch stets taten, dabei aber bis auf wenige Lichtblicke immer sehr miesepetrig wirkten. Hier in Leipzig gleicht jede Busfahrt einem Höllenritt. Aber in Mallorca wurde nochmal eins draufgesetzt.</p>
-
-<p>Hektisch fährt der Busfahrer los, während man selbst gerade noch sein eigenes Hinterteil in den Bus rettet und die Tür noch nicht geschlossen ist. Ticketkauf? Während der Fahrt, kein Problem für den Busfahrer. Du hast noch nichtmal komplett ausgesprochen, wo du hinwillst, schon drückt er dir das Wechselgeld in die Hand. Vorfahrt hat wer das größere Gefährt besitzt. Und generell gibt es für einen Bus keine Kurve oder Gasse, die zu eng ist. <a href="http://en.wikipedia.org/wiki/Reality_distortion_field" title="Reality distortion field - Wikipedia, the free encyclopedia">Reality Distortion Field</a> nannte man sowas in Cupertino. Und genauso gut hat es funktioniert.</p>
-
-<p>Auf dem Weg nach Alcudia fand sich unser Busfahrer mit der Tatsache konfrontiert, dass eine Art Stadtlauf und die dafür gesperrten Straßen seine eigentliche Route unbefahrbar machten. Auf der Umleitung natürlich erhöhtes Verkehrsaufkommen. Und die Straße war nicht nur eng, sondern auch auf beiden Seiten mit Autos beparkt. Natürlich <em>keine</em> Einbahnstraße, Gegenverkehr also auch noch.</p>
-
-<p>Wo ich mit meinem alten Twingo aber in Schrittgeschwindigkeit vermutlich jeden zweiten Spiegel der eng parkenden Autos mitgenommen hätte, ist unser Busfahrer mit einer Fast &amp; Furiosigen Selbstverständlichkeit die Straße entlang gebrettert&hellip; meine Fresse. Ich hab irgendwann einfach nicht mehr hingesehen.</p>
-
-<p>Heile angekommen sind wir trotzdem.</p>
-
-<h2>Erkenntnis: Vertraue auf die Erfahrung anderer.</h2>
-
-<p>Als ich meinen Chefs auf Arbeit von meinem geplanten Mallorca-Trip erzählte<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>, kamen über kurz oder lang auch deren Urlaubserfahrungen zur Sprache. Davon sind vor allem 2 Dinge hängen geblieben.</p>
-
-<p>Numero Uno: Chef 1 meinte er braucht nach stressigen Phasen immer so 2 bis 3 Tage, ehe er mit der Urlaubssituation zufrieden ist und sie genießen kann. Ich konnte mir das nicht so richtig vorstellen, verstand dann aber doch recht schnell, was er meinte. Am dritten Urlaubstag lag ich am Strand, Blick auf die Leute um mich herum, den Sand und die Wellen gerichtet und resümierte: <em>&ldquo;so viel geiler als Ostsee ist das jetzt hier aber auch nicht&rdquo;</em>. Diese Ansicht änderte sich im Laufe der Zeit noch, aber Chef 1 hatte in diesem Fall Recht behalten.</p>
-
-<p>Ebenso wie Chef 2. Er erzählte von einer ausgedehnten Radtour und sagte es wäre genau die Art von Erholung, die er braucht. Völlig anderer Input, keine Arbeit, keine bekannten Gesichter. Ich konnte mich bisher für die Idee einer ausufernden Radtour absolut nicht begeistern. Als wir aber am letzten Urlaubstag beschlossen haben vom Hafen in Alcudia die 12 Kilometer zurück zum Hotel nach Can Picafort an der Küste entlang zu laufen statt mit dem Bus zu fahren, konnte ich auch in diesem Fall nachvollziehen, was er meinte.</p>
-
-<p class='image-block'><a href='http://schlagzeilen.me/images/content/mallorca_maps.png' title='Distanz zwischen Alcudia und Can Picaort'><img src='http://schlagzeilen.me/images/content/mallorca_maps.png' alt='Distanz zwischen Alcudia und Can Picaort' /></a></p>
-
-<p>Ironischerweise haben wir uns relativ am Anfang des Urlaubs für einem Tag Fahrräder ausgeliehen um ins Nachbarstädchen zu fahren. Auf dem Weg dorthin sind wir ungeplant abgebogen und auf einem von der Regierung gepflegten Radweg entlang eines Naturschutzgebietes gefahren. Nach knapp 48 Stunden auf Mallorca stellte sich dort zum ersten Mal richtiges Urlaubsfeeling ein.</p>
-
-<p>Völlig anderer Input halt. Und damit einher geht oft ein leichter Perspektivenshift. Schon sind wir beim nachdenklichen Teil dieses Artikels.</p>
-
-<h2>Erkenntnis: Geld ist wichtiger als es sein sollte.</h2>
-
-<p>Wir haben vergleichsweise sparsam gelebt.<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> Nicht so, dass wir unangenehm viele Einschränkungen in Kauf genommen haben oder so. Aber wir haben eben auch nicht übertrieben auf die Kacke gehauen. Trotzdem haben wir 90% unseres eigentlich großzügig festgelegten Budgets aufgebraucht. Das ist ok, schließlich ist das der Zweck eines Budgets: Verwendung finden. Allerdings stimmt es doch etwas nachdenklich, da ich es in der Form nicht erwartet hätte.</p>
-
-<p>Ich möchte ungern, dass mir Geld übermäßig wichtig ist. Ehrlich gesagt glaube ich sogar ein bisschen, dass die Wichtigkeit, die man diesem abstrakten Zahlungsmittel zuweist, in vielen Fällen – nicht in allen – direkt proportional zur Ärschigkeit der jeweiligen Person ist. Und das möchte ich einfach nicht. Geld kann viel kaputt machen und ist die Ursache viel zu vieler Konflikte. Unnötigerweise. Jedoch gilt, und ja, dafür erlaube ich mir Marcel Reich-Ranicki zu zitieren:</p>
-
-<blockquote><p>Geld allein macht nicht glücklich, aber es ist besser, in einem Taxi zu weinen als in der Straßenbahn.</p></blockquote>
-
-<h2>Erkenntnis: life begins where your comfort zone ends.</h2>
-
-<p>Die schönsten Momente im Urlaub waren oftmals die spontanen Entscheidungen, das sichere Terrain zu verlassen. Dabei meine ich nicht den Kanal zwischen zwei Inselteilen zu durchschwimmen nach dem Sprung von der 17 Meter hohen Steilküste daneben. Einfach kleine Entscheidungen, zu denen man sich – wenn auch nur ein kleines bisschen – überwinden muss. Die 12 Kilometer zurück eben zu Fuß am Strand zu laufen. Statt plangetreu schnurstracks in das nächste Örtchen zu gehen vielleicht doch einfach mal den unscheinbaren Eingang an der Straßenseite folgen. Vielleicht warten dort kleine Landschildkröten und unglaubliche Aussichten darauf entdeckt zu werden.</p>
-
-<p>Viel zu oft gehe ich bekannte Pfade, weil ich weiß, was mich erwartet. Weil ich weiß, dass ich den Anforderungen gerecht werden kann. Doch umso mehr fall ich auf die Fresse, wenn ich plötzlich ungewohnte Situationen handeln muss. Darum: auch mal anders als sonst, auch mal unkonventionell, auch mal ungemütlich.</p>
-
-<h2>Erkenntnis: man wird nicht jünger. Leider.</h2>
-
-<p>Mein Dad sagte scherzenshalber:</p>
-
-<blockquote><p>Mit 25 Jahren ist das wartungsfreie Alter vorbei.</p></blockquote>
-
-<p>Damals gern belächelt muss ich mittlerweile gestehen: er hat da nicht ganz Unrecht. Ich mein klar, mir geht&rsquo;s gut und so. Und eigentlich bin ich kein Fan davon, jedem <a href="http://schlagzeilen.me/krankheit/" title="Guten Tag, kennen Sie schon meine Krankheit? - Schlagzeilen">die eigene Krankheitsgeschichte die Kehle runter zu rammen</a>. Aber hier wird gerade reflektiert und da ist das ok.</p>
-
-<p>Was mir recht wichtig ist: ich will fit bleiben. Auch noch in etwas gesteigertem Alter. Meinem drahtigen Körper würden ein paar Konturen ganz gut stehen. Allerdings stecken hinter dem Willen zu mehr Bewegung auch weniger narzisstische Motive. Mein Rücken hat in den letzten 3 Monaten 2 Mal einen temporären K.O. erlitten. Ich konnte mich zwar weiterhin bewegen, allerdings nur verkrampft unter unangenehmen Schmerzen. Das Ganze ist nicht nur belastend, sondern sollte einem 25-jährigen meiner Meinung nach einfach nicht passieren.</p>
-
-<p>Das für mich Ungerechte dabei: ich achte schon überdurchschnittlich viel auf meinen Rücken, weil ich um die Gefahren einer sitzenden Tätigkeit weiß. Ich habe einen für studentische Verhältnisse ziemlich advanceden Stuhl zu Haus vor dem Schreibtisch rumkullern. Außerdem arbeite ich halbtags im Stehen. Grund: neben suboptimaler Haltung ist es vor allem das statische Sitzen, das dem Rücken schadet.</p>
-
-<p>Ich bin absolut nicht das dicke, blasse Kellerkind, das man hinter jemandem vermuten könnte, der gut die Hälfte eines normalen Tages hinter dem Bildschirm verbringt. Trotzdem ist es passiert. Einmal in der Bahn falsch den Koffer gehoben, ein unangenehmes Ziehen im Rücken und das Genießen der ersten beiden Urlaubstage fiel wesentlich schwerer als es sollte.</p>
-
-<p>Darum ist Sport für mich ein Muss um dem Ganzen ein wenig entgegen zu wirken. Logischerweise will ich den Rücken gezielt trainieren, aber auch weiterhin Badminton und Tischtennis spielen. Außerdem ziehe ich in Erwägung regelmäßig laufen zu gehen, auch wenn sich in mehreren Anläufen<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup> bereits herausgestellt hat, dass es absolut nicht mein Ding ist. Aber: siehe Erkenntnis vorher.</p>
-
-<h2>Erkenntnis: 24h sind definitiv zu wenig Zeit pro Tag.</h2>
-
-<p>&hellip; doch daran kann man nichts ändern. Auch nicht durch Schlafentzug, irgendwas bleibt immer auf der Strecke (und wenn es die eigene Gesundheit ist). Ich beschäftige mich viel und gern mit Produktivität und damit, meine Eigene zu verbessern. Ich habe sowohl kurz- als auch langfristig recht ambitionierte Ziele, von denen ich gern auch alle erreichen würde. Auf Dauer setzt man sich aber oft selbst zu sehr unter Druck in Momenten, wo es einfach nicht sein muss. Von daher weiß ich, dass sich dahingehend an meiner Einstellung etwas ändern muss. Ich bin mir nur noch nicht ganz im Klaren darüber was genau.</p>
-
-<p>Eigentlich will ich alles machen, was ich bisher gemacht hab. Eigentlich sogar noch intensiver und am liebsten noch 2-3 Sachen zusätzlich, doch das wird nix. 3 Blogs sind zu viel, wenn die Qualität bei jedem einzelnen erhalten bleiben soll. Der hier wird bleiben, als Spielwiese. <a href="http://www.senaeh.de/" title="senäh | 17senäh und so…">Senäh</a> wird vermutlich auf dem aktuellen Level stagnieren und nur noch gelegentlich Posts abbekommen. <a href="http://www.ienno.de/" title="iEnno | Ein Macianer auf seinem Spielplatz">iEnno</a> ist mein Baby, ich spiele allerdings mit dem Gedanken es aufzugeben und stattdessen meinen Mac-Kram bei größeren Blogs zu lassen. Kooperation quasi. Das nimmt ein bisschen den (zugegebenermaßen hausgemachten) Druck, selbst für Nachschub zu sorgen. Ich mach das gern, aber nur ungern halbärschig.</p>
-
-<p>Außerdem reizt es mich doch immer mal wieder Musik zu machen. Ich erwische mich oft bei der Erinnerung an einen guten Freund und wie er vor mittlerweile 3 Jahren mal sagte: &ldquo;Enno ohne Musik? Das geht irgendwie gar nicht.&rdquo; Ich bin kein sonderlich begabter Musiker, jedoch wie bei allem, was ich gern mache, sehr leidenschaftlich dabei. Diese Leidenschaft ist die letzten 3 Jahre viel zu kurz gekommen. Das soll sich ändern. Jede Menge annehmbare Entwürfe halbfertig komponierter Songs schwirren auf meinem Rechner rum.<sup id="fnref:4"><a href="#fn:4" rel="footnote">4</a></sup> Die würde ich gern irgendwann mal in meinem eigenen, kleinen Homerecordingstudio<sup id="fnref:5"><a href="#fn:5" rel="footnote">5</a></sup> in MP3s verwandeln. Und wenn es nur ist um als alter, klappriger Mann mit Pfeife im Maul im Schaukelstuhl schwingend meinen Enkelennos alte Songs vorzuspielen und zu sagen &ldquo;hört mal, was sich Oppa früher für&#8217;n Mist zusammengekreischt hat&rdquo;.</p>
-
-<p>Ein weiteres Interessengebiet meinerseits: die Webentwicklung, quasi mein Beruf. Vermutlich arbeite ich zu viel. Ich arbeite gern in meinem aktuellen (Neben-)Job, weswegen die eine oder andere Stunde mehr mich selten kratzt. Außerdem ist jede Stunde gleichzeitig auch mehr Geld (womit wir wieder bei der Gelderkenntnis von oben wären). Aber objektiv betrachtet gibt es wichtigere Dinge im Leben als Arbeit, so viel Spaß sie auch macht. Ich werde noch so, so viele Jahre arbeiten, wenn ich fertig studiert habe. Da sollte ich doch im Jetzt stärker darauf bedacht sein meine kostbare Zeit mit etwas anderem zu verbringen, oder? Andererseits bringt es mich auch fachlich weiter. Und durch das bereits angesprochene Mehr an Geld eröffnen sich wieder andere Möglichkeiten (wie z.B. 7 Tage Mallorca). Außerdem nicht zu vergessen: Spaß macht es mir auch.</p>
-
-<p>Zwickmühle.</p>
-
-<h2>Finale Erkenntnis: alles bleibt anders.</h2>
-
-<p>Was haben wir also alles?</p>
-
-<ul>
-<li>Bloggen,</li>
-<li>Musik,</li>
-<li>Arbeit,</li>
-<li>Sport.</li>
-</ul>
-
-
-<p>Und daneben will man ja auch ab und an Zeit für sich, seine Liebsten, Freunde und Family haben. Es müssen also scheinbar ein paar liebgewonnene Prioritäten weichen, damit ich Anderen die Aufmerksamkeit widmen kann, die sie verdienen. Wie gesagt: es muss sich etwas ändern, ich weiß nur noch nicht ganz genau was.</p>
-
-<p>Und wenn du es tatsächlich durch diesen vor Selbsttherapie strotzenden Beitrag bis hierhin geschafft hast, lass mich dir sagen: <strong>ich hab dich lieb, Dankeschön!</strong></p>
-<div class="footnotes">
-<hr/>
-<ol>
-<li id="fn:1">
-<p>Wir sitzen alle im selben Büro. Von daher kommt man ab und zu ins Plaudern. Nur falls sich jemand wundern sollte, warum ich sowas mit meinen Chefs bequatsche.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
-<li id="fn:2">
-<p>An dieser Stelle ist etwas Luft für Ossiwitze.<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
-<li id="fn:3">
-<p><em>laufen</em>… <em>Anläufe</em>… got it?<a href="#fnref:3" rev="footnote">&#8617;</a></p></li>
-<li id="fn:4">
-<p>Guitar Pro FTW!<a href="#fnref:4" rev="footnote">&#8617;</a></p></li>
-<li id="fn:5">
-<p>Ich besitze ein okay-ishes Mikro, ein schniekes Audio-Interface, eine akustische und eine elektrische Gitarre inklusive Amp und sogar so etwas wie eine Gesangskabine habe ich hier rumstehen.<a href="#fnref:5" rev="footnote">&#8617;</a></p></li>
 </ol>
 </div>
 
