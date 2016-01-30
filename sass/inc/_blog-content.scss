@@ -8,6 +8,7 @@ $paragraphMargin: 27px;
     a {color:$textColor; transition:color 0.2s;
       &:hover {color:$linkColor; text-decoration:none;}
     }
+    sup a {color:$linkColor;}
   }
 
   h2 {max-width:$contentWidth; margin:42px auto 27px;}
