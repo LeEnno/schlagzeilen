@@ -12,7 +12,7 @@ Ich für meinen Teil bin niemand, der Werbung absolut verteufelt. Als Knirps hab
 
 Ehrlicherweise muss ich zugeben, dass Apple Keynotes, von denen ich eigentlich jede live mitverfolge, reine Werbeveranstaltungen sind. Und auch gegen die Werbeformen im Netz hatte ich eine lange Zeit nichts. Allerdings arten Werbebanner und die zugehörigen Tracker aus, und das seit Jahren.
 
-# Die Ambivalenz der Adblocker
+## Die Ambivalenz der Adblocker
 
 Immer wieder keimt eine größtenteils auf Kreise technisch versierter Nutzer beschränkte Debatte auf, ob Adblocker, also kleine Programme, mit denen Werbung auf Webseiten automatisch ausgeblendet wird, jetzt cool sind oder nicht. Dabei sind sich eigentlich alle einig, dass der derzeitige Stand der Werbung im Netz kaum tragbar ist, sich ohne die gängigen Werbenetzwerke wie Googles Adsense aber oft nur schwer auskommen lässt.
 
@@ -20,7 +20,7 @@ Während die Publisher (Blogger, Nachrichtenportale und andere Schreiberlinge) a
 
 Als Blogger habe ich selbst natürlich Empathie mit all den anderen da draußen, die ihre Texte kostenfrei und für jedermann zugänglich ins Netz stellen und bei dem Versuch sich zu refinanzieren einen kompromisslosen Mittelfinger vom Nutzer in Form eines Adblockers gezeigt bekommen. Darum verzichtete ich lange Zeit auf Blocker jeglicher Art.
 
-# Aufmerksamkeit um jeden Preis und die bloggersche Mitverantwortung
+## Aufmerksamkeit um jeden Preis und die bloggersche Mitverantwortung
 
 Bis zu jenem geschichtsträchtigen Tag, als ich am iPhone einen gern gelesenen Blog besuchte und als Werbemaßnahme direkt in den Appstore weitergeleitet wurde – ohne Umwege über Los und ohne 4.000 Mark einzuziehen. Während ich eigentlich einen gut geschrieben Blog-Artikel lesen wollte, öffnete sich die Detailseite eines "Age Of Empire"-Klons vor mir, natürlich in der Hoffnung gekauft zu werden.
 
@@ -32,7 +32,7 @@ An dem Punkt schmiss ich meine Empathie mit Anlauf volle Möhre gegen die Wand, 
 
 Und eins, liebe Bloggenden, müsst ihr euch bewusst machen: wenn sowas auf *eurer* Seite passiert, dann seid natürlich auch *ihr* dafür verantwortlich. Als Betreiber kann niemand sagen „ich vermiete zwar diese Werbefläche für Geld, aber was damit gemacht wird, da kann ich nichts für.“ Wenn ein Werbetreibender eure Seite als Plattform nutzt um schäbige Scheiße zu machen, tragt ihr eine Mitverantwortung. Nicht allein, nein, aber komplett von euch weisen, wie es mir gegenüber das ein ums andere Mal getan wurde, könnt ihr das auch nicht.
 
-# iOS 9 Content Blocker
+## iOS 9 Content Blocker
 
 Am Ende führen derartige Spannungen – und das hat die Geschichte gezeigt – zu einem perversen Kräfteringen zwischen "wie kriege ich mehr Aufmerksamkeit" auf der einen und "wie kriege ich diesen nervigen Scheiß abgestellt" auf der anderen Seite. Während Werbetreibende das Öffnen neuer Browser-Fenster für eine prima Idee hielten, implementierten Browser im Kampf um die Gunst der Nutzer Popup-Blocker, die heute fester Bestandteil moderner Browser sind.
 
@@ -42,7 +42,7 @@ Warum macht Apple sowas? Ziel Nummer 1: Konkurrent Google, die gutes Geld mit We
 
 Dadurch wurde die Debatte um Adblocker erneut und in einem von mir bisher nicht erlebten Ausmaß entfacht. Zum einen weil einige Webseitenbetreiber schweißgebadet auf ihre Zugriffsstatistiken starren und fürchten, dass jeglicher Traffic, der von Apple-Geräten ausgeht, keine Werbeeinnahmen mehr bringt. Zum anderen, weil Marco Arment, ein populärer App-Entwickler, seinen Adblocker keine 2 Tage nach Erscheinen [aus dem Appstore zurückzog](http://www.marco.org/2015/09/18/just-doesnt-feel-good "Just doesn’t feel good – Marco.org"), dadurch – einmal mehr – stark polarisierte und somit noch eine ganze Hand voll Leute mehr auf den "und hier ist meine Meinung zu Adblockern"-Zug aufsprangen. So wie ich jetzt.
 
-# Taten statt Diskussion
+## Taten statt Diskussion
 
 Wäre es nicht schön, wenn wir diesmal – statt uns weiter dem Wettrüsten zwischen Werbenden und Blockenden hinzugeben – tatsächlich eine sinnvolle, wie auch immer geartete Kompromisslösung finden? Solang wir darüber reden, bleibt das Thema zwar präsent und es wird über Alternativen diskutiert, aber eben auch nur das: diskutiert.
 
@@ -58,7 +58,7 @@ Statt die werbeblockende Masse von der eigenen Plattform auszuschließen, fahren
 
 [^abp_mobilegeeks]: Die eigenen Recherchen zu den [Machenschaften von Adblock Plus](http://www.mobilegeeks.de/adblock-plus-undercover-einblicke-in-ein-mafioeses-werbenetzwerk/ "Adblock Plus Undercover – Einblicke in ein mafioeses Werbenetzwerk | Mobilegeeks.de") sind sicher nicht ganz unschuldig an dieser Entscheidung.
 
-# Neben Links und Rechts existiert noch jede Menge Mitte
+## Neben Links und Rechts existiert noch jede Menge Mitte
 
 Nun sind das 2 Extreme, die durchaus etwas Spielraum für Zwischen- und/oder Hybridlösungen lassen. Was ich gern sehen würde ist ein Kompromiss, der beiden Seiten gerecht wird. Die Leser sollen beim lesen nicht genervt werden, die Schreiberlinge sollen ihre wohlverdiente Taler erhalten.
 
@@ -76,7 +76,7 @@ Und wo wir gerade in den Staaten sind: in den US-Podcasts, die ich höre, ist We
 
 Was ich damit sagen will: es gibt sie, die Alternativen, die nicht versuchen den Nutzer mit Werbung zu belästigen.
 
-# Und was ist mit dem kleinen Mann?
+## Und was ist mit dem kleinen Mann?
 
 Für einen kleinen Blogger, der seine Karriere gerade beginnt und lediglich eine Möglichkeit sucht, seine Serverkosten zu decken, sind Adsense & Co fast die einzige Maßnahme. Kein Werbender bezahlt für geringe Reichweite und kein Nutzer supportet jemanden, den er erst noch schätzen lernen muss. Dazu kommt, dass ein Werbenetzwerk wie Adsense angenehm wartungsfrei ist, was bedeutet, dass der jeweilige Autor sich um die Texte kümmern kann, statt sich mit der Verwaltung der Werbeplätze rumschlagen zu müssen.
 
@@ -88,7 +88,7 @@ Jeder sollte sich dennoch bewusst sein, dass das setzen von Bannern dieser Art g
 
 Solltest du – der kleine Blogger, der den kleinen Euro nebenbei verdienen möchte – das unterschreiben können: go for it.
 
-# Sowas wie ein Fazit
+## Sowas wie ein Fazit
 
 Alle anderen, nicht ganz so kleinen sollten sich meiner Meinung nach Gedanken dazu machen, wie sie einen Kompromiss aus Finanzierung und Nutzererlebnis schaffen können. Andernfalls geht das ewige Katz-und-Maus-Spiel zwischen grenzenlos aufmerksamkeitsgeilen Werbenden und den Nutzern, die Werbung zunehmend verachten und einfach wegblocken, weiter. Und alle Beteiligten verlieren.
 
