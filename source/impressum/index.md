@@ -18,7 +18,7 @@ Gibt's einen eigenen Menüpunkt für, aber für Faule:
 Angaben gemäß § 5 TMG und verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 Enrico Schlag  
-Kolonnadenstraße 8  
+Sebastian-Bach-Str. 45  
 04109 Leipzig
 
 ## Haftungsausschluss
