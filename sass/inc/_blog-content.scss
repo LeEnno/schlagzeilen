@@ -46,9 +46,10 @@ $paragraphMargin: 27px;
     img {display:block; margin-bottom:6px;}
   }
 
-  .emphasize {@extend .tldr; margin:0 auto; background:#eee;
+  .emphasize {@extend .tldr; margin:0 auto $paragraphMargin; background:#eee;
     ul {margin:10px 0;}
     &.archive-teaser p {margin-bottom:0;}
+    &.emphasize-center {text-align:center;}
   }
 
   .small-block {color:#aaa; line-height:1.33;}
@@ -73,3 +74,6 @@ iframe {display:block; max-width:100%; margin:0 auto $paragraphMargin;
 }
 
 video {max-width:100%; max-height:500px;}
+
+// overwrite generated inline styles
+twitterwidget {display:block; max-width:100%; margin:0 auto $paragraphMargin !important;}
