@@ -14,7 +14,7 @@ Es gab jedoch eine gehörige Ausnahme: Tom Searle. Ein Name, der Vielen sicher n
 
 Tom Searle war Gitarrist der Band Architects und hat am 20. August 2016 den 3-jährigen Kampf gegen Krebs verloren. Das hier ist mein zweiter Versuch, zu beschreiben wie ich die Zeit davor, währenddessen und danach erlebt habe.
 
-# Liebe auf den 17. Blick
+## Liebe auf den 17. Blick
 
 Die Architects sind so eine Band, an der man jahrelang erfolgreich vorbei lebt. Das erste Mal hab ich sie 2008 live gesehen, über die Jahre weitere Male, aber nie wirklich bewusst oder beabsichtigt. War halt eine Band, die gespielt hat, während ich auf andere Bands wartete. Das änderte sich, als sie den Posten der Vorband beim Parkway Drive Konzert im Januar 2016 übernahmen.
 
@@ -28,7 +28,7 @@ Nach dem Konzert habe ich mich wirklich in die Band verliebt. Das bis dahin jün
 
 Ich war im Jahre 2016 unter den [Top 1% der Spotify-Fans](https://twitter.com/EnnoBigBenno/statuses/808226507244105728 "Enno v. Lolsenstein auf Twitter: "Achievement Unlocked #spotify2016 https://t.co/a99ckL5IuX"") der Architects. Und bei der Musik allein blieb es nicht. Interviews, Podcasts, Dokumentationen – was ich kriegen konnte, habe ich mir angesehen und -gehört. Dadurch formte sich ein wesentlich konkreteres Bild von den Menschen, die hinter den Instrumenten stecken. Ich kannte das schon von Podcasts, diese seltsame einseitige und trotzdem erfüllende Vertrautheit. Kennenlernen, indem man fremden Menschen nur zuhört, sich ihrem Humor und ihren Meinungen aussetzt.
 
-# Tour-Abbruch und Highfield 2016
+## Tour-Abbruch und Highfield 2016
 
 Im Juni kam [diese seltsame Nachricht](https://www.facebook.com/architectsuk/posts/10154297244634433 "ARCHITECTS - Due to a family emergency Architects are... | Facebook"). Aufgrund eines Notfalls in der Familie mussten Touren durch Deutschland, Europa und USA abgesagt werden. Später stellte sich heraus, dass Gitarrist Tom Searle ins Koma versetzt wurde. Der Auftakt für den Weg bergab.
 
@@ -36,7 +36,7 @@ Im Juni kam [diese seltsame Nachricht](https://www.facebook.com/architectsuk/pos
 
 Dem zu entfliehen war glücklicherweise nicht schwer. Immerhin war ich auf einem Festival. Die Tage darauf waren jedoch seltsam.
 
-# Nachbeben
+## Nachbeben
 
 Was die Tage darauf an Texten und Fotos auf den Instagram-Accounts der Bandkollegen landete, war wirklich hart. [So schön und doch so hart](https://www.instagram.com/p/BJZ-N6GAsog/ "Dan Searle auf Instagram: „I'm so grateful to @edmasonphoto for capturing this beautiful photo of Tom. This was taken at Rock Im Park, just hours before Tom played…“"). Sam, den Sänger, bei der Ankündigung des letzten Songs, den er nach wie vor als den besten Song, den Tom jemals geschrieben hat, ankündigt, [mit den Tränen kämpfen zu sehen](https://www.youtube.com/watch?v=NYoFZqxEKyk "Sam Carter Tribute to Tom Searle, Live in Brisbane 2016 - YouTube"). Zu sehen, wie große Bands der Szene unter Tränen [ihren Tribut zollen](https://www.youtube.com/watch?v=mSQL6iVVrB8 "Parkway Drive - Home Is for the Heartless [tribute to Tom Searle, Architects] - YouTube"). Das alles war schwer mitzuerleben.
 
