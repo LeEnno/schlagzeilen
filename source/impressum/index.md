@@ -9,9 +9,7 @@ nach dem Telemediengesetz (TMG) der Bundesrepublik Deutschland.
 
 ## Kontakt
 
-Gibt's einen eigenen Menüpunkt für, aber für Faule:
-
-*enricoschlag (ätt) gmail [dott] com*
+per Mail: *enricoschlag (ätt) gmail [dott] com*
 
 ## Adresse
 
@@ -41,19 +39,7 @@ Die durch den Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 
 ## Datenschutz
 
-### Erhebung und Verarbeitung von Daten
-
-Jeder Zugriff auf diese Seite und jeder Abruf einer auf der Homepage hinterlegten Datei werden protokolliert. Die Speicherung dient internen systembezogenen und statistischen Zwecken. Protokolliert werden: Name der abgerufenen Datei, Datum und Uhrzeit des Abrufs, übertragene Datenmenge, Meldung über erfolgreichen Abruf, Webbrowser und anfragende Domain.
-
-Weitergehende personenbezogene Daten werden nur erfasst, wenn Sie diese Angaben freiwillig, etwa im Rahmen eines Kommentares, machen. Soweit Sie mir personenbezogene Daten zur Verfügung gestellt haben, verwende ich diese nur zur Beantwortung Ihrer Anfragen, zur Abwicklung mit Ihnen geschlossener Verträge und für die technische Administration. Der Schutz Ihrer personenbezogenen Daten bei der Erhebung, Verarbeitung und Nutzung anlässlich Ihres Besuchs auf meiner Homepage ist mir ein wichtiges Anliegen. Ihre Daten werden im Rahmen der gesetzlichen Vorschriften geschützt.
-
-Die Löschung der gespeicherten personenbezogenen Daten erfolgt, wenn Sie Ihre Einwilligung zur Speicherung widerrufen, wenn ihre Kenntnis zur Erfüllung des mit der Speicherung verfolgten Zwecks nicht mehr erforderlich ist oder wenn ihre Speicherung aus sonstigen gesetzlichen Gründen unzulässig ist.
-
-### Cookies
-
-Unsere Internetseiten verwenden an mehreren Stellen so genannte Cookies. Sie dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen. Cookies sind kleine Textdateien, die auf Ihrem Rechner abgelegt werden und die Ihr Browser speichert. Sie können in Ihrem Webbrowser jederzeit festlegen, wie Sie Cookies benutzen möchten. Sie können beispielsweise verhindern, dass unsere Internetseite/n auf Ihrem Computer Cookies speichert.
-
-Zudem können Sie die auf Ihrem Computer im Zug Ihrer Besuche unserer Internetseite abgelegten Cookies jederzeit löschen. Wir möchten Sie jedoch darauf hinweisen, dass Sie in diesem Fall nicht alle Funktionen unserer Internetseiten in vollem Umfang nutzen können. Cookies richten auf Ihrem Rechner keinen Schaden an und enthalten keine Viren.
+siehe [Datenschutzerklärung](/datenschutz "Datenschutzerklärung")
 
 ## Salvatorische Klausel
 
