@@ -4,7 +4,7 @@
   <title><![CDATA[Schlagzeilen]]></title>
   <link href="http://schlagzeilen.me/atom.xml" rel="self"/>
   <link href="http://schlagzeilen.me/"/>
-  <updated>2018-06-11T17:34:17+02:00</updated>
+  <updated>2018-10-07T18:25:22+02:00</updated>
   <id>http://schlagzeilen.me/</id>
   <author>
     <name><![CDATA[Enrico Schlag]]></name>
@@ -12,6 +12,106 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+    
+      <entry>
+        <title type="html"><![CDATA[Fahrlässiger Fotoverlust]]></title>
+        <link href="http://schlagzeilen.me/fotoverlust/"/>
+        <updated>2018-10-07T18:23:27+02:00</updated>
+        <id>http://schlagzeilen.me/fotoverlust</id>
+        <content type="html"><![CDATA[<p>Es war einmal zu Schulzeiten, als ich Teil einer miesen Kellerpunkband war. Wir waren gerade dabei ein paar Songs aufzunehmen und taten das mit den günstigsten uns zur Verfügung stehenden Mitteln auf meinem Rechner. Während des Aufnahmeprozesses, der sich über mehrere Wochenenden zog, musste der Rechner – ich weiß nicht mehr genau warum – zur Reparatur. Es hieß, dass vermutlich die Systemfestplatte ausgetauscht wird, die Datenfestplatte würde aber unberührt bleiben. Sure thing. Weil ich dem Frieden dennoch nicht so ganz traute, habe ich meiner Paranoia zumindest in Teilen nachgegeben und ein Backup der Projekte mit unseren Bandaufnahmen auf DVDs<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> gesichert.</p>
+
+<p>Ich würde die Geschichte nicht erzählen, wenn es nicht anders gekommen wäre. Der für die Reparatur verantwortliche Peilo hat zwar durchaus nur eine Festplatte gelöscht, allerdings die Falsche. Bumm. Alle meine Daten mit einem Schlag<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> weg.</p>
+
+<h2>Vermeidbarer Daten-GAU</h2>
+
+<p>Nach der ersten Panik erfolgte die Bestandsaufnahme: was genau ist jetzt alles weg? Die Aufnahmen hatte ich glücklicherweise in einem Anfall von Paranoia gesichert, alles andere nicht. Oder doch? 🤔 Hier und da lagen noch ein paar CDs rum mit Sicherungen der mit Hilfe von Kazaa &amp; Co über Jahre aufgebauten MP3-Sammlung. Auch die meisten Fotos und Emails – ja, es gab eine Welt vor IMAP – waren safe. Ich war also erstmal guter Dinge und hab alles wiederhergestellt. Es dauerte einige Tage bis mir auffiel, was die Trotteligkeit vom Reparaturmenschen nicht überlebt hat.</p>
+
+<p>Dadurch, dass ich jetzt sowas wie Aufnahmequipment daheim, einen Stundenplan mit teilweise 4 Freistunden und Freunde mit Führerschein hatte, sind wir manchmal zum Zeittotschlagen zu mir nach Haus gefahren um irgendeinen Stuss aufzunehmen. Darunter auch sagenhafte Cover von Avril Lavignes Complicated und ein Mega Freestyle auf den Beat von Xzibits X. Diese beiden Wunderwerke menschlicher Kunst und ein paar weitere Goldstücke waren für immer verschwunden.</p>
+
+<p>Es gab auch schon zu diesen Zeiten – also ca. 2005 – diese ominösen Wunderprogramme, die mithilfe von schwarzer Magie gelöschte Daten wiederherstellen können sollten. Auch das half in meinem Fall nicht.</p>
+
+<p>Warum erzähle ich das? Ich bin gebrandmarkt was Datenverlust angeht. Ich habe dieses traumatische – <strong>ja, traumatische!!!</strong> – Erlebnis gehabt und bin seitdem etwas vorsichtiger, was potentiellen Datenverlust angeht. Was wichtig ist um die Entstehung dieses Textes zu verstehen.</p>
+
+<h2>Y U No Use Datensicherung? 🙄</h2>
+
+<p>Das ein ums andere Mal konnte ich mir in der Vergangenheit einen zynischen Kommentar nicht verkneifen, wenn wieder einer dieser &ldquo;Mein Smartphone wurde geklaut, bitte lieber Dieb melde dich bei mir, weil da sind wichtige Fotos drauf&rdquo;-Beiträge in meine Timeline gespült wurde. Warum? Es ist heutzutage so, so einfach sich dagegen abzusichern.</p>
+
+<p>Was ist die für einen selbst wichtigste Funktion eines Smartphones? Ich würde vermuten bei den meisten wäre die Antwort die Möglichkeit über WhatsApp, Telegram und den Messenger der Woche mit Freunden und Verwandten in Kontakt zu bleiben sowie Fotos. Fotos schießen, Fotos austauschen, Fotos angucken. Nicht weil jedes davon auf eine Ausstellung gehört, sondern weil Fotos Emotionen und Erinnerungen triggern.</p>
+
+<p>In der vergangenen Woche ereigneten sich in meinem näheren Umfeld gleich 2 Vorfälle, bei denen Fotos unwiderruflich verloren gingen. Statt aber einmal mehr die Handfläche auf die Stirn zu klatschen, nutze ich die Gelegenheit um meinem Auftrag als &ldquo;du hast doch was mit Informatik studiert, ich hab da nämlich ein Problem&rdquo;-Ansprechpartner wahrzunehmen und Aufklärung zum Thema zu leisten. Fotos so zu sichern, dass sie bei einem Diebstahl, Verlust oder ins Klo fallen des Smartphones nicht verloren gehen, ist einfacher und günstiger denn je.</p>
+
+<p>Wenn sich all deine Erinnerungen in Fotoform nur auf einem Gerät befinden, sollten deine Alarmglocken schlagen.</p>
+
+<p>Lerne aus meinen Fehlern. Ich zeig auch wie. Keine Sorge, ich bin nicht Chip.de und schreibe auch nicht mehr für <a href="http://www.ienno.de/" title="iEnno | Ein Macianer auf seinem Spielplatz">iEnno</a> (R.I.P.). Wer eine ausführliche Abhandlung über die besten Backup-Strategien lesen möchte, betätige seine Suchmaschine oder frage mich persönlich. In diesem Text will ich nur einen möglichst schnellen Weg aufzeigen Fotos zu sichern. Sonst nichts.</p>
+
+<h2>Die Cloud ist deine Freundin</h2>
+
+<p>Generell gilt: Backups funktionieren am besten, wenn man sie einmal einrichtet und sich nie wieder drum kümmert. Das funktioniert in der Regel ganz gut mit der Synchronisation über Cloud-Dienste. Dabei werden Fotos dank der Magie des Internets von deinem Smartphone automatisch auf einen dafür geeigneten Rechner von Apple, Google &amp; Co kopiert. Ist gleich: Cloud.</p>
+
+<p>Vorteil Nummer 1: Hardware-Unabhängigkeit. Sollte dein Smartphone schwimmen gehen, deine Festplatte abrauchen oder deine Bude abbrennen, sitzen deine Fotos gemütlich irgendwo im Internet, bereit zu dir zurückzukehren, sobald du ein neues Smartphone gekauft hast.</p>
+
+<p>Vorteil Nummer 2: Fotos sind geräteübergreifend verfügbar. Man schießt ein Foto am Smartphone und ohne eigenes Zutun taucht das gute Stück nach kurzer Zeit am Tablet, Laptop, etc. auf.</p>
+
+<p>Nachteil: Du gibst die Datenhoheit über deine Fotos in die Hände eines externen Dienstleisters. In den meisten Fällen sollten besagte Dienstleister kein Interesse daran haben, mit den Fotos etwas anderes zu machen als sie für dich zu speichern und auf deine Bitte hin wieder auszuliefern. Aber man weiß ja nie, vor allem bei US-Diensten. Sei dir aber bewusst, dass Backups ohne diese Dienste zwar durchaus möglich, in der Regel aber komplizierter sind.</p>
+
+<h2>Smartphone: iCloud und Google Photos</h2>
+
+<p>Für iPhones und andere Apple-Geräte kann ich uneingeschränkt <a href="https://www.apple.com/de/icloud/" title="iCloud - Apple">iCloud</a> empfehlen. Es lassen sich dabei nicht nur Fotos sichern, sondern auch Kontakte, Kalender, Nachrichten und mehr. Auch das Backup des kompletten Geräts und die &ldquo;Mein iPhone suchen&rdquo;-Funktion sollte aktiviert werden. Ersteres macht die Wiederherstellung eines Gerätes beim Neukauf sehr einfach, letzteres stellt Diebe vor eine größere Herausforderung.<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup></p>
+
+<p>Für Android-Geräte bietet sich Googles eigener Fotodienst an, der passenderweise mit <a href="https://www.google.com/photos/about/" title="Google Fotos – Alle Ihre Fotos perfekt organisiert und einfach zu finden">Google Fotos</a> betitelt ist. Die Einrichtung ist auch hier recht easy. Beachten sollte man lediglich, dass die Fotos und Videos in Originalauflösung gespeichert werden.</p>
+
+<h2>Das Problem mit dem Speicherplatz</h2>
+
+<p>Beide Dienste sind prinzipiell kostenlos, es sei denn du überschreitest eine bestimmte Speichergrenze. Bei iCloud sind es (lächerliche) 5GB, bei Google Fotos 15GB.</p>
+
+<p>Zuerst solltest du dich fragen, welche Fotos und Videos du wirklich brauchst. Nur weil du am Abend vorher 100 Fotos geschossen hast, musst du nicht alle behalten. Such dir von den 5 ähnlichen Motiven das aus, was dir am meisten gefällt und lösch den Rest. Wer hat Lust sich durch eine Sammlung zu wühlen – egal ob zum suchen, in Erinnerung schwelgen oder zeigen – bei der jedes Foto in 17-facher Ausführung vorliegt?</p>
+
+<p>Ansonsten lässt sich der Speicher für 1 bis 2€ im Monat<sup id="fnref:4"><a href="#fn:4" rel="footnote">4</a></sup> aufstocken, was kein Hindernis sein sollte. Bei beiden Diensten kann man diesen Speicherplatz sogar innerhalb der Familie teilen.</p>
+
+<p>Wenn du genug Speicherplatz in der Cloud, allerdings zu wenig auf deinem Gerät hast, helfen dir die Dienste auch weiter. Bei iCloud kannst du eine Option namens &ldquo;<a href="https://support.apple.com/de-de/HT204264" title="iCloud-Fotos einrichten und verwenden - Apple Support">Speicher optimieren</a>&rdquo; aktivieren, bei Google Fotos nennt sich das Feature &ldquo;<a href="https://support.google.com/photos/answer/6128843?co=GENIE.Platform%3DAndroid&amp;hl=de" title="Speicherplatz auf dem Gerät freigeben - Android-Gerät - Hilfe für Google Fotos">Speicherplatz freigeben</a>&rdquo;. Dabei werden die Fotos in geringerer Auflösung (iCloud) bzw. gar nicht mehr (Google Fotos) auf dem Gerät gespeichert. Die voll aufgelösten Originale bleiben weiterhin in der Cloud und können – Internetverbindung vorausgesetzt – auch jederzeit auf dem Smartphone abgerufen werden.</p>
+
+<h2>Laptops &amp; Co: Google Drive und Dropbox</h2>
+
+<p>Das Prinzip der Synchronisation über die Cloud lässt sich auch am Rechner nutzen. Ich nutze <a href="https://www.google.com/drive/" title="Google Drive – Cloud-Speicherplatz und Datensicherung für Fotos, Dokumente und mehr">Google Drive</a> und <a href="https://www.dropbox.com/" title="Dropbox">Dropbox</a>.</p>
+
+<p>Nach der Installation gibt es einen Ordner, in den man Fotos schieben kann, die man in der Cloud sichern möchte. Möchte man Dateien und Ordner sichern, die bereits woanders auf der Festplatte liegen, lässt sich auch das in den Einstellungen bewältigen.</p>
+
+<h2>Für externe Festplatten gilt: Offsite Backups anlegen</h2>
+
+<p>Vielleicht hast du ein paar Daten bereits auf einer externen Festplatte gesichert. Sehr vorbildlich 👍 Festplatten gehen jedoch kaputt. Das ist keine Frage des <em>ob</em>, sondern des <em>wann</em>. Mir ist das glücklicherweise noch nie passiert, ein Kumpel aus jüngeren Jahren hat aber durch das Abrauchen seiner Festplatte damals™ ein paar selbst produzierte Songs verloren.</p>
+
+<p>Sei nicht wie mein Kumpel! Leg ein Backup von deinen externen Platten an. Besser noch: das Backup sollte an einem anderen Ort liegen als die Platte selbst. Die coolen Kids nennen das &ldquo;Offsite Backup&rdquo;.</p>
+
+<p>Warum? Falls es in deinem Haus brennt, Wasser durch die Decke kommt oder eingebrochen wird, verlierst du die Daten von deinem Laptop <em>und</em> deiner externen Platte auf einmal. Dem kann man vorbeugen durch ein Offsite Backup.</p>
+
+<p>Es gibt dafür Programme, die eine externe Festplatte automatisch in die Cloud (hello again 👋) synchronisieren, sobald sie verbunden ist, z.B. <a href="https://www.backblaze.com/" title="The Best Unlimited Online Backup and Cloud Storage Services">Backblaze</a>. Mit mehr manueller Arbeit verbunden, allerdings auch kostengünstiger ist das regelmäßige Synchronisieren mit einer weiteren externen Festplatte, die man – am besten mit einem Passwort gesichert – auf Arbeit oder bei Freunden lässt.</p>
+
+<h2>Bei Fragen: fragen!</h2>
+
+<p>Damit solltest du über ein gesundes Maß an Datensicherheit verfügen was deine Fotos angeht. Mir ist wichtig, dass dir klar wird: das Sichern deiner Fotos ist viel zu einfach und auch zu wichtig um es nicht zu tun.</p>
+
+<p>Solltest du dennoch irgendwelche Fragen haben: <a href="http://schlagzeilen.me/kontakt/" title="Kontakt - Schlagzeilen">ich bin hier</a>.</p>
+
+<p>HDGDL<br/>
+Dein freundlicher IT-Support aus dem Leipziger Westen</p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>externe Festplatten und USB-Sticks waren zu teuer, zu klein und einfach noch kein so richtiges Ding damals™<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<li id="fn:2">
+<p>Ich lese das Wort, kichere in mich hinein und mir fällt auf: ich kann keine Namenswitze mehr machen 😭 Der Ganze Titel dieses Blogs ergibt keinen Sinn mehr. Und das Impressum muss ich auch noch anpassen. Hiiiiilfeeeee.<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
+<li id="fn:3">
+<p>Mir hat das System im vergangenen Sommer gute Dienste geleistet, als ich mein iPhone auf einem Konzert verlor. Die ganze Geschichte erzähle ich aber an anderer Stelle mal ausführlicher.<a href="#fnref:3" rev="footnote">&#8617;</a></p></li>
+<li id="fn:4">
+<p><a href="https://support.apple.com/de-de/HT201238" title="iCloud-Speicherpläne und -preise - Apple Support">iCloud-Preise</a> (unter &ldquo;Euro&rdquo;), <a href="https://www.google.com/intl/de_ALL/drive/pricing/" title="Preisübersicht">Google-Preise</a><a href="#fnref:4" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+      </entry>
+    
   
     
       <entry>
@@ -1781,71 +1881,6 @@ Doch aus vielen Wassertropfen können Wasserfälle werden.</p></blockquote>
 <p>lies: ich war zu faul mit mehr als 2 verschiedenen Suchbegriffen danach zu googlen.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
 <li id="fn:2">
 <p>Für die, die es interessiert: das Ganze startete ursprünglich als Show von Herrn Böhmermann zusammen mit Klaas Heufer-Umlauf, damals unter dem Titel <em>Zwei alte Hasen</em>. Letzterer wurde 2012 dann durch Olli Schulz ersetzt, womit auch die Umbenennung zu Sanft &amp; Sorgfältig erfolgte. Die URL der <a href="http://www.radioeins.de/archiv/podcast/zwei_alte_hasen.htm/" title="Sanft &amp; Sorgfältig | radioeins">Webseite zum Podcast</a> trägt aber noch immer den alten Namen in sich.<a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
-</ol>
-</div>
-
-]]></content>
-      </entry>
-    
-  
-    
-      <entry>
-        <title type="html"><![CDATA[Liebe Hater des RB Leipzig, wir müssen reden.]]></title>
-        <link href="http://schlagzeilen.me/rb-leipzig/"/>
-        <updated>2014-05-18T16:29:06+02:00</updated>
-        <id>http://schlagzeilen.me/rb-leipzig</id>
-        <content type="html"><![CDATA[<p>Als ich in die zweiten Klasse war, kamen Stickerhefte wieder in Mode. Einkleben, handeln, tauschen. Besonders beliebt waren Korksticker. Eigentlich hässlich wie Hölle, aber irgendwie besonders. Und entsprechend teuer. Außerdem in jedem Heft vertreten: eine dedizierte Seite nur mit Borussia-Dortmund-Logos.</p>
-
-<p>Der BVB war damals angesagt, weil er auf einem guten Weg war die zweite Meisterschaft in Folge zu holen. Von da an war ich halt BVB-Fan. Irgendwie reingerutscht.</p>
-
-<p>In den folgenden Jahren hatte ich Fußball sehr interessiert verfolgt. Nicht nur, dass ich selbst angefangen habe, im Verein zu spielen – Germania Olvenstedt, AHU! – ich habe selbstverständlich auch dafür gesorgt, dass die Panini Stickeralben am Ende der Bundesligasaison möglichst vollständig waren.</p>
-
-<p>Das war aber auch alles scheiße aufregend damals. 1996. Dortmund wird Deutscher Meister, Deutschland Europameister. Im Jahr danach holt Schalke den UEFA Pokal. War zwar Schalke, aber immerhin eine deutsche Mannschaft, whoa. Ganz zu schweigen von dem 3:1 gegen Juventus Turin, das Dortmund im selben Jahr den Champions League Titel brachte. Es gibt wenige Fußball-Momente, an die ich mich so lebendig erinnere, wie das 3:1 von Lars Ricken. 15 Sekunden nach seiner Einwechslung der Siegtreffer mit der ersten Ballberührung. <a href="http://www.myvideo.de/watch/2315539/Lars_Ricken_CL_Finale_97" title="Lars Ricken, CL Finale 97 Video - Timmoe - MyVideo">Hach</a>.</p>
-
-<p>Während 1998 mit der Fußball-WM und vor allem dem Durchlauf von Kaiserslautern – der Aufsteiger aus der 2. Liga wird im Jahr darauf direkt Deutscher Meister – immer noch ziemlich dufte war, ebbte mein Interesse danach ab. Die Dominanz von Bayern München war einfach langweilig. Bis auf wenige Ausnahmen fehlten die Überraschungen. Seit 1999 gingen 10 der 16 Meisterschaften an Bayern. Nuff said.</p>
-
-<p>Fast Forward in die Gegenwart. Die Bayern, die im letzten Jahr Deutsche Meisterschaft, Champions League und den DFB-Pokal geholt haben und in diesem Jahr so schnell Deutscher Meister geworden sind wie keine Mannschaft vor ihnen, gewinnen gegen Dortmund im DFB-Pokalfinale mit 2:0. Die Dominanz ist noch immer ungebrochen. Während ich es ihnen in letztem Jahr <a href="http://www.hermsfarm.de/blog/fussballs-coming-home/" title="Fussball’s coming home | Herm's Farm">aus diesem Grund</a> gegönnt habe, bin ich mittlerweile einfach nur noch stinkig. Die Frage ist doch: warum ist diese Dominanz seit einem Jahrzehnt ungebrochen?</p>
-
-<h2>Totally unrelated: RB Leipzig</h2>
-
-<p>Gehen wir eine Spielklasse weiter nach unten. Ein Verein namens RB Leipzig gibt in der kommenden Saison sein Zweitligadebut. RB steht für <em>Rasenballsport</em>, eigentlich aber für <em>Red Bull</em>. Der Energy-Drink-Hersteller aus Österreich hat beschlossen, dass im Fußball viel Geld zu holen ist und möchte nun ein Stück vom Kuchen abhaben. Aus diesem Grund erblickte das <em>Projekt</em> RB Leipzig 2009 das Licht der Fußballwelt, damals noch in der Oberliga.</p>
-
-<p>2010 gelang der Aufstieg in die Regionalliga, dort dauerte es 3 Jahre, bis man mit der 3. Liga das nächste Level erreichte, um sich in diesem Jahr direkt einen Platz in Liga 2 zu sichern.</p>
-
-<p>Je näher RB der Bundesliga kommt – und der Aufstieg in diese ist das langfristige Ziel von Red Bull – desto mehr Aufmerksamkeit erregt der Verein. In der Regel wird RB vorgeworfen kein Traditionsverein zu sein und keine Fankultur zu haben. Der Club sei nichts weiter als ein Unternehmen, gegründet um aus dem Fußball so viel Geld rauszupressen wie möglich.</p>
-
-<p>Das Argument der Fankultur kann ich aufgrund der jungen Vergangenheit von RB nachvollziehen. Man kann zwar hinterfragen, ob die eher zurückhaltende und friedliche RB-Fangemeinde weniger wert ist, <a href="http://www.zeit.de/sport/2014-04/rb-leipzig-hansa-rostock-ostfussball" title="RB Leipzig: Der neue Osten besiegt den alten | ZEIT ONLINE">als die der &ldquo;Traditionsclubs&rdquo;</a>, aber Idioten gibt es überall. RB hat hier sicherlich auch noch unangenehmen Zulauf zu erwarten.</p>
-
-<p>Aber zu behaupten, in allen anderen Vereinen würde viel Wert auf Tradition gelegt werden, halte ich für etwas naiv. Und ja, jetzt geht der Rant los.</p>
-
-<h2>Die Tradition eures Clubs ist ein Märchen, hinter dem ihr euch versteckt</h2>
-
-<p>Eure Vereine haben genauso viel Sinn für Tradition wie ihre Spieler, die sich letzten Endes oft dahin orientieren, wo das meiste Geld liegt. Wer kann es ihnen verwehren. Fußballer erledigen auch nur ihren Job und wenn der woanders besser bezahlt wird&hellip;</p>
-
-<p>Doch worin seht ihr Tradition? Der Kader eures Vereins rotiert ständig, sodass ihr alle 5 Jahre eine komplett neue Mannschaft auf dem Rasen stehen habt. Hochgezogene Talente aus der eigenen Vereinsjugend sind selten, genauso wie Spieler, die über viele Jahre hinweg einem einzigen Verein treu bleiben.</p>
-
-<p>Vor allem wenn man sich Richtung Tabellenspitze orientiert, trifft man auf Mannschaften, wie ich sie beim <a href="http://www.coverbrowser.com/image/misc-games/463-1.jpg" title="463-1.jpg">DSF Fußball Manager 98</a><sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> nicht besser hätte zusammenkaufen können. Dort wo große Erfolge gefeiert werden, wird viel Geld gemacht. Geld, das u.a. dazu genutzt werden kann, um neue Spieler zu kaufen, damit der Erfolg weiterhin anhält und dieser Kreislauf am Leben erhalten wird.</p>
-
-<p>Der Profifußball ist bereits vom Kommerz zerfressen. Schon ziemlich lang. Man könnte argumentieren, dass es einen Unterschied macht, ob ein Verein über die Jahre zerfressen wurde, oder von vornherein nur als Geldmaschine ausgelegt ist. Aber mal ehrlich: macht es das wirklich?</p>
-
-<h2>Eure Tradition ist nicht die Tradition des Vereins</h2>
-
-<p>Was ihr meint, wenn ihr &ldquo;Traditionsclub&rdquo; sagt, ist <em>eure</em>, ganz persönliche Tradition. So wie ich angefangen habe BVB-Sticker zu sammeln, so habt ihr euren ganz individuellen Zugang zum Verein erlebt. Ihr habt über Jahre mit dem Verein gelitten und Erfolge mit Freudentränen gefeiert. Das ist <em>eure</em> Tradition, aber nicht die Tradition des Clubs. Denn der kennt sowas nicht.</p>
-
-<p>Der einzige Grund, warum ihr und vor allem die Verantwortlichen eures Vereins pissig sind, ist diese gefühlte Ungerechtigkeit. Von irgendwo her kommt ein großer Batzen Geld, der in einen Verein gesteckt wird – und ihr bekommt nichts ab. Ihr wisst ganz genau, das viel Geld dafür sorgen wird, dass RB über kurz oder lang in der ersten Liga spielen und eurem Club das Leben schwer machen könnte. Wegen der Geldmacht, die dahinter steckt. Und euch bleibt nichts weiter übrig als euch hinter <em>&ldquo;Na und? Dafür sind wir die cooleren mit Tradition und so!&rdquo;</em> zu verstecken.</p>
-
-<p>Und glaubt mir, ich kann das sehr gut nachvollziehen. Natürlich ist es nervig, wenn ein Verein einfach durch seine finanziellen Mittel gute Spieler aufkaufen und damit jegliches Potential ernstzunehmenden Wettbewerbs im Keim ersticken kann. Die Frage ist: meine ich im letzten Satz den FC Bayern oder RB Leipzig?</p>
-
-<p>Anders formuliert: das, was ihr befürchtet, ist längst Realität.</p>
-
-<p>Fehlende Fankultur und Tradition sind nur vorgeschobene Gründe. In Wahrheit fürchtet ihr einen zweiten FC Bayern München. Mein Mitleid hält sich aber in Grenzen. In einer Bundesliga, in der der einzige wirkliche Verfolger in 2 Jahren hintereinander mit Götze und Lewandowski seine besten Spieler an die sowieso schon dominierende Mannschaft abgibt, kann Geld keinen größeren Schaden mehr anrichten.</p>
-
-<p>Egal wie sehr ihr rumheult. Egal wie sehr ich rumheule.</p>
-<div class="footnotes">
-<hr/>
-<ol>
-<li id="fn:1">
-<p>Selbstverständlich inklusive Fanpack für die Saison 98/99.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
 </ol>
 </div>
 
