@@ -9,7 +9,7 @@ Als ihr über meinen [im Juni veröffentlichten Januar-Rückblick](/und-sonst-so
 
 Glücklicherweise habe ich noch nicht vergessen, dass ich vergesslich bin, und mir rechtzeitig entsprechende Notizen gemacht. Ein Gedächtnisprotokoll-Blogger-Lifehack™.
 
-# Royal Rumble
+## Royal Rumble
 
 Wie bereits angekündigt gab es zum mittlerweile 3. Mal ein gemeinsames Royal-Rumble-Gucken in meinen 4 Wänden. Der Royal Rumble ist eine jährlich stattfindende Wrestling-Großveranstaltung, dessen größte Attraktion und Namensgeber das Royal-Rumble-Match ist. Dabei kommen nach und nach 30 Wrestler – und in diesem Jahr erstmals auch Wrestlerinnen – im 90 Sekunden Abstand zum Ring. Wer über das oberste Seil aus dem Ring geworfen wird[^rumble_rules], scheidet aus. Wer zuletzt übrig bleibt, gewinnt und hat eine garantierte Möglichkeit auf ein Match gegen den aktuellen Champion.
 
@@ -19,13 +19,13 @@ In dem ca. 60 Minuten langen Spektakel passieren all die Dinge, die dieses Event
 
 Dieses Jahr hat sich das auch wieder gelohnt. Im letzten Jahr habe ich mich nur aufgeregt und daraufhin meine WWE-Network-Mitgliedschaft gekündigt. Dementsprechend war die Messlatte für einen Erfolg dieses Jahr sehr, sehr niedrig. Zwar waren die letzten beiden Teilnehmer, bei denen immer die Hoffnung auf große Überraschungen besteht, wieder enttäuschend. Dafür hat aber nicht wie so oft einer von den Alteingesessenen gewonnen, sondern mit Shinsuke Nakamura ein bis dato seit gerade einmal 9 Monaten in der WWE befindlicher Neuzugang aus Japan. Unüblich. Auch Finn Balor, einer meiner Favs, kam gut bei weg. Und Rey Mysterio, mein Fav in früheren Jahren, hatte für mich unerwartet ebenso einen Auftritt. Daumen hoch, gerne wieder.
 
-# Süßkartoffelpommes
+## Süßkartoffelpommes
 
 Seit geraumer Zeit steht bei uns eine von den Schwiegereltern überlassene Fritteuse in der Speisekammer, die wir nach langer Wartezeit im Februar endlich einweihten. Ziel war omnomnomme Süßkartoffelpommes selbst zu machen. Betrachtet man den zeitlichen Aufwand sowie den omnipräsenten Geruch und wiegt das gegen das enttäuschende Ergebnis auf, ist auch klar, warum wir das seitdem nicht noch mal probiert haben.
 
 Allerdings wird es tatsächlich diesen Mittwoch eine Wiederholung geben. Wenn es läuft wie bisher, schreibe ich dann im Juli 2020 darüber.
 
-# Zentralstadionentjungferung
+## Zentralstadionentjungferung
 
 Aufgrund einer Rabattaktion fanden wir uns zu fünft beim Bundesligaspiel des RB Leipzig gegen den FC Augsburg wieder. Es war arschkalt. Decken, Wärmepflaster und Eiszeitkleidung FTW! Es sollte der letzte Sieg des RBL in einer langen Zeit sein. Gern geschehen 🙏
 
@@ -33,7 +33,7 @@ Kulisse und Atmosphäre sind erstaunlich. In Magdeburg habe ich auch 2 Fußballs
 
 Wie bei einem Rammstein-Konzert empfehle ich das unbedingt weiter, wenn man es noch nicht erlebt hat, muss es aber selbst nicht noch mal machen. Dafür liegt mir der Sport nicht genug am Herzen und die Leute, mit denen man dort so sitzt, sind ein Querschnitt der Gesellschaft, d.h. zu viele Affen dabei. Mein Schwager wurde z.B. von der Security abtransportiert, nachdem Zuschauer ihm gegenüber handgreiflich wurden, weil er ihnen zu lang im Weg rumstand 🙄
 
-# Pisse und Fckr
+## Pisse und Fckr
 
 Zwar bin ich Gitarrist einer [Skatepunk-Band](https://www.youtube.com/watch?v=4_gU4WUG7s0 "Hematom – Follow Your Heart - YouTube"), dennoch kann ich mit dem Punk-Genre an sich immer weniger anfangen. In der Hardcore-Szene habe ich das Gefühl, dass der Fokus darauf liegt, die Welt tatsächlich zu einem besseren Ort zu machen, Empathie zu vermitteln und die Hoffnung am Leben zu halten – so hippiemäßig das auch klingen mag. Beim Punk, wie ich ihn erlebe, habe ich gelegentlich den Eindruck, dass alles Scheiße ist, darum alles egal ist bzw. die Lösung darin besteht, viel Alkohol zu trinken und rumzupöbeln.
 
@@ -49,7 +49,7 @@ In dem ausverkauften Laden herrschte eine astronomische Stimmung. Und es war kei
 
 Dennoch gilt auch hier: war lustig, aber muss nicht noch mal sein. Grüner Haken hinter.
 
-# Fielmanns Service Paradies
+## Fielmanns Service Paradies
 
 In Vorbereitung auf den anstehenden Neuseelandtrip hat sich gezeigt, dass wir neue Sonnenbrillen brauchen. Über die laut EU-Regelung ausreichenden 380nm-Brillen lacht sich die Sonne über der südlichen Hemisphäre kaputt. 400nm sind the real Deal.
 
@@ -65,13 +65,13 @@ Statt uns möglichst schnell abzufertigen um sich wieder den wesentlich zahlungs
 
 Wie man vielleicht merkt hat mich dieser Service und die Freundlichkeit der Mitarbeitenden bei Fielmann nachhaltig beeindruckt. Schade, dass ich für diese Ausführungen nicht bezahlt werde.
 
-# Quiz Night im English Room
+## Quiz Night im English Room
 
 Jetzt macht er schon wieder unbezahlte Werbung! Der [English Room](https://www.theenglishroom.de/de/home/ "The English Room") ist eine Kombination aus Sprachschule und Café bei uns um die Ecke. Halbwegs regelmäßig werden dort Quiz Nights veranstaltet. Ich kenne das aus anderen Lokalitäten in Leipzig und bin da generell so semi-heiß drauf. Mein quiz-fähiges Allgemeinwissen schwebt konstant auf dem Rookie-Level, was mir in solchen Situationen etwas in die Quere kommt.
 
 Es kam, wie es kommen musste. Meine einzigen beiden Beiträge zum Teamerfolg an dem Abend waren natürlich in den Bereichen Musik und Informatik angesiedelt. Zum Einen mussten Musikvideo-Screenshots einem Song zugeordnet werden. Zum Anderen sollte das Jahr geschätzt werden, in denen das Internet kommerzialisiert wurde. My time to shine!
 
-# Daredevil Staffel 2
+## Daredevil Staffel 2
 
 Jedem, der mich in der Vergangenheit nicht genervt zum Stillschweigen bewogen hat, erzähle ich immer und immer wieder, dass Daredevil für mich die beste Serie ever ist. Natürlich auch meiner besseren Hälfte. Darum ließ sie sich schließlich doch darauf ein, mit mir die beiden bis dato veröffentlichen Staffeln anzutun.
 
@@ -79,7 +79,7 @@ Auch beim für mich zweiten Mal Durchsehen der zweiten Staffel die gleiche Erken
 
 Und wo wir gerade dabei sind: Staffel 3 gab es diesen Monat und es ist die Beste von allen. Liebe neu entfacht.
 
-# Freiberg-Auftritt
+## Freiberg-Auftritt
 
 Am Abend vor dem Start des Neuseelandtrips gab es noch einen Gig zu giggen im TrainControl in Freiberg. Für mich der bis dato beste Auftritt. Das Team war gut drauf, der Ton auf der Bühne hat das erste Mal wirklich gestimmt und es hat alles gepasst irgendwie.
 
@@ -87,6 +87,6 @@ Vielleicht lag es daran, dass ich wusste, dass mein Urlaub am nächsten Tag begi
 
 Gute Zeit gewesen, würde dort auch jederzeit wieder spielen.
 
-# Und sonst so?
+## Und sonst so?
 
 Schön war auch, dass ich dem Schneechaos Ende Februar entkommen bin, weil wir rechtzeitig abgehauen sind um uns eine wunderschöne Zeit in Neuseeland zu machen. Dazu wird es selbstverständlich auch noch etwas zu lesen geben – mehr als einmal. Aber wie ihr wisst, will gut Ding vor allem hier Weile haben.
