@@ -14,7 +14,7 @@ Den Großteil des Märzes habe ich auf der anderen Seite der Welt verbracht. Es 
 
 ![Hach](file:///Users/Enno/Sites/github/schlagzeilen/source/images/content/uss3_nz.jpg)
 
-Im [Februar-Artikel](/und-sonst-so-februar-2018/ "Und sonst so – Februar 2018 - Schlagzeilen") erwähnte ich bereits, dass ich in einem eigenen Artikel ausführlicher etwas dazu schreiben werden. Darum zum stillen des ersten Appetits ein paar Highlights:
+Im [Februar-Artikel](/und-sonst-so-februar-2018/ "Und sonst so – Februar 2018 - Schlagzeilen") erwähnte ich bereits, dass ich in einem eigenen Artikel ausführlicher etwas dazu schreiben werde. Darum zum Stillen des ersten Appetits ein paar Highlights:
 
 - menschliche Stop/Go-Ampeln
 - viele einsame Buchten mit solidem Wellengang
