@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Als ich mich aufmachte nicht-nervige Kopfhörer zu finden"
-date: 2019-01-06 13:53:32 +0100
+date: 2019-01-07 09:56:32 +0100
 excerpt: "Die letzten beiden Monate habe ich mich unfreiwillig viel mit In-Ear-Kopfhörern für unterwegs auseinander gesetzt. Derzeit befinden sich 4 verschiedene Paare in meinem Besitz. Meine damit gemachten Erfahrungen und die üblichen Irrungen und Wirrungen werde ich im folgenden schildern."
 tldr: "Weniger Kabel (Anker) ist gut, keine Kabel aber besser. Umgebungsgeräusche abdämpfen (Bose) und korrekte Balance (Jabra) sind bei In-Ears nicht so selbstverständlich, wie man meinen sollte. Bang & Olufsen hab ich vorher nie gehört, erfüllt aber all meine Wünsche."
 ---
