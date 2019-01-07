@@ -18,7 +18,7 @@ Im [Februar-Artikel](/und-sonst-so-februar-2018/ "Und sonst so – Februar 2018 
 
 - menschliche Stop/Go-Ampeln
 - viele einsame Buchten mit solidem Wellengang
-- jede Menge Hunde auf Pickup-Lädeflächen
+- jede Menge Hunde auf Pickup-Ladeflächen
 - Possums sind süß aber die größte Bedrohung der Artenvielfalt
 - Linksverkehr kann ein Arschloch sein
 - Englisch ist nicht gleich Englisch
