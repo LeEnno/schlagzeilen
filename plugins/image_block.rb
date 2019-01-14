@@ -5,11 +5,12 @@ module Jekyll
         src   = "/images/content/#{$2}"
         title = $3
         
-        "<p class='image-block'>" +
+        "<figure class='image-block'>" +
           "<a href='#{src}' title='#{title}'>" +
             "<img src='#{src}' alt='#{title}' />" +
           "</a>" +
-        "</p>"
+          "<figcaption class='image-caption'>#{title}</figcaption>" +
+        "</figure>"
       end
     end
   end
