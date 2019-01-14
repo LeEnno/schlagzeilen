@@ -46,7 +46,7 @@ Ich nutzte die Kopfhörer weiter, störte mich im Laufe der Zeit etwas an den Pr
 
 Darum schielte ich in Richtung Kopfhörer mit Ladeetui, das die Kopfhörer automatisch lädt, sobald man diese darin verstaut. Dann braucht das Ladeetui zwar regelmäßig Saft, aber die Kopfhörer selbst haben immer eine – hoffentlich ausreichende – Restladung.
 
-![Lade-Cases der 3 komplett kabellosen Kopfhörer Paare](file:///Users/Enno/Sites/github/schlagzeilen/source/images/content/headphones/etuis.jpg)
+![Lade-Cases der 3 komplett kabellosen Kopfhörer-Paare](file:///Users/Enno/Sites/github/schlagzeilen/source/images/content/headphones/etuis.jpg)
 
 Apples Airpods wurden von sehr vielen Seiten in den Himmel und darüber hinaus gelobt. Nach etwas Recherche stellte sich aber raus, dass wie alle Apple-Kopfhörer auch die Airpods das Problem hatten nicht in alle Ohren zu passen. Individuelle Aufsätze, wie sie bei so ziemlich *allen* Konkurrenzprodukten beiliegen? Fehlanzeige. Wer aus dem Raster der Normohren fällt, schaut in die Röhre.
 
