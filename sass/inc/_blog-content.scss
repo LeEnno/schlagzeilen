@@ -11,7 +11,7 @@ $paragraphMargin: 27px;
     sup a {color:$linkColor;}
   }
 
-  h2 {max-width:$contentWidth; margin:42px auto $paragraphMargin; word-break:break-all;}
+  h2 {max-width:$contentWidth; margin:42px auto $paragraphMargin; word-wrap:break-word;}
   .changelog-title {margin-top:0; margin-bottom:18px;
     @include responsive() {padding:0;}
   }
