@@ -18,7 +18,7 @@ Warum erzähle ich das? Weil dies einer der Faktoren in der allgemein anerkannte
 
 Umso erwähnenswerter ist es, wenn sich doch mal ein Anlass ergibt, der mich dazu bewegt etwas später den Heimweg anzutreten. Fast schon traditionsgemäß liege ich nach der Geburtstagsfeier eines Freundes Anfang Oktober selten vor 6 im Bett. Ich nehme mir das nie wirklich vor, es geschieht aber trotzdem jedes Mal. Viele Flaschen Mate, lecker Futti, Mario Kart und eine Runde "Wer bin ich?", in der ich als Pipi Langstrumpf den vorletzten Platz abstaubte, waren in diesem Jahr der Grund dafür.
 
-Außergewöhnlicherweise ist mir Ähnliches nicht nur im gleichen Jahr, sondern sogar im gleichen Monat widerfahren ist. Bei einem weiteren Geburtstag in illustrer Runde wurde viel gequatscht und vor allem Nachtfrisbee gespielt. Beste. Erfindung. Jemals. So manche Gelenke an meiner Hand teilten diese Auffassung am Tag danach nicht, aber ich kann das uneingeschränkt weiterempfehlen.
+Außergewöhnlicherweise ist mir Ähnliches nicht nur im gleichen Jahr, sondern sogar im gleichen Monat widerfahren. Bei einem weiteren Geburtstag in illustrer Runde wurde viel gequatscht und vor allem Nachtfrisbee gespielt. Beste. Erfindung. Jemals. So manche Gelenke an meiner Hand teilten diese Auffassung am Tag danach nicht, aber ich kann das uneingeschränkt weiterempfehlen.
 
 ## Wie ich mich mit Stress stresse
 
